@@ -1917,7 +1917,7 @@ def ask_gemini_general(question: str, lang: str) -> str:
     company_address = "No. 50 Lunsemfwa Rd, Kalundu, Lusaka, Zambia"
     company_email   = "hello@dawa-health.com"
     company_website = "https://dawa-health.com/"
-    company_phone   = "+260 977 985 063"
+    company_phone   = "+260 571 376 677"
 
     instruction_body = {
         "shona": (
@@ -2234,3 +2234,4 @@ def webhook():
 if __name__ == "__main__":
     load_user_states()
     app.run(host="0.0.0.0", port=5000, debug=True)
+
