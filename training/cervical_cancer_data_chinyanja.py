@@ -1,505 +1,503 @@
-cervical_cancer_data_chinyanja = (
+cervical_cancer_data_chinyanja_modern = (
 "**Category-Cervical Cancer FAQs**\n"
+
 "*Question 1:*\n"
-"-  Cervical cancer ndi chiyani?\n"
+"-  Cervical cancer ni chani?\n"
 '''Answer    
-    - Cervical cancer ndi matenda a chibwano (cervix) --- gawo la m'munsi la chiberekero (uterus) lomwe limalumikizana ndi msampha wa chibereko (vagina). Ndi matenda achiwiri omwe amapezeka kwambiri mwa akazi padziko lonse, ndipo ndi matenda oyamba ampezeka kwabiri mwa akazi mu chalo cha Zambia. Ndi matenda omwe angathe kupewedwa komanso kuchiritsidwa, makamaka akazindikilidwa msanga. \n\n''',
+    - Cervical cancer ni khansa ya pa cervix. Cervix ni kusegula chiberekero. Vuto iyi imapezeka kwambiri kwa azimai, koma ingalekeze ngati munthu atenga HPV vaccine, achita screening, komaso atenga chithandizo fast ngati test yaonetsa vuto. \n\n''',
 
 "*Question 2:*\n"
-"-  Chibwano (cervix) ndi chiyani ndipo chipezeka kuti muthupi?\n"
+"-  Cervix ni chani ndipo ili kuti mu body?\n"
 '''Answer    
-    - Chibwano (cervix) ndi gawo la m'munsi la chiberekero (uterus), lomwe limakhala ngati njira yolumikiza chiberekero ndi msampha wa chibereko (vagina). Ndi njira yomwe mwana amadutsa akabadwa. \n\n''',
+    - Cervix ni kusegula chiberekero. Ili ku mbali ya pansi ya chiberekero, pamene chiberekero chimakumana na vagina. Ni njira yamene mwana amadutsa akabadwa. \n\n''',
 
 "*Question 3:*\n"
-"-  kodi ndi chiyani chimalengetsa cervical cancer?\n"
+"-  Chimayambitsa cervical cancer ni chani?\n"
 '''Answer    
-    - Pazifukwa zambiri, cervical cancer imayamba chifukwa cha kachilombo ka Human Papilloma Virus (HPV). HPV ndi kachilombo komwe kamafalikira kudzera pa kugonana. Ngakhale thupi limatha kuchotsa kachilombo ka HPV pa anthu ambiri, nthawi zina kachilombo kakakhala nthawi yayitali m'thupi, kamayambitsa kusintha kwa maselo (cells) a chibwano (cervix), zomwe zingayambitse cancer. \n\n''',
+    - Nthawi zambiri cervical cancer imayamba chifukwa cha HPV. HPV ni virus yamene imafalikira mostly pa sex. Body ya anthu ambiri imatha kuchotsa HPV, koma ikakhala mu body nthawi yayitali, inga chinje ma cells ya pa cervix mpaka kuyambitsa cancer. \n\n''',
 
 "*Question 4:*\n"
-"-  HPV ndi chiyani ndipo chikugwirizana bwanji ndi cervical cancer?\n"
+"-  HPV ni chani ndipo imagwirizana bwanji na cervical cancer?\n"
 '''Answer    
-    - HPV (Human Papilloma Virus) ndi gulu la tuzilombo twa ma virus oposa 200. Pafupifupi mitundu 40 imafalikira kudzera pa kugonana. Mitundu ya HPV yomwe ili ndi chiwopsezo chachikulu --- makamaka mitundu 16 ndi 18 --- ndiyo imayambitsa matenda ambiri a cervical cancer. Kachilombo ka HPV kamatha kusintha maselo (cells) a chibwano (cervix) kukhala maselo omwe angayambitse cancer ngati sakuchiritsidwa kwa nthawi yayitali. \n\n''',
+    - HPV ni gulu la ma virus oposa 200. Ena amafalikira pa sex. Mitundu ya high-risk HPV, mostly type 16 na 18, ndiyo imayambitsa cervical cancer zambiri. HPV ikakhala mu body nthawi yayitali, inga chinje ma cells ya pa cervix mpaka kuyambitsa cancer. \n\n''',
 
 "*Question 5:*\n"
-"-  Kodi cervical cancer imafalikira kwa anthu ena?\n"
+"-  Cervical cancer imafalikira kwa munthu wina?\n"
 '''Answer    
-    - Cervical cancer payokha siyimafalikira. Koma kachilombo komwe kamayambitsa matendawa (HPV) kamafalikira kwambiri kudzera pa kukhudzana kwa khungu ndi khungu, makamaka pa kugonana. \n\n''',
+    - Iyayi. Cervical cancer payokha siyifalikira. Koma HPV, virus yamene imayambitsa cervical cancer, imafalikira mostly pa sex kapena kukhudzana kwa khungu pa malo obisika. \n\n''',
 
 "*Question 6:*\n"
-"-  Kodi ndingatenge HPV kudzera pa kukhudzana kopanda kugonana?\n"
+"-  Ningatenge HPV popanda sex?\n"
 '''Answer    
-    - HPV imafalikira makamaka kudzera pa kukhudzana kwa khungu pa kugonana. Ngakhale kuli kotheka kuti kachilombo kakhalepo pa zinthu zina, kufalikira kudzera pa zinthu monga mipando ya chimbudzi kapena thaulo ndi kochepa kwambiri. \n\n''',
+    - HPV imafalikira mostly pa sex kapena kukhudzana kwa khungu pa malo obisika. Kutenga HPV kuchokera pa toilet seat, towel, kapena zinthu zina ni rare kwambiri. \n\n''',
 
 "*Question 7:*\n"
-"-  Kodi zizindikiro zoyambirira za cervical cancer ndi zotani?\n"
+"-  Ma symptoms oyamba a cervical cancer ni ati?\n"
 '''Answer    
-    - Pa nthawi yoyambirira, cervical cancer nthawi zambiri imakhala yopanda zizindikiro. Ndicho chifukwa chake kupimitsa cervical cancer pafupipafupi n'kofunika kwambiri. Pamene cancer ikukula, zizindikiro zingaphatikizepo kutuluka kwa magazi kuchokera m'msampha wa chibereko (vagina), (pakati pa nthawi ya mwezi, pambuyo pa kugonana, kapena pambuyo pa kusiya kupita ku mwezi), kutuluka kwa madzi onyansa ku ukazi, kapena kupweteka pa kugonana. \n\n''',
+    - Poyamba, cervical cancer nthawi zambiri ilibe ma symptoms. Ndicho chifukwa screening ni important. Ikakula, munthu angaone magazi osayembekezereka, magazi after sex, magazi after menopause, madzi onunkha ku vagina, kapena kupweteka pa sex. \n\n''',
 
 "*Question 8:*\n"
-"-  Ndine mtsikana wachichepere; kodi ndiyenera kuda nkhawa ndi cervical cancer?\n"
+"-  Ndine young girl, nide nkhawa na cervical cancer?\n"
 '''Answer    
-    - Ngakhale chiwopsezo chachikulu cha cervical cancer chimakhala kwa akazi opitilira zaka 30, ndi kofunika kuti atsikana achichepere akhale oziwa za matendawa. Kachilombo ka HPV kamapezeka kwambiri kwa anthu achichepere omwe ali pa kugonana mpaka zaka 25. Kulandira katemera wa HPV ndi kuyamba kupimitsa pa nthawi yoyenera ndi njira yabwino yodzichinjiriza. \n\n''',
+    - Cervical cancer imapezeka kwambiri kwa azimai opitilira zaka 30, koma atsikana ayenera kudziwa za vuto iyi. HPV imapezeka kwambiri kwa achinyamata amene ali sexually active. Kutenga HPV vaccine na kuchita screening pa nthawi yake kungathandize kulekeza vuto iyi. \n\n''',
 
 "*Question 9:*\n"
-"-  Kodi zinthu zomwe zimayambitsa cervical cancer ndi zotani?\n"
+"-  Zinthu zamene zimawonjezera chance ya cervical cancer ni ziti?\n"
 '''Answer    
-    - Chinthu chachikulu chomwe chimayambitsa cervical cancer ndi kachilombo ka HPV komwe kakhalapo kwa nthawi yayitali. Zinthu zina zomwe zingawonjezere chiwopsezo ndi kukhala ndi okondedwa angapo, kuyamba kugonana ali wachichepere, kukoka fodwa, kukhala ndi chitetezo chochepa cha m'thupi (monga ali ndi matenda ya HIV), komanso kkhala ndi mimba zambiri. \n\n''',
+    - Chinthu chikulu ni HPV yamene yakhala mu body nthawi yayitali. Zina ni kukhala na ma partner ambiri, kuyamba sex uli young, kusuta fodya, kukhala na immune system yochepa monga HIV, komaso kukhala na mimba zambiri. \n\n''',
 
 "*Question 10:*\n"
-"-  Kodi ndingapewe cervical cancer?\n"
+"-  Ningalekeze cervical cancer?\n"
 '''Answer    
-    - Inde, cervical cancer ndi matenda omwe angathe kupewedwa. Njira yabwino kwambiri yopewera ndi kupewa koyamba (katemera wa HPV) komanso kupewa kwachiwiri (kupimitsa pafupipafupi monga Pap smear kapena VIA kuti azindikile maselo (cells) osiyanasiyana asanakhale cancer). \n\n''',  
+    - Yes, cervical cancer ingalekeze. Njira zazikulu ni kutenga HPV vaccine, kuchita screening nthawi zonse monga Pap smear kapena VIA, komaso kutenga chithandizo fast ngati ma cells ya pa cervix yaonetsa kusintha. \n\n''',
 
 "*Question 11:*\n"
-"-  Kodi katemera wa HPV ndi chiyani?\n"
+"-  HPV vaccine ni chani?\n"
 '''Answer    
-    - Katemera wa HPV ndi katemera wotetezeka komanso wogwira ntchito kwambiri woteteza mitundu ya HPV yomwe imayambitsa cervical cancer kawirikawiri. Katemera amakhala wogwira ntchito kwambiri akaperekedwa munthu asanayambe kugonana. \n\n''',
+    - HPV vaccine ni vaccine yamene imathandiza body kuleka kutenga mitundu ya HPV yamene imayambitsa cervical cancer. Imagwira bwino kwambiri ngati munthu atenga vaccine asanayambe sex. \n\n''',
 
 "*Question 12:*\n"
-"-  Kodi ndani ayenera kulandira katemera wa HPV?\n"
+"-  Ndani ayenera kutenga HPV vaccine?\n"
 '''Answer    
-    - Katemera imafunikira kupatsidwa kwa atsikana ndi anyamata asanakwane msinkhu wa unyamata, nthawi zambiri pakati pa zaka 9 mpaka 14. Imafunikira kupatsidwa kwa achinyamata, azimayi ndi azibambo mpaka zaka 26, kapena nthawi zina mpaka zaka 45 ngati sanalandire katemera kale. \n\n''',
+    - HPV vaccine imaperekedwa mostly kwa atsikana na anyamata ali pakati pa zaka 9 mpaka 14. Ena achinyamata, azimai, na azibambo mpaka zaka 26 angatenge vaccine ngati sanatenge kale. Ena mpaka zaka 45 angatenge malinga na advice ya doctor kapena nurse. \n\n''',
 
 "*Question 13:*\n"
-"-  Kodi katemera wa HPV ulichabe bwino?\n"
+"-  HPV vaccine ili safe?\n"
 '''Answer    
-    - Inde. Katemera wa HPV wayesedwa kwambiri ndipo amadziwika kuti ndi wabwino komanso wogwira ntchito. Zotsatira zochepa monga kupweteka kapena kufiira pamalo operekera katemera (injection site) zimachitika koma zimatha mwachangu. \n\n''',
+    - Yes. HPV vaccine inayesedwa bwino ndipo ili safe. Zotsatira zazing'ono zingakhale kupweteka kapena kufiira pa injection site, koma zimatha fast. \n\n''',
 
 "*Question 14:*\n"
-"-  Kodi Pap smear ndi chiyani?\n"
+"-  Pap smear ni chani?\n"
 '''Answer    
-    - Pap smear ndi kupimidwa komwe kumatenga maselo (cells) kuchokera pa chibwano (cervix) kuti aone ngati pali kusintha kosiyanasiyana komwe kungayambitse cancer. \n\n''',
+    - Pap smear ni test yamene imatenga ma cells pang'ono kuchokera pa cervix kuti aone ngati pali kusintha kwamene kungayambitse cancer. \n\n''',
 
 "*Question 15:*\n"
-"-  Kodi ndiyenera kuchita Pap smear kangati?\n"
+"-  Ndichite Pap smear kangati?\n"
 '''Answer    
-    - Malangizo a kupimitsa amasiyana kutengera msinkhu ndi malo. Bungwe la American Cancer Society limalangiza kuti azimayi azaka 21 mpaka 29 azichita Pap test zaka zitatu zilizonse. Kwa azimayi azaka 30 mpaka 65, amalimbikitsa Pap test ndi HPV test (co-testing) zaka zisanu zilizonse, kapena Pap test yokha zaka zitatu zilizonse. \n\n''',
+    - Zimadalira zaka na malo. Azimai a zaka 21 mpaka 29 nthawi zambiri amachita Pap test every 3 years. Azimai a zaka 30 mpaka 65 angachite Pap test na HPV test every 5 years, kapena Pap test yokha every 3 years. \n\n''',
 
 "*Question 16:*\n"
-"-  Kodi VIA test (Visual Inspection with Acetic Acid) ndi chiyani?\n"
+"-  VIA test ni chani?\n"
 '''Answer    
-    - VIA ndi njira yotsika mtengo yochitira screening yomwe imagwiritsidwa ntchito m'maiko ambiri omwe ali ndi ndalama zochepa. Wochita zaumoyo amaika madzi ofanana ndi viniga (acetic acid) pa cervix (chibwano), kenako amayang'ana ndi maso kuti aone ngati pali malo oyera, omwe angasonyeze maselo (cells) omwe ali pa chiopsezo cha cancer. \n\n''',
+    - VIA ni screening yosavuta komanso yotsika mtengo. Nurse kapena doctor amaika madzi ngati vinegar pa cervix, kenako amaona ngati pali malo oyera yamene angasonyeze ma cells ali pa risk ya cancer. \n\n''',
 
 "*Question 17:*\n"
-"-  Kodi Pap smear kapena VIA test zimapweteka?\n"
+"-  Pap smear kapena VIA test zimapweteka?\n"
 '''Answer    
-    - Azimayi ambiri amamva kusapeza bwino pang'ono, koma siziyenera kupweteka. Amagwiritsa ntchito chida chotchedwa speculum kuti aone cervix, kenako amagwiritsa ntchito burashi yaying'ono kuti atenge maselo (cells). Ngati mukumva kupweteka, dziwitseni wochita zaumoyo. \n\n''',
+    - Azimai ambiri amangomva discomfort pang'ono. Siziyenera kupweteka kwambiri. Nurse amagwiritsa ntchito speculum kuti aone cervix, kenako amatenga ma cells pang'ono. Ngati zikupweteka, uzani nurse kapena doctor. \n\n''',
 
 "*Question 18:*\n"
-"-  Nanga ngati zotsatira za zopimidwa (screening) zili zosiyana ndi mwachibadidwe?\n"
+"-  Ngati screening results si normal, zikutanthauza chani?\n"
 '''Answer    
-    - Zotsatira zosiyana ndi mwachibadidwe sizitanthauza kuti muli ndi cancer. Zimangotanthauza kuti maselo (cells) osiyanasiyana apezeka, ndipo muyenera kuchita mayeso ena monga colposcopy ndi biopsy kuti mudziwe bwino. \n\n''',
+    - Zotsatira zosakhala normal sizitanthauza kuti muli na cancer. Zimangotanthauza kuti ma cells ena yaoneka osiyana, ndipo mungafunike ma test ena monga colposcopy kapena biopsy. \n\n''',
 
 "*Question 19:*\n"
-"-  Kodi ngati HPV test ili positive, zikutanthauza kuti ndili ndi cancer?\n"
+"-  HPV test ikati positive, ndiye kuti nili na cancer?\n"
 '''Answer    
-    - Ayi. HPV positive imangotanthauza kuti muli ndi mtundu wa HPV wochititsa cancer, koma sizitanthauza kuti muli ndi cancer. Ma HPV ambiri amachotsedwa ndi thupi mkati mwa zaka ziwiri, ndipo ochepa okha ndi amene amakhala ndi cancer. \n\n''',
+    - Iyayi. HPV positive si kuti muli na cancer. Zimangotanthauza kuti muli na mtundu wa HPV yamene ingayambitse cancer. Ma HPV ambiri amachoka mu body mkati mwa zaka ziwiri, koma muyenera kutsatira advice ya nurse kapena doctor. \n\n''',
 
 "*Question 20:*\n"
-"-  Kodi cancer ya cervix imazindikiridwa bwanji?\n"
+"-  Cancer ya cervix imadziwika bwanji?\n"
 '''Answer    
-    - Ngati zotsatira za screening zili zosiyana, dotolo amachita colposcopy kuti aone cervix bwino. Pa nthawi imeneyi, amatenga chitsanzo cha minofu (biopsy) chomwe amapita nacho ku lab kuti aone ngati muli ndi maselo (cells) a khansa. \n\n''',
-
+    - Ngati screening yaonetsa vuto, doctor amachita colposcopy kuti aone cervix bwino. Pa nthawi imeneyo, angatengemo sample ya minofu, yamene imatchedwa biopsy, kuti lab ione ngati pali cancer cells. \n\n''',
 
 "*Question 21:*\n"
-"-  Kodi khansa ya cervix ili ndi magawo angati?\n"
+"-  Cancer ya cervix ili na ma stage angati?\n"
 '''Answer    
-    - Khansa ya cervix imakhala ndi magawo malinga ndi momwe yafalikira. Gawo loyamba (Stage I) limakhala pa cervix yokha. Gawo lachiwiri (Stage II) limafalikira pafupi, lachitatu (Stage III) limafika pa khoma la pelvis kapena pansi pa chiberekero, ndipo lachinayi (Stage IV) limafika ku minofu yakutali. \n\n''',
+    - Cancer ya cervix imagawidwa malinga na momwe yafalikira. Stage I imakhala pa cervix yokha. Stage II imafalikira pafupi. Stage III imafika ku pelvic wall kapena pansi pa vagina. Stage IV imafika ku ma organ ena kapena mbali zakutali za body. \n\n''',
 
 "*Question 22:*\n"
-"-  Kodi njira zothetsera khansa ya cervix ndi iti?\n"
+"-  Treatment ya cancer ya cervix ni iti?\n"
 '''Answer    
-    - Njira zimadalira gawo la khansa ndi thanzi la wodwala. Zimaphatikizapo opaleshoni (surgery) (monga hysterectomy kapena LEEP), radiation therapy, chemotherapy, kapena kuphatikiza zonsezi. \n\n''',
+    - Treatment imadalira stage ya cancer na health ya wodwala. Zingakhale surgery monga hysterectomy kapena LEEP, radiation therapy, chemotherapy, kapena kuphatikiza zonsezi. \n\n''',
 
 "*Question 23:*\n"
-"-  Kodi khansa ya cervix imachiritsidwa?\n"
+"-  Cancer ya cervix ingachiritsidwe?\n"
 '''Answer    
-    - Inde. Ngati yapezeka ndipo yachiritsidwa msanga, khansa ya cervix ndi imodzi mwa khansa zomwe zimachiritsidwa bwino. Mwayi wokhala ndi moyo kwa zaka zisanu pa Stage I ndi pafupifupi 80%. \n\n''',
+    - Yes. Ngati yapezeka fast na kutenga chithandizo fast, cancer ya cervix ingachiritsidwe bwino. Pa Stage I, chance yokhala moyo zaka 5 imakhala pafupifupi 80%. \n\n''',
 
 "*Question 24:*\n"
-"-  Kodi ndingathe kukhala ndi ana pambuyo pa thandizo?\n"
+"-  Ningakhale na ana pambuyo pa treatment?\n"
 '''Answer    
-    - Zimatengera gawo la khansa ndi mtundu wa thandizo. Ngati khansa ili pa gawo loyamba, pali njira zosunga chiberekero monga radical trachelectomy. Koma ngati khansa yafalikira kwambiri, nthawi zambiri amachotsa chiberekero (hysterectomy), ndipo simungathe kubereka. \n\n''',
+    - Zimadalira stage ya cancer na treatment yamene munthu watenga. Ngati cancer ili pa stage yoyamba, pali njira zosunga chiberekero monga radical trachelectomy. Koma ngati cancer yafalikira kwambiri, nthawi zina amachotsa chiberekero, ndipo kubereka sikutheka. \n\n''',
 
 "*Question 25:*\n"
-"-  Kodi kukoka fodya kumakhudza bwanji chiopsezo cha khansa ya cervix?\n"
+"-  Kusuta fodya kumawonjezera bwanji chance ya cervical cancer?\n"
 '''Answer    
-    - Kukoka fodya kumachepetsa mphamvu ya chitetezo cha thupi, zomwe zimapangitsa thupi kulephera kuchotsa HPV. Azimayi omwe amakoka fodya ali ndi chiopsezo chachikulu chokhala ndi khansa ya cervix kuposa omwe samakoka fodya. \n\n''',
+    - Kusuta fodya kumachepetsa mphamvu ya immune system. Izi zimapangitsa body kulephera kuchotsa HPV. Azimai amene amasuta fodya ali na chance yayikulu yotenga cancer ya cervix kuposa amene sasuta. \n\n''',
 
 "*Question 26:*\n"
-"-  Kodi chiyembekezo cha moyo ndi chotani kwa munthu ali ndi khansa ya cervix?\n"
+"-  Munthu ali na cervical cancer angakhale moyo bwanji?\n"
 '''Answer    
-    - Chiyembekezo chimadalira gawo la khansa pamene yapezeka. Ngati yapezeka msanga, mwayi wokhala ndi moyo ndi waukulu. Mwachitsanzo, pa Stage I, mwayi wa moyo wa zaka zisanu ndi pafupifupi 80%, koma umachepa kwambiri pa magawo apamwamba. \n\n''',
+    - Zimadalira stage yamene cancer yapezeka. Ngati yapezeka fast, chance yokhala moyo imakhala yayikulu. Pa Stage I, chance ya moyo wa zaka 5 imakhala pafupifupi 80%, koma imachepa pa ma stage apamwamba. \n\n''',
 
 "*Question 27:*\n"
-"-  Kodi pali zotsatira zoyipa kuchokera ku thandizo?\n"
+"-  Treatment ili na side effects?\n"
 '''Answer    
-    - Inde. Opaleshoni imabweretsa nthawi yochira yokhala ndi kutuluka magazi. Radiation ndi chemotherapy zimabweretsa kutopa, kusanza, ndi kusintha kwa mmene m'mimba ndi chiberekero chimagwirira ntchito. Dotolo wanu adzakufotokozerani zotsatira pambuyo pa thandizo lanu. \n\n''',
+    - Yes. Surgery ingafune nthawi yochira ndipo ingabweretse bleeding. Radiation na chemotherapy zingabweretse kutopa, kusanza, diarrhea, kapena kusintha kwa momwe bladder na bowel zimagwirira ntchito. Doctor adzakufotokozerani side effects ya treatment yanu. \n\n''',
 
 "*Question 28:*\n"
-"-  Kodi HPV imatenga nthawi yayitali bwanji kuti isanduke khansa?\n"
+"-  HPV imatenga nthawi yayitali bwanji kuti isanduke cancer?\n"
 '''Answer    
-    - Ndondomeko imeneyi imatenga nthawi yaitali. Nthawi zambiri imatenga zaka 15 mpaka 20 kuti HPV yokhazikika isanduke khansa ya cervix. Kwa anthu omwe ali ndi chitetezo chochepa cha mthupi, zimatha kuchitika mkati mwa zaka 5 mpaka 10. \n\n''',
+    - Nthawi zambiri imatenga zaka 15 mpaka 20 kuti HPV yamene yakhala mu body isanduke cervical cancer. Kwa anthu amene ali na immune system yochepa, zingachitike mkati mwa zaka 5 mpaka 10. \n\n''',
 
 "*Question 29:*\n"
-"-  Kodi ndiyenera kuchita screening ngakhale ndalandira chitetezo cha HPV (HPV vaccine)?\n"
+"-  Ndichite screening ngakhale ninatenga HPV vaccine?\n"
 '''Answer    
-    - Inde. Ngakhale HPV vaccine ndi yothandiza kwambiri, siyiteteza mitundu yonse ya HPV. Screening nthawi zonse ndi njira yofunika kwambiri yopewera khansa ya cervix. \n\n''',
+    - Yes. Ngakhale HPV vaccine imathandiza kwambiri, siyiteteza ku mitundu yonse ya HPV. Screening nthawi zonse imakhalabe important kuti alekeze cervical cancer. \n\n''',
 
 "*Question 30:*\n"
-"-  Kodi ndingachite screening pamene ndili ndi pakati?\n"
+"-  Ningachite screening ndili pregnant?\n"
 '''Answer    
-    - Ngati nthawi yanu yakwana ya screening, nthawi zambiri amalangiza kudikirira kwa masabata 12 mutabereka. Lankhulani ndi dotolo wanu. \n\n''',
-
+    - Ngati nthawi yanu ya screening yafika, nthawi zambiri azaumoyo angakulangizeni kudikira mpaka masabata 12 mutabereka. Lankhulani na doctor kapena nurse wanu. \n\n''',
 
 "*Question 31:*\n"
-"-  Kodi ndichite chiyani ngati bwenzi langa lili ndi HPV?\n"
+"-  Ndichite chani ngati partner wanga ali na HPV?\n"
 '''Answer    
-    - HPV ndi yofala kwambiri moti anthu ambiri ogonana amakhala nayo nthawi ina. Chofunika kwambiri ndi kupitiriza kuchita screening nthawi zonse, komanso ngati muli ndi zaka zokwanira, landirani katemera ya HPV (HPV vaccine). \n\n''',
+    - HPV ni common kwambiri, ndipo anthu ambiri amene amachita sex angaitenge nthawi ina. Chofunika ni kupitiriza screening nthawi zonse. Ngati muli mu age yoyenera, tengani HPV vaccine. \n\n''',
 
 "*Question 32:*\n"
-"-  Kodi colposcopy ndi chiyani?\n"
+"-  Colposcopy ni chani?\n"
 '''Answer    
-    - Colposcopy ndi njira yowonera cervix bwino. Dotolo amagwiritsa ntchito chida chowonera chochedwa (colposcope) kuti aone cervix, chibereko, ndi vulva kuti aone zizindikiro za matenda. \n\n''',
+    - Colposcopy ni njira yoona cervix bwino. Doctor amagwiritsa ntchito chida chotchedwa colposcope kuti aone cervix, vagina, na vulva ngati pali ma signs a vuto. \n\n''',
 
 "*Question 33:*\n"
-"-  Kodi LEEP (Loop Electrosurgical Excision Procedure) ndi chiyani?\n"
+"-  LEEP ni chani?\n"
 '''Answer    
-    - LEEP ndi njira yodziwika kwambiri yochotsa maselo (cells) omwe ali pa chiopsezo cha khansa pa cervix. Amagwiritsa ntchito waya wochepa wokhala ndi magetsi kuti achotse minofu yosiyanasiyana. \n\n''',
+    - LEEP ni njira yochotsa ma cells ya pa cervix yamene ili pa risk yosanduka cancer. Amagwiritsa ntchito wire yaying'ono yamene ili na magetsi kuti achotse minofu yovuta. \n\n''',
 
 "*Question 34:*\n"
-"-  Kodi cryotherapy ndi chiyani?\n"
+"-  Cryotherapy ni chani?\n"
 '''Answer    
-    - Cryotherapy ndi njira yachitetezo komanso yothandiza yochotsa minofu yosiyanasiyana pa cervix pogwiritsa ntchito kuzizira kwambiri. \n\n''',
+    - Cryotherapy ni treatment yamene imagwiritsa ntchito kuziziritsa kwambiri kuti ichotse minofu kapena ma cells ovuta pa cervix. \n\n''',
 
 "*Question 35:*\n"
-"-  Kodi palliative care ya cancer ya cervix ndi chiyani?\n"
+"-  Palliative care ya cancer ya cervix ni chani?\n"
 '''Answer    
-    - Palliative care ndi chisamaliro chapadera kwa odwala omwe ali ndi matenda aakulu monga cancer ya cervix yapamwamba. Cholinga chake ndi kuchepetsa ululu ndi mavuto ena kuti moyo wa wodwala ukhale wabwino. \n\n''',
+    - Palliative care ni chisamaliro chapadera kwa munthu amene ali na cancer ya cervix yapamwamba. Cholinga ni kuchepetsa pain na mavuto ena kuti moyo wa wodwala ukhale bwino. \n\n''',
 
 "*Question 36:*\n"
-"-  Kodi cervical cancer screening imachitidwa motani mu dziko langa?\n"
+"-  Cervical cancer screening imachitika bwanji mu Zambia?\n"
 '''Answer    
-    - Njira ndi zosiyanasiyana, zimadalira dziko. Mu Zambia, njira yayikulu ndi VIA (Visual Inspection with Acetic Acid), yomwe ndi yotsika mtengo komanso yosavuta kugwiritsa ntchito. Pali ndondomeko zatsopano zogwiritsa ntchito zipangizo za Artificial Intelligence (AI) kuti zikhale zolondola kwambiri. \n\n''',
+    - Mu Zambia, njira yamene imagwiritsidwa ntchito kwambiri ni VIA. Ni yotsika mtengo komanso yosavuta. Pali njira zatsopano monga AI-assisted tools zamene zingathandize kuti screening ikhale yolondola kwambiri. \n\n''',
 
 "*Question 37:*\n"
-"-  Kodi amuna angakhale ndi cancer yochokera ku HPV?\n"
+"-  Amuna angatenge cancer yochokera ku HPV?\n"
 '''Answer    
-    - Inde. HPV imatha kuyambitsa cancer kwa amuna, kuphatikizapo khansa yapa m'nyelo (anal), cancer ya mbolo (penile) ndi cancer ya m'kamwa kapena pa khosi. \n\n''',
+    - Yes. HPV ingayambitse cancer kwa amuna, monga anal cancer, penile cancer, komaso cancer ya m'kamwa kapena pakhosi. \n\n''',
 
 "*Question 38:*\n"
-"-  Kodi zizindikiro za cancer ya cervix yomwe yafalikira ndi ziti?\n"
+"-  Ma symptoms a cervical cancer yamene yafalikira ni ati?\n"
 '''Answer    
-    - Zizindikiro zimaphatikizapo kupweteka kosatha m'chiuno, kutupa kwa miyendo, kuonda, ndi kutopa. Imfa nthawi zambiri imadza chifukwa cha kutsekeka kwa tumbo yopitiramo mitundo (ureter), zomwe zimayambitsa kulephera kwa impso (kidney). \n\n''',
+    - Zingakhale kupweteka kosatha m'chiuno, miyendo kutupa, kuonda, na kutopa kwambiri. Nthawi zina cancer imatseka ureter, ndipo izi zingapangitse kidney kulephera kugwira ntchito. \n\n''',
 
 "*Question 39:*\n"
-"-  Kodi cone biopsy ndi chiyani?\n"
+"-  Cone biopsy ni chani?\n"
 '''Answer    
-    - Cone biopsy ndi opaleshoni yomwe amatenga chigawo cha minofu cha cervix chofanana ndi chikhomo kuti achite kufufuza. Njirayi ingagwiritsidwe ntchito kuzindikira komanso kuchiza maselo (cells) osiyanasiyana. \n\n''',
+    - Cone biopsy ni operation yamene doctor amatenga chidutswa cha minofu ya cervix chooneka ngati cone kuti lab ifufuze. Njira iyi ingagwiritsidwe ntchito kupeza vuto kapena kuchotsa ma cells ovuta. \n\n''',
 
 "*Question 40:*\n"
-"-  Kodi pali mitundu yosiyanasiyana ya cancer ya cervix?\n"
+"-  Pali mitundu yosiyana ya cervical cancer?\n"
 '''Answer    
-    - Inde. Mitundu iwiri yodziwika kwambiri ndi squamous cell carcinoma, yomwe imayambira pa maselo (cells) a kunja kwa cervix, ndi adenocarcinoma, yomwe imayambira pa maselo (cells) a m'kati mwa cervical canal. \n\n''',    
+    - Yes. Mitundu yayikulu ni squamous cell carcinoma na adenocarcinoma. Squamous cell carcinoma imayambira pa ma cells akunja kwa cervix. Adenocarcinoma imayambira mkati mwa cervical canal. \n\n''',
 
 "*Question 41:*\n"
-"-  Kodi kukhala ndi HIV kumawonjezera chiopsezo cha cancer ya cervix?\n"
+"-  HIV imawonjezera chance ya cervical cancer?\n"
 '''Answer    
-    - Inde. HIV imachepetsa chitetezo cha thupi, zomwe zimapangitsa thupi kulephera kugwebana kapena kuchotsa HPV, ndipo zimawonjezera chiopsezo cha cancer. Azimayi ali ndi HIV ali ndi mwayi wokwana kasanu ndi kawiri wokhala ndi cancer ya cervix. \n\n''',
+    - Yes. HIV imachepetsa immune system, ndipo body imalephera kuchotsa HPV bwino. Azimai amene ali na HIV ali na chance yayikulu kwambiri yotenga cervical cancer. \n\n''',
 
 "*Question 42:*\n"
-"-  Kodi ndingachotse chiberekero (hysterectomy) kuti ndipewe cancer ya cervix?\n"
+"-  Ningachotse chiberekero kuti ndilekeze cervical cancer?\n"
 '''Answer    
-    - Mosiyana ndi cancer zina, palibe malangizo okhazikika ochotsa chiberekero kuti mupewe cancer ya cervix. Njira yabwino yopewera ndi katemera wa HPV ndi kuchita screening nthawi zonse. \n\n''',
+    - Nthawi zambiri palibe malangizo oti munthu achotse chiberekero pofuna kulekeza cervical cancer. Njira yabwino ni HPV vaccine na screening nthawi zonse. \n\n''',
 
 "*Question 43:*\n"
-"-  Kodi kukhala ndi mtundu wa HPV wa 'high-risk' kumatanthauza chiyani?\n"
+"-  High-risk HPV ikutanthauza chani?\n"
 '''Answer    
-    - Mitundu ya HPV ya high-risk ndi yomwe imalumikizidwa ndi chitukuko cha cancer. Mitundu ya low-risk nthawi zambiri imayambitsa matenda monga mabala a m'chiuno. Kukhala ndi mtundu wa high-risk sikutanthauza kuti mudzakhala ndi cancer, koma kumatanthauza kuti muli pa chiopsezo chachikulu ndipo muyenera kuyang'aniridwa pafupipafupi. \n\n''',
+    - High-risk HPV ni mitundu ya HPV yamene imatha kuyambitsa cancer. Kukhala na high-risk HPV si kuti mudzakhala na cancer, koma zikutanthauza kuti muli pa risk ndipo muyenera kuyang'aniridwa bwino. \n\n''',
 
 "*Question 44:*\n"
-"-  Kodi chiopsezo chokhalanso ndi cancer pambuyo pa chithandizo ndi chotani?\n"
+"-  Cancer ingabwerenso pambuyo pa treatment?\n"
 '''Answer    
-    - Chiopsezo chimadalira gawo la cancer pamene inazindikiridwa ndi kuchiritsidwa. Ngati cancer ili pa gawo loyamba, chiopsezo chimakhala chochepa. Kukacheza ndi dotolo nthawi pafupipafupi ndi kofunika kuti muwone ngati cancer ikubweranso. \n\n''',
+    - Yes, ingabwerenso, koma chance imadalira stage yamene cancer inapezeka na treatment yamene munthu anatenga. Ngati cancer inali pa stage yoyamba, chance imakhala yochepa. Follow-up na doctor ni important. \n\n''',
 
 "*Question 45:*\n"
-"-  Kodi cancer ya cervix ingakhudze moyo wanga wachikondi?\n"
+"-  Cervical cancer ingakhudze moyo wanga wa chikondi?\n"
 '''Answer    
-    - Zizindikiro monga kutuluka magazi pambuyo pa kugonana kapena kupweteka m'chiuno zingakhudze moyo wachikondi. Chithandizo monga radiotherapy chimatha kubweretsa zotsatira monga kuuma ku ukazi kapena mabala omwe angapangitse kugonana kukhala kovuta. Gulu lanu la azachipatala lingakupatseni thandizo. \n\n''',
+    - Yes, ingakhudze. Magazi after sex, pain m'chiuno, kapena treatment monga radiotherapy zingapangitse sex kukhala yovuta. Azaumoyo angakupatseni advice na support. \n\n''',
 
 "*Question 46:*\n"
-"-  Kodi n'kutheka kukhala ndi HPV osazindikira?\n"
+"-  Munthu angakhale na HPV osadziwa?\n"
 '''Answer    
-    - Inde, n'kofala kwambiri. Ma HPV ambiri alibe zizindikiro ndipo amachotsedwa okha ndi thupi. Ichi ndichifukwa chake screening ndi yofunika ngakhale mutamva kuti muli bwino. \n\n''',
+    - Yes. HPV nthawi zambiri ilibe ma symptoms. Anthu ambiri amachotsa HPV okha mu body. Chifukwa chake screening ni important ngakhale mukumva bwino. \n\n''',
 
 "*Question 47:*\n"
-"-  Kodi ndiyenera kudikira nthawi yayitali bwanji kuti ndigonane ndi bwenzi pambuyo pa chithandizo monga LEEP?\n"
+"-  Ndikadikirire nthawi yayitali bwanji kuti ndichite sex pambuyo pa LEEP?\n"
 '''Answer    
-    - Pambuyo pa chithandizo monga LEEP kapena cryotherapy, nthawi zambiri amalangiza kudikira kwa masabata 4 mpaka 6 kuti cervix ichire bwino. \n\n''',
+    - Pambuyo pa LEEP kapena cryotherapy, nthawi zambiri amalangiza kudikira masabata 4 mpaka 6 kuti cervix ichire bwino. \n\n''',
 
 "*Question 48:*\n"
-"-  Kodi njira yabwino kwambiri yopewera kufalikira kwa HPV ndi iti?\n"
+"-  Njira yabwino yolekeza HPV kufalikira ni iti?\n"
 '''Answer    
-    - Njira yokhayo yopewera HPV kwathunthu ndi kusagonana ndi munthu. Komabe, katemera wa HPV ndi njira yabwino kwambiri yopewera mitundu ya HPV yomwe imayambitsa cancer. Kugwiritsa ntchito kondomu kungachepetse chiopsezo, koma sikungachotse kwathunthu. \n\n''',
+    - Njira yokhayo yolekeza HPV completely ni kusachita sex. Koma HPV vaccine ni njira yabwino yolekeza mitundu ya HPV yamene imayambitsa cancer. Condom ingachepetse risk, koma siyichotsa risk yonse. \n\n''',
 
 "*Question 49:*\n"
-"-  Kodi pali kusiyana kotani pakati pa HPV test ndi Pap smear?\n"
+"-  HPV test na Pap smear zimasiyana bwanji?\n"
 '''Answer    
-    - HPV test imayang'ana ngati muli ndi kachilombo ka HPV, mutundu wa high-risk. Pap smear imayang'ana maselo (cells) osiyanasiyana omwe alipo kale pa cervix. HPV test nthawi zambiri imawonedwa ngati njira yabwino kwambiri ya screening chifukwa imatha kuzindikira kachilombo asanapangitse kusintha kwa maselo (cells). \n\n''',
+    - HPV test imayang'ana ngati muli na high-risk HPV. Pap smear imayang'ana ma cells ya pa cervix kuti aone ngati pali kusintha. HPV test imatha kupeza virus isana chinje ma cells. \n\n''',
 
 "*Question 50:*\n"
-"-  Kodi ziwerengero za cancer ya cervix mu Zambia ndi zotani?\n"
+"-  Ziwerengero za cervical cancer mu Zambia zili bwanji?\n"
 '''Answer    
-    - Zambia ili ndi chiwerengero chachiwiri chapamwamba kwambiri cha cancer ya cervix padziko lonse. Mu 2022, panali milandu yatsopano 3,640 ndi imfa 2,285, zomwe zikutanthauza kuti azimayi 9 amapezeka ndi cancer ndipo 6 amafa tsiku lililonse. Kuchita screening kuli pansi, pafupifupi 33%. \n\n''',
+    - Zambia ili na cervical cancer yambiri kwambiri. Mu 2022, panali milandu yatsopano 3,640 na imfa 2,285. Izi zikutanthauza kuti pafupifupi azimai 9 amapezeka na cancer tsiku lililonse, ndipo 6 amafa tsiku lililonse. Screening ili pansi, pafupifupi 33%. \n\n''',
 
 "*Question 51:*\n"
-"-  Kodi malangizo a screening ya cancer ya cervix mu Zambia malinga ndi magulu a zaka ndi ati?\n"
+"-  Screening ya cervical cancer mu Zambia imayang'ana age iti?\n"
 '''Answer    
-    - Malangizo a Zambia amatsatira zomwe WHO imalangiza m'madera osowa zinthu, ndipo amaika patsogolo kuchita screening kwa azimayi azaka 30 mpaka 49 kuti apeze maselo (precancerous cells) omwe ali pa chiopsezo. \n\n''',
+    - Mu Zambia, screening imayang'ana kwambiri azimai a zaka 30 mpaka 49, kuti apeze ma precancerous cells fast asanasanduke cancer. \n\n''',
 
 "*Question 52:*\n"
-"-  Kodi chithandizo cha VIA screening chimagwira ntchito bwanji, ndipo ndi ndani amene sangathe kuchita?\n"
+"-  VIA screening imagwira ntchito bwanji, ndipo ndani sangathe kuchita?\n"
 '''Answer    
-    - VIA (Visual Inspection with Acetic Acid) imachitidwa kwa azimayi m'madera osowa zinthu. Azimayi omwe ali ndi matenda a cervicitis, pelvic inflammatory disease, kapena ali ndi pakati, sangathe kuchita VIA chifukwa zimakhudza zotsatira kapena zotulukamo. \n\n''',
+    - VIA imachitika kwa azimai mostly m'madera amene alibe zipangizo zambiri. Azimai amene ali na cervicitis, pelvic inflammatory disease, kapena amene ali pregnant sangathe kuchita VIA nthawi zina, chifukwa zingasokoneze results. \n\n''',
 
 "*Question 53:*\n"
-"-  Kodi mumachita bwanji ndi wodwala amene ali ndi zotsatira za VIA-positive?\n"
+"-  Wodwala ali na VIA-positive, mumachita chani?\n"
 '''Answer    
-    - Zotsatira za VIA-positive zimasonyeza kuti pali maselo omwe ali pa chiopsezo (precancerous cells). Njira yodziwika ndi 'see-and-treat' kapena 'see-triage-and-treat'. Chithandizo chimaphatikizapo thermal ablation kapena cryotherapy ngati malo okhuzidwa ali ang'ono, kapena kutumiza wodwala ku colposcopy ndi biopsy ngati malo okhuzidwa ali akulu. \n\n''',
+    - VIA-positive imasonyeza kuti pali ma cells ali pa risk yosanduka cancer. Njira ingakhale see-and-treat kapena see-triage-and-treat. Ngati malo ovuta ndi aang'ono, angatengere thermal ablation kapena cryotherapy. Ngati ndi akulu, angatumizidwe ku colposcopy na biopsy. \n\n''',
 
 "*Question 54:*\n"
-"-  Kodi zolakwika zomwe zimachitika nthawi zambiri pa VIA screening ndi ziti?\n"
+"-  Zolakwika zimene zimachitika pa VIA screening ni ziti?\n"
 '''Answer    
-    - VIA imakhala ndi zolakwika zambiri komanso kusiyana kwa zotsatira pakati pa ochita screening. Zolakwika zomwe zimachitika nthawi zambiri ndi kulephera kuzindikira kusintha kwa 'acetowhite', kuchita screening pa mkazi yemwe ali pa nthawi yaku mwezi, kapena kulephera kuwona bwino gawo lonse la transformation zone. \n\n''',
+    - VIA imatha kukhala na zolakwika chifukwa imadalira amene akuchita screening. Zolakwika zina ni kulephera kuona acetowhite change, kuchita screening munthu ali pa period, kapena kulephera kuona transformation zone yonse. \n\n''',
 
 "*Question 55:*\n"
-"-  Fotokozani kusiyana pakati pa njira ya 'see-and-treat' ndi 'see-triage-and-treat'.\n"
+"-  See-and-treat na see-triage-and-treat zimasiyana bwanji?\n"
 '''Answer    
-    - Njira ya 'see-and-treat' imachitika pa ulendo umodzi: mkazi amafufuzidwa, ndipo ngati pali vuto, amalandira chithandizo nthawi yomweyo monga cryotherapy kapena thermal ablation. Njira ya 'see-triage-and-treat' imaphatikizapo njira yachiwiri: mkazi yemwe ali ndi zotsatira za screening positive amalandira mayeso ena monga biopsy kapena HPV test kuti atsimikizire ngati chithandizo chiyenera kupatsedwa. \n\n''',
+    - See-and-treat imachitika pa visit imodzi. Munthu amachita screening, ndipo ngati pali vuto, amatenga treatment nthawi yomweyo monga cryotherapy kapena thermal ablation. See-triage-and-treat imafuna test ina monga biopsy kapena HPV test musanatengere treatment. \n\n''',
 
 "*Question 56:*\n"
-"-  Kodi HPV DNA test imagwira ntchito bwanji m'madera osowa zinthu?\n"
+"-  HPV DNA test imagwira ntchito bwanji m'madera osowa zinthu?\n"
 '''Answer    
-    - HPV DNA test ndi njira yodziwika kwambiri m'maiko olemera chifukwa cha kulondola kwake. Ngakhale mtengo wake umalepheretsa kugwiritsidwa ntchito kwambiri m'madera osowa zinthu, ndi njira yabwino kuposa VIA ndipo ikuyamba kugwiritsidwa ntchito m'mapulogalamu a dziko. \n\n''',
+    - HPV DNA test ni njira yolondola kwambiri yopeza HPV. Imakhala yodula, koma ni yabwino kuposa VIA ndipo ikuyamba kugwiritsidwa ntchito m'ma program a dziko. \n\n''',
 
 "*Question 57:*\n"
-"-  Kodi chatbot ingathandize bwanji kuthana ndi zovuta za anthu pa screening?\n"
+"-  Chatbot ingathandize bwanji pa screening?\n"
 '''Answer    
-    - Chatbot monga DawaMom imathandiza kuthana ndi zovuta monga manyazi, mantha, ndi kusadziwa. Kupereka njira yachinsinsi komanso yosavuta kufikira kumapatsa akazi mwayi wofunsa mafunso ndi kulandira chidziwitso, zomwe zimawathandiza kukhala okonzeka kuchita screening. \n\n''',
+    - Chatbot monga DawaMom ingathandize kuchepetsa manyazi, mantha, na kusadziwa. Imapatsa azimai malo achinsinsi ofunsa mafunso na kutenga information, kuti akhale okonzeka kuchita screening. \n\n''',
 
 "*Question 58:*\n"
-"-  Fotokozani momwe AI-assisted Automated Visual Evaluation (AVE) imagwirira ntchito.\n"
+"-  AI-assisted Automated Visual Evaluation imagwira ntchito bwanji?\n"
 '''Answer    
-    - AVE imagwiritsa ntchito computer vision ndi artificial intelligence kuti iwonere chithunzi cha cervix. Imathandiza pa VIA mwa kupereka zotsatira zenizeni komanso zolondola nthawi yomweyo, zomwe zimathandiza kuthana ndi vuto la kusalondola kwa ochita screening. \n\n''',
+    - AVE imagwiritsa ntchito computer vision na AI kuona chithunzi cha cervix. Imathandiza pa VIA kupereka results zolondola kwambiri, kuti kuchepetsa kusiyana kwa ma results pakati pa ma nurse kapena doctors. \n\n''',
 
 "*Question 59:*\n"
-"-  Kodi pali mitundu yanji ya khansa ya cervix malinga ndi histologically? (mwachisanzo, squamous cell carcinoma ndi adenocarcinoma)\n"
+"-  Mitundu ya cervical cancer pa histology ni iti?\n"
 '''Answer    
-    - Mitundu yambiri ya khansa ya cervix ndi squamous cell carcinoma (pafupifupi 6 mwa 10), yomwe imayambira pa maselo a kunja kwa cervix. Adenocarcinoma (pafupifupi 3 mwa 10) imayambira pa maselo a m'kati mwa cervical canal. Ena ndi adenosquamous carcinoma kapena mitundu yosowa. \n\n''',
+    - Mitundu yambiri ni squamous cell carcinoma na adenocarcinoma. Squamous cell carcinoma imakhala pafupifupi 6 mwa 10, ndipo imayambira pa ma cells akunja kwa cervix. Adenocarcinoma imakhala pafupifupi 3 mwa 10, ndipo imayambira mkati mwa cervical canal. \n\n''',
 
 "*Question 60:*\n"
-"-  Kodi FIGO staging system ya khansa ya cervix ndi chiyani?\n"
+"-  FIGO staging system ni chani?\n"
 '''Answer    
-    - FIGO (International Federation of Gynecology and Obstetrics) staging system ndi njira yodziwika yodziwira momwe khansa yafalikira. Stage I imakhala pa cervix yokha, Stage II imafalikira kupitirira cervix koma osafika pa pelvic wall, Stage III imafika pa pelvic wall kapena pansi pa chiberekero, ndipo Stage IV imakhudza chikhozozo, njira ya chimbuzi, kapena minofu yakutali. \n\n''',
+    - FIGO staging system ni njira yogawa cervical cancer malinga na momwe yafalikira. Stage I imakhala pa cervix yokha. Stage II imafalikira kupitirira cervix koma osafika ku pelvic wall. Stage III imafika ku pelvic wall kapena pansi pa vagina. Stage IV imafika ku bladder, bowel, kapena mbali zakutali za body. \n\n''',
 
 "*Question 61:*\n"
-"-  Kodi kuchepa kwa chitetezo cha thupi, makamaka HIV, kumakhudza bwanji chitukuko cha HPV kukhala khansa?\n"
+"-  Immune system yochepa, especially HIV, imakhudza bwanji HPV kukhala cancer?\n"
 '''Answer    
-    - Kuchepa kwa chitetezo cha thupi, monga momwe zimachitikira kwa odwala a HIV osalandira chithandizo, kumalepheretsa thupi kukwanisira kuchotsa HPV. Izi zimawonjezera mwayi wa HPV kukhala yokhazikika, zomwe zimathandiza kuti maselo osiyanasiyana asanduke khansa. \n\n''',
+    - Immune system ikakhala yochepa, body imalephera kuchotsa HPV bwino. Izi zimapangitsa HPV kukhala mu body nthawi yayitali, ndipo inga chinje ma cells mpaka kuyambitsa cancer. \n\n''',
 
 "*Question 62:*\n"
-"-  Kodi njira zothandizira khansa ya cervix pa gawo loyamba (FIGO Stage I) ndi chiyani?\n"
+"-  Treatment ya cervical cancer pa Stage I ni iti?\n"
 '''Answer    
-    - Chithandizo chimaphatikizapo opaleshoni monga simple kapena radical hysterectomy, kapena conization/LEEP ngati mkazi akufuna kusunga chiberekero. Radiotherapy ya m'chiuno imatha kugwiritsidwa ntchito, nthawi zina kuphatikizidwa ndi chemotherapy. \n\n''',
+    - Treatment ingakhale surgery monga simple kapena radical hysterectomy. Ngati mkazi akufuna kusunga chiberekero, angachite conization kapena LEEP. Radiotherapy na chemotherapy zingagwiritsidwe ntchito nthawi zina. \n\n''',
 
 "*Question 63:*\n"
-"-  Kodi radical trachelectomy imagwira ntchito bwanji pa opaleshoni yosunga chiberekero mumatenda ya cervical cancer?\n"
+"-  Radical trachelectomy imagwira ntchito bwanji?\n"
 '''Answer    
-    - Radical trachelectomy ndi njira yosunga chiberekero yomwe imachitika kwa odwala omwe ali ndi khansa pa gawo loyamba. Imachotsa cervix, vaginal cuff, ndi parametria, koma imasunga chiberekero, izi zimapatsa mkazi mwayi wobereka. \n\n''',
+    - Radical trachelectomy ni surgery yosunga chiberekero kwa odwala amene ali na cancer pa stage yoyamba. Imachotsa cervix, mbali ya vagina, na minofu yozungulira, koma imasiya chiberekero kuti mkazi akhale na chance yobereka. \n\n''',
 
 "*Question 64:*\n"
-"-  Kodi ndi nthawi bwanji yomwe radiotherapy ingagwiritsidwe ntchito pa khansa ya cervix, ndipo ingabweretse mabvuto otani?\n"
+"-  Radiotherapy imagwiritsidwa ntchito liti, ndipo imabweretsa mavuto ati?\n"
 '''Answer    
-    - Radiotherapy, nthawi zambiri kuphatikizidwa ndi chemotherapy, ndi chithandizo chachikulu pa khansa ya cervix yomwe yafalikira. Zotsatira zake zimaphatikizapo kuwonongeka kwa m'mimba ndi chiberekero (monga cystitis, diarrhea, kapena kusamwa (malabsorption)), kuuma kwa msampha, kupweteka pa kugonana, ndi fistula pakati pa chikhozozo ndi msampha. \n\n''',
+    - Radiotherapy imagwiritsidwa ntchito kwambiri ngati cervical cancer yafalikira. Nthawi zina imaphatikizidwa na chemotherapy. Side effects zingakhale diarrhea, cystitis, kuuma kwa vagina, pain pa sex, kapena fistula pakati pa bladder na vagina. \n\n''',
 
 "*Question 65:*\n"
-"-  Kodi khansa ya cervix ikabweranso imachiritsidwa bwanji?\n"
+"-  Cervical cancer ikabweranso imachiritsidwa bwanji?\n"
 '''Answer    
-    - Khansa ikabweranso nthawi zambiri imakhala pakati pa msampha. Njira zothandizira zimadalira malo ndi kuchuluka kwa khansa, komanso chithandizo chomwe chinachitika kale. Njira zingaphatikize pelvic exenteration, radiotherapy yowonjezera, chemotherapy, kapena palliative care. \n\n''',
+    - Treatment imadalira pamene cancer yabwerera, kukula kwake, na treatment yamene munthu anatenga kale. Zingakhale pelvic exenteration, radiotherapy ina, chemotherapy, kapena palliative care. \n\n''',
 
 "*Question 66:*\n"
-"-  Kodi zizindikiro za chiyembekezo chochepa cha khansa ya cervix ndi zotani?\n"
+"-  Zinthu zosonyeza poor outcome pa cervical cancer ni ziti?\n"
 '''Answer    
-    - Zizindikiro zimaphatikizapo khansa kufalikira ku lymph nodes, gawo lapamwamba la khansa pamene yapezeka, khansa yaikulu, khansa yosiyanasiyana kwambiri, ndi khansa kubweranso msanga pambuyo pa chithandizo. \n\n''',
+    - Zingakhale cancer kufalikira ku lymph nodes, stage yapamwamba, cancer yaikulu, cancer cells zoipa kwambiri, kapena cancer kubweranso fast pambuyo pa treatment. \n\n''',
 
 "*Question 67:*\n"
-"-  Fotokozani zovuta zomwe zimachitika pa kukhazikitsa pulogalamu ya katemera wa HPV m'dziko.\n"
+"-  Zovuta za kuyambitsa HPV vaccine program m'dziko ni ziti?\n"
 '''Answer    
-    - Zovuta zimaphatikizapo mtengo wa katemera, mavuto ofikira ana asanakwane msinkhu, kufunika kwa katemera wa m'ndondomeko ya madose angapo, komanso zovuta za chikhalidwe monga chilolezo cha makolo ndi nkhawa za mmene zingakhudzire khalidwe la kugonana. \n\n''',
+    - Zovuta zingakhale mtengo wa vaccine, kufikira ana asanayambe adolescence, kufunika kwa ma dose angapo, chilolezo cha makolo, na nkhawa za chikhalidwe zokhudza sex. \n\n''',
 
 "*Question 68:*\n"
-"-  Kodi 'herd protection' pa katemera wa HPV kumatanthauza chiyani?\n"
+"-  Herd protection pa HPV vaccine ni chani?\n"
 '''Answer    
-    - 'Herd protection' ndi chitetezo chomwe anthu osalandira katemera amapeza chifukwa cha kuchuluka kwa anthu omwe alandira katemera. Kukatemeretsa atsikana ndi anyamata ambiri kumachepetsa kufalikira kwa HPV m'dera, ndipo zimathandiza kuteteza omwe sanalandire katemera. \n\n''',
+    - Herd protection ni pamene anthu ambiri atenga vaccine, ndipo zimachepetsa kufalikira kwa HPV m'community. Izi zimathandizanso kuteteza anthu amene sanatenge vaccine. \n\n''',
 
 "*Question 69:*\n"
-"-  Kodi katemera wa HPV amagwira ntchito bwanji pa mulingo wa maselo?\n"
+"-  HPV vaccine imagwira ntchito bwanji pa ma cells?\n"
 '''Answer    
-    - Katemera wa HPV uli ndi tunthu tomwe tumaoneka ngati kachilombo (virus-like particles -- VLPs) kuchokera ku protein ya L1 ya mitundu ya HPV yomwe katemera imateteza. Tunthu tomwe si tuzilombo twa HPV, koma tumayambitsa chitetezo champhamvu cha thupi chomwe chimapangitsa thupi kupanga ma antibodi omwe amateteza thupi kuti lisalandire kachilombo mtsogolo. \n\n''',
+    - HPV vaccine ili na virus-like particles kuchokera ku protein ya HPV. Sizili ma virus enieni, koma zimaphunzitsa body kupanga antibodies. Antibodies amenewa amathandiza body kuleka kutenga HPV mtsogolo. \n\n''',
 
 "*Question 70:*\n"
-"-  Fotokozani ndondomeko ya kuyang'anira wodwala yemwe wachiritsidwa khansa ya cervix.\n"
+"-  Follow-up ya munthu wachiritsidwa cervical cancer imakhala bwanji?\n"
 '''Answer    
-    - Wodwala amafufuzidwa pa miyezi 3--4 mu chaka choyamba, kenako pa miyezi 6 kwa zaka 5. Pambuyo pa zaka 5, amafufuzidwa chaka chilichonse. Kuyang'anira kumaphatikizapo kuwonetsetsa thupi ndi nthawi zina kuchita ma scan kapena mayeso ena kuti awone ngati khansa ikubweranso. \n\n''',
+    - Wodwala amafufuzidwa every 3 mpaka 4 months mu year yoyamba. Kenako every 6 months kwa zaka 5. Pambuyo pa zaka 5, amafufuzidwa every year. Follow-up imathandiza kuona ngati cancer yabweranso. \n\n''',
 
 "*Question 71:*\n"
-"-  Kodi zizindikiro za vesico-vaginal fistula ndi zotani, ndipo zimagwirizana bwanji ndi chithandizo cha khansa ya cervix?\n"
+"-  Vesico-vaginal fistula symptoms ni ziti?\n"
 '''Answer    
-    - Vesico-vaginal fistula ndi dzenje lopanda mwachibadwidwe pakati pa chiberekero cha mkodzo ndi chibereko, zomwe zimachititsa kutuluka kwa mkodzo mosalekeza. Iyi ndi zotsatira zomwe zimadziwika kuchokera ku radiotherapy, makamaka brachytherapy, chifukwa cha kuwonongeka kwa minofu. \n\n''',
+    - Vesico-vaginal fistula ni dzenje pakati pa bladder na vagina. Zimapangitsa urine kutuluka mosalekeza ku vagina. Zingachitike ngati side effect ya radiotherapy, especially brachytherapy. \n\n''',
 
 "*Question 72:*\n"
-"-  Kodi kusowa kwa zakudya kumakhudza bwanji chiopsezo cha HPV yokhazikika?\n"
+"-  Kusowa kwa zakudya kumakhudza bwanji HPV?\n"
 '''Answer    
-    - Kusowa kwa zakudya, monga kusadya zipatso ndi ndiyo zamasamba, kumachepetsa chitetezo cha thupi, zomwe zimapangitsa thupi kulephera kuchotsa HPV mwachibadwidwe, ndipo zimawonjezera chiopsezo cha HPV yokhazikika. \n\n''',
+    - Kusowa kwa zakudya zabwino, monga zipatso na vegetables, kungachepetse immune system. Izi zingapangitse body kulephera kuchotsa HPV, ndipo HPV ikhoza kukhala mu body nthawi yayitali. \n\n''',
 
 "*Question 73:*\n"
-"-  Kodi mumathandiza bwanji odwala omwe ali ndi zizindikiro za matenda omwe afalikira kwambiri, monga kutsekeka kwa chikhozozo, kapena kutuluka magazi mu mkodzo?\n"
+"-  Odwala amene ali na advanced symptoms amathandizidwa bwanji?\n"
 '''Answer    
-    - Chithandizo chimayang'ana pa kuchepetsa zizindikiro. Kutsekeka kwa chokhozozo, komwe ndi chimodzi mwa zifukwa za imfa, kumathandizidwa ndi nephrostomy tubes kapena stents. Zizindikiro zina monga kupweteka, kutuluka magazi (haematuria), ndi matenda a m'thupi (sepsis) zimathandizidwa ndi mankhwala ochepetsa ululu, kuwonjezera magazi, ndi ma antibayotiki. \n\n''',
+    - Chithandizo chimayang'ana pa kuchepetsa ma symptoms. Ngati ureter yatsekeka, angagwiritse ntchito nephrostomy tubes kapena stents. Pain, blood in urine, na infection zingathandizidwe na pain medicine, blood transfusion, kapena antibiotics. \n\n''',
 
 "*Question 74:*\n"
-"-  Kodi WHO yalangiza chiyani posachedwapa pa kuchotsa khansa ya cervix?\n"
+"-  WHO ikufuna chani pa cervical cancer?\n"
 '''Answer    
-    - WHO ikufuna kuti pofika 2030: atsikana 90% akhale atalandira katemera wa HPV, azimayi 70% achite screening pogwiritsa ntchito mayeso olondola kwambiri, ndipo azimayi 90% omwe ali ndi maselo a khansa kapena omwe ali pa chiopsezo achiritsidwe. \n\n''',
+    - WHO ikufuna kuti pofika 2030, atsikana 90% atenge HPV vaccine, azimai 70% achite screening na test yolondola, ndipo azimai 90% amene ali na cancer kapena precancer atenge treatment. \n\n''',
 
 "*Question 75:*\n"
-"-  Kodi mumalangiza bwanji odwala pa chiopsezo cha mimba mtsogolo pambuyo pa chithandizo cha khansa ya cervix?\n"
+"-  Mumalimbikitsa bwanji munthu za pregnancy pambuyo pa cervical cancer treatment?\n"
 '''Answer    
-    - Malangizo ayenera kukhala aumwini komanso owona mtima. Chiopsezo chimadalira chithandizo chomwe wodwala walandira; ngati wachotsedwa chiberekero (hysterectomy), mimba siyotheka. Odwala omwe achita trachelectomy ali ndi chiopsezo chokhala ndi mwana nthawi isanakwane, mimba kutayika, kapena kufunika kuchita opaleshoni ya cesarean. \n\n''',
+    - Advice iyenera kukhala ya munthu payekha. Ngati chiberekero chinachotsedwa, pregnancy siyitheka. Ngati munthu anatenga trachelectomy, angakhale na risk ya kubereka fast, miscarriage, kapena kufunika kwa C-section. \n\n''',
 
 "*Question 76:*\n"
-"-  Kodi pali kusiyana kotani pakati pa cervical cancer screening m'maiko olemera ndi osowa zinthu?\n"
+"-  Screening m'maiko olemera na osowa zinthu imasiyana bwanji?\n"
 '''Answer    
-    - Maiko olemera amagwiritsa ntchito mayeso olondola kwambiri monga HPV DNA test ndi liquid-based cytology. Maiko osowa zinthu nthawi zambiri amagwiritsa ntchito njira zotsika mtengo monga VIA, yomwe si yolondola kwambiri koma imatha kugwiritsidwa ntchito kwambiri chifukwa cha kusowa kwa zinthu. \n\n''',
+    - Maiko olemera amagwiritsa ntchito ma test olondola monga HPV DNA test na liquid-based cytology. Maiko osowa zinthu amagwiritsa ntchito VIA chifukwa ni yotsika mtengo komanso yosavuta, ngakhale si yolondola kwambiri. \n\n''',
 
 "*Question 77:*\n"
-"-  Kodi njira yophatikiza digito ndi anthu ingathandiza bwanji pa cancer ya cervix?\n"
+"-  Njira yophatikiza digital na anthu ingathandize bwanji pa cervical cancer?\n"
 '''Answer    
-    - Njira yophatikiza imaphatikiza mphamvu ya zipangizo za digito (monga chatbots pa maphunziro ndi AI pa kuzindikira) ndi chidaliro cha kulumikizana kwa anthu (monga Community Health Workers), zomwe zimathandiza kuthana ndi zovuta za anthu komanso za zipangizo pa chisamaliro. \n\n''',
+    - Njira iyi imaphatikiza ma digital tools monga chatbots na AI, pamodzi na anthu monga Community Health Workers. Izi zimathandiza kupereka information, kulimbikitsa screening, na kulumikiza odwala ku clinic. \n\n''',
 
 "*Question 78:*\n"
-"-  Kodi zovuta za kusonkhanitsa ndi kuyang'anira \"data\" pa mapulogalamu a cancer ya cervix m'madera osowa zinthu ndi ziti?\n"
+"-  Zovuta za kusonkhanitsa data pa cervical cancer programs ni ziti?\n"
 '''Answer    
-    - Zovuta zimaphatikizapo kusowa kwa ma mabuku usunga zochitika pa za cancer a dziko, kusowa kwa zipangizo za \"data\", ndi kusowa kwa zinthu zothandiza pa kuyang'anira ndi kuyesa mapulogalamu nthawi zonse. Izi zimapangitsa kukhala kovuta kupeza ziwerengero zenizeni za milandu, imfa, ndi momwe mapulogalamu akuyendera. \n\n''',
+    - Zovuta ni kusowa kwa cancer registry yabwino, kusowa kwa data tools, na kusowa kwa resources zoyang'anira ma program. Izi zimapangitsa kukhala kovuta kudziwa bwino milandu, imfa, na momwe program ikuyendera. \n\n''',
 
 "*Question 79:*\n"
-"-  Kodi gulu la akatswiri osiyanasiyana limagwira ntchito yotani pa chithandizo cha cancer ya cervix?\n"
+"-  Multidisciplinary team imachita chani pa cervical cancer?\n"
 '''Answer    
-    - Gulu la akatswiri osiyanasiyana (Multidisciplinary Team -- MDT) ndi lofunika pa chisamaliro chathunthu. Limaphatikizapo gynecologic oncologists, radiation oncologists, medical oncologists, pathologists, ndi anamwino, omwe amagwirizana kuti apereke chithandizo cholondola, \"staging\" yoyenera, ndi ndondomeko ya chithandizo yotsatira malangizo. \n\n''',
+    - Team iyi imakhala na gynecologic oncologists, radiation oncologists, medical oncologists, pathologists, na nurses. Amagwira ntchito limodzi kuti wodwala atenge treatment yoyenera, staging yolondola, na care yabwino. \n\n''',
 
 "*Question 80:*\n"
-"-  Kodi zotsatira zosafunika za pelvic radiotherapy ndi ziti?\n"
+"-  Side effects za pelvic radiotherapy ni ziti?\n"
 '''Answer    
-    - Zotsatira zosafunika zimaphatikizapo kuthulula (diarrhea), proctitis, cystitis, kukwiyika kwa khungu (dermatitis), kuchepa kwa msampha (vaginal stenosis), ndi kupweteka pa kugonana (dyspareunia). Zotsatira za nthawi yayitali zimaphatikizapo mavuto a m'mimba ndi chiberekero komanso kusintha kwa nthawi ya kusamba (premature menopause). \n\n''',
-    
+    - Zingakhale diarrhea, proctitis, cystitis, skin irritation, vaginal stenosis, na pain pa sex. Long-term side effects zingakhale bowel na bladder problems, komaso premature menopause. \n\n''',
+
 "*Question 81:*\n"
-"-  Fotokozani kufunika kwa mbiri ya kugonana kwa wodwala ndi kuchuluka kwa zisumbali pa kuyesa matenda.\n"
+"-  Mbiri ya sex na kuchuluka kwa ma partner ni important bwanji?\n"
 '''Answer    
-    - Mbiri ya kugonana ndi yofunika kwambiri chifukwa imathandiza kuyesa chiopsezo cha wodwala pa HPV. Zinthu monga kuyamba kugonana ali ndi msinkhu wochepa ndi kukhala ndi asumbali ambiri zimawonjezera chiopsezo cha HPV, yomwe ndi chifukwa chachikulu cha cancer ya cervix. \n\n''',
+    - Mbiri ya sex imathandiza kuona risk ya HPV. Kuyamba sex uli young kapena kukhala na ma partner ambiri kungawonjezere chance ya kutenga HPV, yamene ni chifukwa chikulu cha cervical cancer. \n\n''',
 
 "*Question 82:*\n"
-"-  Kodi mumachita bwanji ndi wodwala yemwe ali ndi kutuluka magazi pambuyo pa kugonana koma ali ndi mbiri yabwino ya screening?\n"
+"-  Munthu ali na bleeding after sex koma screening history yake ili bwino, muchita chani?\n"
 '''Answer    
-    - Kutuluka magazi pambuyo pa kugonana ndi chizindikiro chachikulu cha cancer ya cervix. Wodwala yemwe ali ndi chizindikirochi, ngakhale mbiri yake ya screening ili yabwino, ayenera kufufuzidwa bwino pogwiritsa ntchito speculum ndi bimanual pelvic exam kuti adziwe komwe magazi akuchokera ndikuletsa cancer. \n\n''',
+    - Bleeding after sex ni symptom important ya cervical cancer. Ngakhale screening history ili bwino, wodwala ayenera kufufuzidwa bwino na speculum na pelvic exam kuti adziwe kumene magazi akuchokera. \n\n''',
 
 "*Question 83:*\n"
-"-  Kodi gawo la transformation zone limatanthauza chiyani pa chitukuko cha cancer ya cervix?\n"
+"-  Transformation zone ni chani pa cervical cancer?\n"
 '''Answer    
-    - Transformation zone ndi komwe maselo (cells) a kunja kwa cervix (squamous cells) amakumana ndi maselo a m'kati mwa cervix (glandular cells). Ndi malo omwe HPV imayambitsa kusintha kwa maselo (cells) ndipo cancer ya cervix imayambira. \n\n''',
+    - Transformation zone ni malo pa cervix pamene ma squamous cells amakumana na glandular cells. Ndiye malo yamene HPV imatha kuyambitsa kusintha kwa ma cells, ndipo cervical cancer zambiri zimayambira pamenepo. \n\n''',
 
 "*Question 84:*\n"
-"-  kodi pali mitundu yotani ya hysterectomy yomwe imachitika pa cancer ya cervix?\n"
+"-  Mitundu ya hysterectomy pa cervical cancer ni iti?\n"
 '''Answer    
-    - Kukuza khansa ya cervix, radical hysterectomy ndiyo imachitika kwambiri. Izi zimaphatikizapo kuchotsa chiberekero, cervix, ndi mbali zina monga parametrium ndi gawo lapamwamba la msampha (vagina). Simple hysterectomy imachitika kokha ngati cancer ili mu gawo loyambirira kwambiri. \n\n''',
+    - Pa cervical cancer, radical hysterectomy ndiyo imachitika kwambiri. Imachotsa chiberekero, cervix, parametrium, na mbali yapamwamba ya vagina. Simple hysterectomy imachitika ngati cancer ili pa stage yoyambirira kwambiri. \n\n''',
 
 "*Question 85:*\n"
-"-  Ntchito ya positron emission tomography (PET) scan pa staging ya cancer ya cervix?\n"
+"-  PET scan imathandiza chani pa staging ya cervical cancer?\n"
 '''Answer    
-    - PET scan ndi chida chamakono chomwe chimathandiza kuwona kufalikira kwa cancer. Pa cancer ya cervix, chimathandiza kupeza ngati cancer yafalikira ku ma " lymph" node kapena ku mbali zina za thupi, zomwe zimathandiza kupanga dongosolo la chithandizo. \n\n''',
+    - PET scan ni scan yamakono yamene imathandiza kuona ngati cancer yafalikira. Imatha kupeza cancer ku lymph nodes kapena mbali zina za body, ndipo imathandiza kupanga treatment plan. \n\n''',
 
 "*Question 86:*\n"
-"-  Kodi mungalimbikitse bwanji wodwala yemwe ali ndi zotsatira zosayenera za Pap smear?\n"
+"-  Mungalimbikitse bwanji wodwala ali na abnormal Pap smear?\n"
 '''Answer    
-    - Mufunika kumulimbikitsa kuti zotsatira zosayenera za Pap smear sizitanthauza cancer nthawi zonse. Fotokozani njira zotsatira monga "colposcopy", ndipo mufotokoze kuti izi zimathandiza kupewa cancer mwa kupeza ndikusamalira kusintha kwa maselo (cells) asanayambe kukhala cancer. \n\n''',
+    - Muuzeni kuti abnormal Pap smear si kuti ali na cancer. Zimangotanthauza kuti pali kusintha kwa ma cells. Next step ingakhale colposcopy kuti aone bwino na kutenga treatment ngati pakufunika. \n\n''',
 
 "*Question 87:*\n"
-"-  kodi nthawi yoyenera kuyamba screening ya cervix kwa akazi okhala ndi HIV ndiiti?\n"
+"-  Akazi amene ali na HIV ayambe screening liti?\n"
 '''Answer    
-    - Akazi okhala ndi HIV ali pachiwopsezo chachikulu, choncho ayenera kuyamba screening ali ndi zaka 25 kulingana ndi funda ya "WHO", kapena msanga ngati pali chifukwa chaumoyo. Ayenera kuchitira screening pafupipafupi. \n\n''',
+    - Akazi amene ali na HIV ali pa high risk, choncho ayenera kuyamba screening ali na zaka 25, kapena fast ngati pali chifukwa cha health. Ayenera kuchita screening pafupipafupi. \n\n''',
 
 "*Question 88:*\n"
-"-  Kodi musamalira bwanji wodwala yemwe ali ndi mbiri ya cervical dysplasia ndipo akufuna kutenga mimba?\n"
+"-  Munthu ali na history ya cervical dysplasia ndipo akufuna pregnancy, mungamusamalire bwanji?\n"
 '''Answer    
-    - Ngati cervical dysplasia inachiritsidwa ndi LEEP kapena cone biopsy, pali chiwopsezo cha chibwano kukhala cholusa (cervical insufficiency) ndi kubadwa msanga. Wodwalayo ayenera kuyang'aniridwa mosamala pa mimba, ndipo kumanga khomo la chibwano "cervical cerclage" ingaganizidwe ngati kuli kofunikira. \n\n''',
+    - Ngati cervical dysplasia inachiritsidwa na LEEP kapena cone biopsy, pangakhale risk ya cervix kufooka na kubereka fast. Wodwala ayenera kuyang'aniridwa bwino pa pregnancy, ndipo cervical cerclage ingaganizidwe ngati pakufunika. \n\n''',
 
 "*Question 89:*\n"
-"-  Kodi kusiyana kwa primary ndi secondary prevention ya cancer ya cervix ndi kuti?\n"
+"-  Primary prevention na secondary prevention zimasiyana bwanji?\n"
 '''Answer    
-    - Primary prevention: Kupewa cancer isanayambe, kudzera mu HPV vaccine ndi maphunziro okhudza chitetezo pa kugonana.\n\nSecondary prevention: Kupeza ndi kuchiritsa maselo (cells) osintha asanayambe kukhala cancer, kudzera mu Pap smear kapena VIA. \n\n''',
+    - Primary prevention ni kulekeza cancer isanayambe, monga kutenga HPV vaccine na kuphunzira za safe sex. Secondary prevention ni kupeza na kuchiza ma cells yamene asintha asanasanduke cancer, monga Pap smear kapena VIA. \n\n''',
 
 "*Question 90:*\n"
-"-  kambani Kufunika kwa thandizo la maganizo kwa odwala khansa ya cervix.\n"
+"-  Thandizo la maganizo kwa odwala cervical cancer ni important bwanji?\n"
 '''Answer    
-    - Cancer ya cervix imatha kuvulaza maganizo. Thandizo la maganizo, kuphatikiza ma langizo "counseling" ndi magulu othandizana, limathandiza odwala kuthana ndi nkhawa, mantha, ndi chisoni. \n\n''',
+    - Cervical cancer ingavulaze maganizo. Counseling na support groups zingathandize odwala kuthana na nkhawa, mantha, na chisoni. \n\n''',
 
 "*Question 91:*\n"
-"-  kodi Zovuta za kutumiza zipangizo (kits) pogwiritsa ntchito njinga m'madera akutali ndizotani?\n"
+"-  Kutumiza kits pa njinga m'madera akutali kuli na zovuta ziti?\n"
 '''Answer    
-    - Zovuta zimaphatikizapo kusunga njinga zikhale zogwira ntchito, mtengo wa mafuta ndi kukonza kusunga ma "sample" asawonongeke, kugwirizana ndi Community Health Workers kuti zipangizo (kits) zifike ndi kutengedwa nthawi yake. \n\n''',
+    - Zovuta zingakhale kusunga njinga zili bwino, mtengo wa fuel kapena maintenance, kusunga ma samples asawonongeke, na kugwirizana na Community Health Workers kuti kits zifike na kutengedwa pa nthawi yake. \n\n''',
 
 "*Question 92:*\n"
-"-  kodi ntchito ya \"AI-powered chatbots\" pothana ndi chinyengo ndi manyazi okhudza cancer ya cervix ndi yotani?\n"
+"-  AI-powered chatbots zingathandize bwanji pa manyazi na misinformation ya cervical cancer?\n"
 '''Answer    
-    - Ma chatbot amatha kupereka mfundo zolondola, zachinsinsi, komanso zomwe zikupezeka nthawi iliyonse. Izi zimathandiza kuchepetsa manyazi okhudza nkhani za kugonana ndi cancer, ndikulimbikitsa akazi kufunafuna chithandizo. \n\n''',
+    - Ma chatbot angapereke information yolondola, yachinsinsi, komanso yomwe ilipo nthawi iliyonse. Izi zimachepetsa manyazi pa nkhani za sex na cancer, ndipo zingalimbikitse azimai kufunafuna chithandizo. \n\n''',
 
 "*Question 93:*\n"
-"-  kodi zinthu zofunika pa kampeni ya cancer ya cervix m'madera omwe anthu tsaziwa kulemba kapena kuwerenga ndilotani?\n"
+"-  Cancer campaign m'madera amene anthu sadziwa kuwerenga bwino ifunika chani?\n"
 '''Answer    
-    - Kugwiritsa ntchito zithunzithunzi ndi mawu osavuta, kugwiritsa ntchito atsogoleri a m'mudzi ndi kugwiritsa nchito zipatala za galimoto (mobile clinics) kuti chithandizo chifike kwa anthu. \n\n''',
+    - Ifunika ma picture, mawu osavuta, atsogoleri a m'mudzi, na mobile clinics kuti information na chithandizo zifike kwa anthu. \n\n''',
 
 "*Question 94:*\n"
-"-  Kodi monga phunzitsa bwaji a Community Health Workers (CHWs) kuti azitha kulankhula za nkhani za cancer ya cervix?\n"
+"-  Mungaphunzitse bwanji Community Health Workers kulankhula za cervical cancer?\n"
 '''Answer    
-    - Maphunziro ayenera kuphatikiza chidziwitso chaumoyo, luso lolankhula, kugwiritsa nchito mawu oyenera komanso kulemekeza zachinsinsi ndi kumvetsetsa nkhani za manyazi. \n\n''',
+    - Training iyenera kuphatikiza health information, communication skills, kugwiritsa ntchito mawu osavuta, kusunga chinsinsi, na kumvetsetsa manyazi amene anthu angakhale nawo pa nkhani iyi. \n\n''',
 
 "*Question 95:*\n"
-"-  kodi nchito ya telemedicine pa chithandizo cha cancer ya cervix m'madera akutali ndi yotani?\n"
+"-  Telemedicine imathandiza bwanji pa cervical cancer m'madera akutali?\n"
 '''Answer    
-    - Telemedicine imalumikiza odwala ndi akatswiri aumoyo. Izi zimathandiza kufufuza akatswiri pa kanema (vitual Consultation) ndi kutha kuwunika zithunzithunzi za screening komanso kukambirana kwa gulu la akatswiri. \n\n''',
+    - Telemedicine imalumikiza odwala na ma specialist. Zimathandiza pa video consultation, kuwona ma images a screening, na kukambirana treatment plan na ma experts. \n\n''',
 
 "*Question 96:*\n"
-"-  Ndizotani zinthu za chikhalidwe choyenera (ethica considerations) pogwiritsa ntchito AI pa kupeza matenda (diagnosis) m'madera osowa zinthu?\n"
+"-  Ethical issues za AI pa diagnosis m'madera osowa zinthu ni ziti?\n"
 '''Answer    
-    - Chikhalidwe choyenera chiphatikizapo kupewa kulemelela ku modzi (the potential for algorithmic bias), kufunika kwa kuwonetsetsa kwa munthu, kusunga chinsinsi cha "data" ndi kupewa kusiyana kwa mwayi pakati pa anthu. \n\n''',
+    - Zinthu zofunika ni kulekeza algorithmic bias, kuonetsetsa kuti munthu akuwunika results, kusunga data privacy, na kulekeza kusiyana kwa access pakati pa anthu. \n\n''',
 
 "*Question 97:*\n"
-"-  Kodi ndichoteka kusunga chisinsi cha \"data\" pogwiritsa nchito WhatsApp-based health bot?\n"
+"-  Data privacy ingasungidwe bwanji pa WhatsApp health bot?\n"
 '''Answer    
-    - Kusunga chisinsi kuyenera kuphatikizapo zinthu zambiri monga \"Encryption\" kuchokera kumapeto kupita kumapeto (end-to-end Encryption), (anonymizing user data), kukhala ndi malangizo omveka bwino komanso kuphunzitsa ogwira ntchito za kusamalira \"data\". \n\n''',
+    - Privacy ingasungidwe na end-to-end encryption, kuchotsa ma details amene angadziwitse munthu, kukhala na privacy policy yomveka bwino, na kuphunzitsa staff kusamalira data bwino. \n\n''',
 
 "*Question 98:*\n"
-"-  ndi chani nKofunika kwa chidziwitso chakuti Zambia ili ndi chiwerengero chachiwiri padziko lonse?\n"
+"-  Zambia kukhala yachiwiri padziko lonse pa cervical cancer zikutanthauza chani?\n"
 '''Answer    
-    - Izi zikuwonetsa vuto lalikulu laumoyo. Zikutanthauza kuti njira zothandiza sizikufika kwa anthu omwe ali pachiwopsezo, ndipo pali kufunika kwa njira zatsopano zothanirana ndi vutoli. \n\n''',
+    - Zikusonyeza kuti vuto ni lalikulu. Zikutanthauza kuti screening, vaccine, na treatment sizikufika kwa anthu ambiri. Pafunika njira zatsopano zothandiza anthu kufika ku care. \n\n''',
 
 "*Question 99:*\n"
-"-  Kodi njira ya \"vaccinate the child, screen the mother\" imagwira ntchito bwanji?\n"
+"-  “Vaccinate the child, screen the mother” imagwira ntchito bwanji?\n"
 '''Answer    
-    - Njirayi imaphatikiza njira ziwiri zofunikira kwabasi: Kuthandiza ana aakazi (the child) ndi HPV vaccine asanakumani ndi HPV ndiponso kusamalira amayi (the mother) kudzera mu screening kuti apeze ndikusamalira maselo (cells) osintha. \n\n''',
+    - Njira iyi imachita vintu viwiri. Mwana mkazi amatenga HPV vaccine asanakumane na HPV. Mayi amachita screening kuti apeze ma cells ovuta fast asanasanduke cancer. \n\n''',
 
 "*Question 100:*\n"
-"-  Kodi njira ya hybrid ya digito ndi anthu, monga ya Dawa Health, imathandiza bwanji kuthana ndi zovuta za mbali ya kufunikira ndi yopereka pa kupewa khansa ya chiberekero (cervical cancer prevention) mu Zambia?\n"
+"-  Hybrid ya digital na anthu, monga Dawa Health, imathandiza bwanji kulekeza cervical cancer mu Zambia?\n"
 '''Answer    
-    - Njira ya hybrid ya digito ndi anthu imathandiza kupewa khansa ya chiberekero mwa kuphatikiza luso la matekinoloje a digito ndi chidaliro cha kulumikizana kwa anthu. Njira imeneyi imathana ndi zovuta za mbali zonse ziwiri --- ya kufunikira (demand-side) ndi yopereka (supply-side). Mbali ya kufunikira imathandizidwa ndi chatbot ya AI yomwe imalankhula zilankhulo zosiyanasiyana. Iyi imapereka nsanja yachinsinsi komanso yosavuta kufikako kwa akazi kuti aphunzire za khansa ya chiberekero, kuyitanitsa ma self-test kits, komanso kulandira mauthenga okhudza thanzi omwe amalimbikitsa kuchitapo kanthu. Izi zimathandiza kuthana ndi zovuta monga kusadziwa, manyazi, ndi mantha oweruzidwa. Mbali yopereka imathandizidwa ndi maukonde a Community Health Workers (CHWs) komanso maukonde a logistics omwe amaonetsetsa kuti ma HPV self-test kits aperekedwa ndi kutengedwa bwino. Kwa akazi omwe apeza zotsatira za positive, njira yotsatira imathandizidwa ndi chida cha AI chochedwa Automated Visual Evaluation (AVE) chomwe chimagwiritsidwa ntchito m'ma clinic othandizana, kuti chithandizire njira ya Visual Inspection with Acetic Acid (VIA), ndikuwonjezera kulondola ndi kusasinthasintha kwa chizindikiritso. Dongosolo lonse limalumikiza maphunziro a digito, mayendedwe a zinthu, ndi kulumikizana kwa chithandizo cha chipatala mu njira imodzi yogwirizana. \n\n''',
-    
+    - Hybrid iyi imaphatikiza digital tools na anthu. Chatbot ya AI imathandiza azimai kupeza information yachinsinsi, kufunsa mafunso, kuyitanitsa self-test kits, na kutenga ma message a health. Izi zimathandiza kuchepetsa kusadziwa, manyazi, na mantha oweruzidwa. Pa mbali ya supply, Community Health Workers na logistics network amaonetsetsa kuti HPV self-test kits zafika na kutengedwa bwino. Ngati test yaonetsa positive, AI tool monga Automated Visual Evaluation imathandiza pa clinic kuti VIA ikhale yolondola kwambiri. Njira yonse imalumikiza education, kits, screening, na clinic care mu system imodzi. \n\n''',
 )
