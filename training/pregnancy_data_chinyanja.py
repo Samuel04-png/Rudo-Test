@@ -1,831 +1,828 @@
-pregnancy_data_chinyanja = (
+pregnancy_data_chinyanja_modern = (
     "**Category-Pregnancy Weeks**\n"
-    "*Sabata 1:*\n"
-    "- Kufotokozera: Pa masabata awiri oyamba a mimba, simunakhale ndi pakati kwenikweni. Pa masabata amenewa, mupita kumwezi, pambuyo pake thupi lanu limakonzekera kutulutsa dzira (ovulate). Simunakwanitsebe kukhala ndi pakati chifukwa madotolo amawerengera tsiku lanu lobereka (due date) kuchokera pa tsiku loyamba kupita ku mwezi wanu womaliza.\n"
-    '''Zambiri za sabata iyi
 
-        Zosintha za thupi:
-        - Muzava zizindikiro zanu za thawi yanu yopita ku mwezi: kutuluka magazi, kupweteka m\'mimba, mabere opweteka, kusinthasintha kwa maganizo, ndi zina zotero.\n
+    "*Week 1:*\n"
+    "- Ku chita explain: Pa ma week yabili oyamba na mimba, mukalibe kunkala pregnant. Pa nthawi iyi, mupita ku period, kenako tupi yanu ikonzekera kutulutsa dzira, yamene imatchedwa ovulation. Mukalibe kutenga mimba chifukwa ma doctor amawerengera due date kuchokera pa first day ya period yanu yomaliza.\n"
+    '''Zambiri za week iyi
 
-        Kukulira kwa mwana:
-        - Mwana sanayambebe kupangidwa.\n
+        Kuchinja kwa tupi:
+        - Mungamvele ma symptoms ya period: bleeding, kupweteka m'mimba, mabere kupweteka, mood kuchinja, na zina.\n
+
+        Kukula kwa mwana:
+        - Mwana mukalibe kuyamba kupangidwa.\n
 
         Malangizo:
-        - Kuchita masewera olimbitsa thupi okwanira
-        - Zakudya zokwanira zopatsa thanzi
-        - Mavitamini a mimba (Prenatal vitamins)
-        - Folic acid\n
+        - Chitani exercise yokwanira
+        - Idyani vakudya va thanzi
+        - Tengani prenatal vitamins
+        - Tengani folic acid\n
 
-        Pewani:
-        - Zokometsera
+        Lekani:
+        - Zokometsera zambiri
         - Mowa
         - Mankhwala osokoneza bongo
-        - Kukoka fodya\n
+        - Kusuta fodya\n
 
         Konzekerani:
-        - Idyani zakudya zokwanira ndi zopatsa thanzi
-        - Yambani kuchita masewera olimbitsa thupi\n\n'''
+        - Idyani vakudya vokwanira komanso va thanzi
+        - Yambani kuchita exercise\n\n'''
 
-    "*Sabata 2:*\n"
-    "- Kufotokozera: Simunakwanitsebe kukhala ndi pakati pa sabata yachiwiri ya mimba. Pa masabata amenewa, mumapita ku mwezi, pambuyo pake thupi lanu limakonzekera kutulutsa dzira (ovulate). Kutulutsa dzira (Ovulation) kumachitika pa sabata yachiwiri. Chiberekero chanu chidzatulutsa dzira lokhwima lomwe limapita ku tumbo la Fallopian (Fallopian tube), komwe limadikirira kuti likumane ndi dzira la umuna kuti lidzalithire (fertilization).\n"
-    '''Zambiri za sabata iyi
+    "*Week 2:*\n"
+    "- Ku chita explain: Pa week yabili, mukalibe kunkala pregnant. Pa nthawi iyi, tupi yanu ikonzekera ovulation. Ovulation imachitika pa week iyi. Chiberekero chanu chidzatulutsa dzira lokhwima, ndipo dzira limapita ku Fallopian tube kumene limadikirira sperm kuti fertilization ichitike.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Zizindikiro za kutulutsa dzira (ovulation) zingaphatikizepo:
-        - Kupweteka pang\'ono m\'mimba
-        - Mabere ofewa
-        - Kutuluka madzi ku ukazi osalala ngati chisa cha dzira
-        - Kutentha kwa thupi ku ukazi kwambiri\n
+        Kuchinja kwa tupi:
+        - Ma symptoms ya ovulation angakhale:
+        - Kupweteka pang'ono m'mimba
+        - Mabere kukhala soft
+        - Madzi ochokera ku vagina kukhala osalala ngati egg white
+        - Temperature ya tupi kukwera pang'ono\n
 
-        Kukulira kwa mwana:
-        - Mwanayo sanayambebe kupangedwa.\n
+        Kukula kwa mwana:
+        - Mwana mukalibe kuyamba kupangidwa.\n
 
         Malangizo:
-        - Chinthu chofunikira kwambiri chomwe mungachite pakali pano ndikuyamba kukhala ngati mukudziwa kuti muli ndi pakati.\n
+        - Chinthu chofunika kwambiri pano ni kuyamba kusamalira tupi yanu ngati kuti muli pregnant.\n
 
         Konzekerani:
-        - Idyani zakudya zokwanera ndi zopatsa thanzi
-        - Yambani kuchita masewera olimbitsa thupi\n\n'''
+        - Idyani vakudya vokwanira komanso va thanzi
+        - Yambani kuchita exercise\n\n'''
 
-    "*Sabata 3:*\n"
-    "- Kufotokozera: Sabata lachitatu ndi nthawi yomwe dzira limatuluka (ovulation) ndi mimba kuyambika. Pa sabata ino, mwana wamtsogolo adzayamba kukula, kuphatikizapo bongo ndi fupa la msana (spinal cord). Pa sabata lachitatu, dzira lothiridwa la umuna limayamba kulumikizana ndi khoma la chiberekero.\n"
-    '''Zambiri za sabata iyi
+    "*Week 3:*\n"
+    "- Ku chita explain: Week 3 ni nthawi yamene ovulation na kuyamba kwa pregnancy zingachitike. Pa week iyi, mwana wamtsogolo angayambe kukula, kuphatikizapo brain na spinal cord. Dzira yamene yafertilized imayamba kulumikizana na wall ya chiberekero.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Azimai ambiri samazindikira kusintha kulikonse, koma ena amakhala ndi kupweteka pang\'ono m\'mimba komanso kutuluka madzi ku ukazi ochulukirapo. Azimai ena amakhala ndi kupweteka pang\'ono m\'mimba kapena kutuluka mwazi ochepa, ochedwa \"implantation bleeding\".\n
+        Kuchinja kwa tupi:
+        - Azimai ambiri samazindikira kuchinja kulikonse. Ena angamve kupweteka pang'ono m'mimba kapena kuona madzi ochuluka ku vagina. Ena angakhale na bleeding yochepa, yamene imatchedwa implantation bleeding.\n
 
-        Kukulira kwa mwana:
-        - Mwana wam\'mimba wanu ndi wochepa kwambiri ndipo akuwoneka ngati gulu la maselo. Ali ndi kukula kwa mutu wa manso apini ndipo ali pafupifupi 0.48 mm utali.\n
+        Kukula kwa mwana:
+        - Mwana wa m'mimba ni wochepa kwambiri ndipo amaoneka ngati gulu la ma cells. Ali pafupifupi 0.48 mm utali.\n
 
         Malangizo:
-        - Thupi lanu likuyamba kusintha kwambiri. Onetsetsani kuti mukupuma mokwanira ndipo mukudya zakudya zokwanira ndi zopatsa thanzi.\n
+        - Tupi yanu iyamba kuchinja. Onetsetsani kuti mukupuma mokwanira komanso mukudya vakudya vokwanira va thanzi.\n
 
         Konzekerani:
-        - Kudya zakudya zopatsa thanzi ndi zomanga thupi
-        - Mankhwala a folic acid ndi mavitamini ena ofunika\n\n'''
+        - Idyani vakudya va thanzi na vomanga tupi
+        - Tengani folic acid na ma vitamins ena ofunika\n\n'''
 
-    "*Sabata 4:*\n"
-    "- Kufotokozera: Pakati pa sabata lachinayi ndi lachisanu ndi chiwiri, azimayi ambiri amadziwa kuti ali ndi pakati. Mutha kuyamba kukumana ndi zizindikiro zosiyanasiyana za mimba. Nthawi zambiri, mawere aoneka kusitha. Azimai ena ayamba kuva kunuka kwa zakundya zina, kuzulila kwa mimba ndi kuva kusiyanako kwa ka khalidwe kao.\n"
-    '''Zambiri za sabata iyi
+    "*Week 4:*\n"
+    "- Ku chita explain: Pakati pa week 4 na 7, azimai ambiri amadziwa kuti ali pregnant. Mungayambe kumvele ma symptoms osiyanasiyana ya pregnancy. Nthawi zambiri, mabere amayamba kuchinja. Ena amayamba kudana na smell ya vakudya vina, kumva nseru, komanso mood kuchinja.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Mutha kuyamba kukhala ndi zizindikiro zoyambirira za mimba monga mabere opweteka, mutu kupweteka, kupweteka msana, ndi nseru.\n
+        Kuchinja kwa tupi:
+        - Mungayambe kukhala na ma symptoms oyamba a pregnancy monga mabere kupweteka, mutu kupweteka, msana kupweteka, na nseru.\n
 
-        Kukulira kwa mwana:
-        - Ana amakhala ochepa kwambiri panthawiyi, pafupifupi 1.98 mm utali. Minyendo ndi manja apangidwa koma simungathe kuzizindikela bwino.\n
+        Kukula kwa mwana:
+        - Mwana ali wochepa kwambiri pa nthawi iyi, pafupifupi 1.98 mm utali. Miyendo na manja zayamba kupangidwa koma sizingaoneke bwino pe apa.\n
 
         Malangizo:
-        - Sankhani adotolo anu kuti muwone zomwe akulimbikitsani.
-        - Mankhwala a folic acid ndi ofunika kwa inu ndi mwana wanu.\n
+        - Sankhani doctor kapena nurse kuti akuuzeni zimene muyenera kuchita.
+        - Folic acid ni important kwa inu na mwana.\n
 
         Konzekerani:
-        - Ngati mwachedwa kupita ku mwezi, mutha kupima mimba kunyumba. Ngati zotsatira ndi zabwino, mungathe kuyesa kukonza nthawi yochita msonkhano ndi adotolo.\n\n'''
+        - Ngati period yachedwa, mungapime pregnancy kunyumba. Ngati result ili positive, konzani appointment na doctor kapena nurse.\n\n'''
 
-    "*Sabata 5:*\n"
-    "- Kufotokozera: Pa sabata lachisanu, mungafune kukonza nthawi yochezera adotolo anu. Panthawiyi, mungayambenso kukhala ndi matenda a m\'mawa (morning sickness) kapena mutha kuyambanso kukhala ndi nseru ya m\'mawa.\n"
-    '''Zambiri za sabata iyi
+    "*Week 5:*\n"
+    "- Ku chita explain: Pa week 5, mungafune kupanga appointment na doctor kapena nurse. Pa nthawi iyi, mungayambe kukhala na morning sickness kapena nseru ya m'mawa.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Kusinthasintha kwa maganizo chifukwa cha mahomoni kumabweretsa kusintha kwa maganizo ambiri pa sabata lachisanu.\n
+        Kuchinja kwa tupi:
+        - Hormones zingapangitse mood kuchinja kwambiri pa week 5.\n
 
-        Kukulira kwa mwana:
-        - Mwana wanu ndi wochepa kwambiri, pafupifupi 3 mm utali. Mtima wa mwana wanu ukumenya mwasatani-satani, ndipo maso ndi makutu akuyamba kupangidwa.\n
+        Kukula kwa mwana:
+        - Mwana wanu ni wochepa kwambiri, pafupifupi 3 mm utali. Mtima wa mwana wayamba kumenya, ndipo maso na makutu ayamba kupangidwa.\n
 
         Malangizo:
-        - Madotolo amalimbikitsa kuti azimai onenepa bwino awonjezere pafupifupi 11.3 mpaka 15.9 kg pa mimba.\n
+        - Ma doctor amalimbikitsa azimai amene ali na weight yabwino kuwonjezera pafupifupi 11.3 mpaka 15.9 kg pa pregnancy yonse.\n
 
         Konzekerani:
-        - Ngati simunakonzerebe nthawi yoyamba yochezera adotolo, ndi nthawi yoti muchite izi.\n\n'''
+        - Ngati simunapange appointment yoyamba na doctor, ino ni nthawi yochita izi.\n\n'''
 
-    "*Sabata 6:*\n"
-    "- Kufotokozera: Panthawiyi, mutha kukumana ndi nseru, kusintha kwa mabere, ndi kutentha kwa chifuwa. Ziwalo zofunika za mwana wanu zikukula.\n"
-    '''Zambiri za sabata iyi
+    "*Week 6:*\n"
+    "- Ku chita explain: Pa nthawi iyi, mungakhale na nseru, kuchinja kwa mabere, na heartburn. Ziwalo zofunika za mwana zikukula.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Azimai ena amatha kuona kuti anenepa pang'ono, pamene ena angathe kuonda
-        - Mutha kuona kusintha kwa mabere anu: kufuwera kutsongolo kwa mawere ndi kuwawa
-        - Azimayi ena amatuluka mwazi ochepa pa mimba (ngati mwazi wachuluka ndi kupweteka m'mimba, dziwitsani dotolo)\n
+        Kuchinja kwa tupi:
+        - Azimai ena angaone kuti awonjezera weight pang'ono, ena angachepe weight
+        - Mungaoone kuchinja kwa mabere: ma nipple akhoza kuderako komanso kuwawa
+        - Azimai ena amatuluka blood yochepa pa pregnancy. Ngati blood yachuluka kapena muli na pain m'mimba, uzani doctor fast.\n
 
-        Kukulira kwa mwana:
-        - Mwana wanu ali ndi pafupifupi 19.05 mm utali
-        - Mapwapwa, nsagada, mphuno ndi m'kamwa zayamba kupangidwa\n
+        Kukula kwa mwana:
+        - Mwana ali pafupifupi 19.05 mm utali
+        - Mapewa, nsagwada, mphuno, na m'kamwa zayamba kupangidwa\n
 
         Malangizo:
-        - Ngati mavitamini anu a mimba amakudwalitsani, mutha kuwamwa ndi chakudya kapena usiku\n
+        - Ngati prenatal vitamins zikukudwalitsani, mungazitenge na vakudya kapena usiku.\n
 
         Konzekerani:
-        - Dziwani mtundu wa magazi wanu ndi wa amuna anu (A, B, AB kapena O)\n\n'''
+        - Dziwani blood type yanu na ya partner wanu: A, B, AB kapena O.\n\n'''
 
-    "*Sabata 7:*\n"
-    "- Kufotokozera: Pa sabata lachisanu ndi chiwiri, chiwalo chilichonse chofunikira chayamba kupangidwa m'thupi la mwana wanu. Komanso, ngakhale nseru ya m'mawa ndi yosapatsa chitonthozo, pali njira zomwe mungatengere kuti mutonthozedwe.\n"
-    '''Zambiri za sabata iyi
+    "*Week 7:*\n"
+    "- Ku chita explain: Pa week 7, chiwalo chilichonse chofunika chayamba kupangidwa mu tupi ya mwana. Koma ngati muli na morning sickness, pali njira zamene zingakuthandizeni kumva bwino.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Thupi lanu lidzasintha pang'onopang'ono (anthu sangadziwe kuti muli ndi pakati)
-        - Mungawonjezere kapena kutaya kulemera chifukwa cha nseru ya m'mawa\n
+        Kuchinja kwa tupi:
+        - Tupi yanu iyamba kuchinja pang'ono pang'ono, koma anthu sangadziwe kuti muli pregnant
+        - Mungawonjezere kapena kuchepa weight chifukwa cha morning sickness\n
 
-        Kukulira kwa mwana:
+        Kukula kwa mwana:
         - Ali pafupifupi 2.54 cm utali
-        - Chiwalo chilichonse chofunikira chayamba kupangidwa\n
+        - Chiwalo chilichonse chofunika chayamba kupangidwa\n
 
         Malangizo:
-        - Njira zothana ndi nseru ya m'mawa:
-          * Idyani zakudya zochepa nthawi zambiri
-          * Idyani chimanga chouma mphindi 15 musanadzuke
-          * Pata mpumulo wokwanira
-          * Kumwa madzi oikamo mandimu
-          * Kusheta ginger\n
+        - Njira zochepetsa morning sickness:
+          * Idyani vakudya vochepa koma pafupipafupi
+          * Idyani dry food pang'ono musanadzuke
+          * Tengani mpumulo wokwanira
+          * Imwani madzi okhala na lemon
+          * Yesani ginger\n
 
         Konzekerani:
-        - Ngati simunasankhebe chipatala kapena anyamata, ndi nthawi yoti musankhe\n\n'''
+        - Ngati simunasankhe clinic kapena doctor, ino ni nthawi yosankha.\n\n'''
 
-    "*Sabata 8:*\n"
-    "- Kufotokozera: Pa sabata lachisanu ndi chitatu, mungakumane ndi nseru ya m'mawa, ndipo mwana wanu akukula. Mutha kukhalanso ndi nthawi yanu yoyamba ya chipimu yokumana ndi adotolo mwezi uno.\n"
-    '''Zambiri za sabata iyi
+    "*Week 8:*\n"
+    "- Ku chita explain: Pa week 8, mungakhale na morning sickness, ndipo mwana akukula. Mungakhalenso na first antenatal visit mwezi uno.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Zizindikiro za mimba zikuyamba kuoneka: nseru, mabere opweteka, kutopa, kukodza
-        - Chiberekero chanu chakula kufanana ndi mphesa\n
+        Kuchinja kwa tupi:
+        - Ma symptoms ya pregnancy ayamba kuoneka: nseru, mabere kupweteka, kutopa, na kukodza pafupipafupi
+        - Chiberekero chanu chakula kufika size ya grape\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 2.54 cm utali (kukula kwa nyemba)
+        Kukula kwa mwana:
+        - Ali pafupifupi 2.54 cm utali, size ya nyemba
         - Ziwalo zonse za munthu wamkulu zili mwa mwana\n
 
         Malangizo:
-        - Ngati mukugwiritsa ntchito mankhwala, dziwani zomwe ali nazo ndi dziwitsani dotolo\n
+        - Ngati mukutenga mankhwala, dziwani zimene zili mmenemo ndipo uzani doctor.\n
 
         Konzekerani:
-        - Konzani nthawi yoyamba yochezera adotolo (adzafunsa za mbiri yanu yachipatala)\n\n'''
+        - Konzani first antenatal visit. Doctor adzafunsa medical history yanu.\n\n'''
 
-    "*Sabata 9:*\n"
-    "- Kufotokozera: Pa masabata asanu ndi anai, mwana wanu ali pafupifupi kukula kwa mphesa ndipo angayambe kuyamwa chala chake. Dziwani momwe mungapewere kutentha kwa chifuwa komanso kupeza tulo tabwino usiku.\n"
-    '''Zambiri za sabata iyi
+    "*Week 9:*\n"
+    "- Ku chita explain: Pa week 9, mwana wanu ali pafupifupi size ya grape ndipo angayambe kuyamwa chala chake. Dziwani momwe mungalekeze heartburn na kutenga sleep yabwino usiku.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Simungathe kuoneka ngati muli ndi pakati
-        - Mutha kukhala ndi kusinthasintha kwa maganizo, kutentha kwa chifuwa, kutopa\n
+        Kuchinja kwa tupi:
+        - Mungakhale simukuoneka ngati muli pregnant pe apa
+        - Mungakhale na mood swings, heartburn, na kutopa\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 4.24 cm (mutu mpaka mchira)
-        - Ziwalo zonse (nkhongono, mapwapwa, mapewa, mikono) zikugwira ntchito\n
+        Kukula kwa mwana:
+        - Ali pafupifupi 4.24 cm kuchokera ku mutu mpaka mchira
+        - Ziwalo zonse monga elbows, shoulders, arms, na legs zikugwira ntchito\n
 
         Malangizo:
-        - Mutha kuyamba kumva kutopa kwambiri chifukwa cha mahomoni\n
+        - Mungayambe kumva kutopa kwambiri chifukwa cha hormones.\n
 
         Konzekerani:
-        - Ngati muli ndi zaka zopitilira 35 kapena mbiri ya matenda, ganizirani zochezera adotolo\n\n'''
+        - Ngati muli na zaka zopitilira 35 kapena muli na medical history, ganizirani kukaonana na doctor.\n\n'''
 
-    "*Sabata 10:*\n"
-    "- Kufotokozera: Ngakhale ziwalo zambiri za mwana wanu zili m'thupi kale pa sabata la 10, zidzapitirira kukula pa mimba yanu yonse. Komanso, pezani masewera olimbitsa thupi oti mukhale wathanzi pa mimba.\n"
-    '''Zambiri za sabata iyi
+    "*Week 10:*\n"
+    "- Ku chita explain: Ngakhale ziwalo zambiri za mwana zili mu tupi kale pa week 10, zipitiriza kukula pregnancy yonse. Komaso pezani exercise yabwino kuti mukhale healthy pa pregnancy.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Azimai ena amakhala ndi "kuwala kwa mimba"
-        - Mabere ndi mimba yanu ikukula sabata iliyonse\n
+        Kuchinja kwa tupi:
+        - Azimai ena amakhala na pregnancy glow
+        - Mabere na mimba zikukula week iliyonse\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 5.08 cm (kukula kwa ndimu)
-        - Iyi ndi nthawi yomaliza ya "embryonic period" ndipo ndi chiyambi cha "fetal period"\n
+        Kukula kwa mwana:
+        - Ali pafupifupi 5.08 cm, size ya lemon
+        - Iyi ni last week ya embryonic period ndipo fetal period ikuyamba\n
 
         Malangizo:
-        - Funsani adotolo za masewera olimbitsa thupi oyenera\n
+        - Funsani doctor za exercise yamene ili safe.\n
 
         Konzekerani:
-        - Nthawi yachiwiri yochezera dotolo idzachitika pakati pa sabata 12 ndi 16 (adzachita ultrasound)\n\n'''
+        - Second antenatal visit ingachitike pakati pa week 12 na 16. Doctor angachite ultrasound.\n\n'''
 
-    "*Sabata 11:*\n"
-    "- Kufotokozera: Pa sabata 11, muli ndi masabata ochepa kuti mumalize gawo loyamba la mimba. Ngakhale simungathe kumva kusintha kulikonse panthawiyi, mwana wanu akuyamba kukhala wogwira ntchito kwambiri.\n"
-    '''Zambiri za sabata iyi
+    "*Week 11:*\n"
+    "- Ku chita explain: Pa week 11, mwatsala ma week ochepa kuti mumalize first trimester. Ngakhale simungamve kuchinja konse, mwana akuyamba kuyenda kwambiri.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Azimai ena amaona kusintha kwa tsitsi ndi zala (kukula msanga)
-        - Mimba yanu ikukula ndipo ingayambitse kupweteka m'mimba
-        - Kutuluka kwa madzi (leukorrhea) kumasonyeza kuti thupi lanu likuyesetsa kutulutsa tizilombo\n
+        Kuchinja kwa tupi:
+        - Azimai ena amaona kuchinja kwa hair na nails, zikukula fast
+        - Mimba yanu ikukula ndipo ingayambitse pain m'mimba
+        - Kutuluka kwa madzi ku vagina, leukorrhea, kumasonyeza kuti tupi ikuyesera kuchotsa ma germs\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 6.35 cm utali (1.4 cm mutu wokha)
-        - Zala za m'manja ndi m'mapazi zapatukana
-        - Mutha kudziwa ngati mwana ndi wamuna kapena mkazi\n
+        Kukula kwa mwana:
+        - Ali pafupifupi 6.35 cm utali
+        - Zala za m'manja na m'mapazi zapatukana
+        - Nthawi zina mungadziwe ngati mwana ni boy kapena girl\n
 
         Malangizo:
-        - Ngati mulibe mavuto, kuyenda nthawi zonse ndi kobwera\n
+        - Ngati mulibe mavuto, kuyenda nthawi zonse ni kwabwino.\n
 
         Konzekerani:
-        - Osadandaula ngati mwaonda (azimai ambiri amangowonjezera 1.3-1.8 kg mu trimester yoyamba)\n\n'''
+        - Musadandaule ngati weight yachepa. Azimai ambiri amangowonjezera 1.3 mpaka 1.8 kg mu first trimester.\n\n'''
 
-    "*Sabata 12:*\n"
-    "- Kufotokozera: Mumaliza pafupifupi chigawo choyamba! Mwana wanu akupitiriza kukula, ndipo mukufunikira kudya bwino kuti mupeze zakudya zoyenera kwa inu ndi mwana wanu.\n"
-    '''Zambiri za sabata iyi
+    "*Week 12:*\n"
+    "- Ku chita explain: Mwatsala pang'ono kumaliza first trimester. Mwana akupitiriza kukula, ndipo muyenera kudya bwino kuti mutenge nutrients zofunika kwa inu na mwana.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Kuchuluka kwa mwazi kumawonjezeka ndi 50%
-        - Chiberekero chanu chikupitiriza kukula (adotolo akhoza kuchimva)
-        - Zovala zanu sizikukwanira bwino\n
+        Kuchinja kwa tupi:
+        - Blood volume imawonjezeka na 50%
+        - Chiberekero chikupitiriza kukula, ndipo doctor akhoza kuchimva
+        - Zovala zanu zingayambe kusakukwanani bwino\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 8 cm utali (28 g)
-        - Maso akuyenda pafupi ndi mphuno
-        - Matumbo akuyamba kubwerera mu mimba\n
+        Kukula kwa mwana:
+        - Ali pafupifupi 8 cm utali, 28 g
+        - Maso akuyenda pafupi na mphuno
+        - Matumbo ayamba kubwerera mu mimba\n
 
         Malangizo:
-        - Masewera a Kegel athandiza kulimbitsa minofu ya ukazi\n
+        - Kegel exercises zingathandize kulimbitsa pelvic muscles.\n
 
         Konzekerani:
-        - Yang'anani zakudya zanu kuti zikhale zokwanira
-        - Pewani zakudya zopheka zamusanga, kudya usiku, ndi zozira\n\n'''
+        - Yang'anani vakudya yanu kuti ikhale yokwanira
+        - Lekani fast foods, kudya late usiku, na vakudya vozizira kwambiri ngati zikukuvutitsani.\n\n'''
 
-    "*Sabata 13:*\n"
-    "- Kufotokozera: Pamene mumamaliza chigawo choyamba, mudzayamba kuona zosintha zambiri pa thupi lanu, kuphatikizapo mikwingwirima ya mimba (stretch marks). Komanso, mwana wanu tsopano ali ndi zala zosiyana.\n"
-    '''Zambiri za sabata iyi
+    "*Week 13:*\n"
+    "- Ku chita explain: Pamene mukumaliza first trimester, mudzayamba kuona kuchinja kwambiri pa tupi, monga stretch marks. Komaso mwana ali na zala zosiyana tsopano.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Mikwingwirima ya mimba ingayambe kuonekera
-        - Matenda a m'mawa angayambe kuchepa
-        - Mutha kuona kusintha kwa mabere\n
+        Kuchinja kwa tupi:
+        - Stretch marks zingayambe kuoneka
+        - Morning sickness ingayambe kuchepa
+        - Mungaone kuchinja kwa mabere\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 9.5 cm utali (35 g)
-        - Mutu sakuchepa kuposa kale
-        - Ali ndi tsitsi lofewa (lanugo)\n
+        Kukula kwa mwana:
+        - Ali pafupifupi 9.5 cm utali, 35 g
+        - Mutu sukulanso kwambiri kuposa tupi ngati kale
+        - Ali na hair yofewa, lanugo\n
 
         Malangizo:
-        - Mafuta odzola ndi masewera athandiza kuchepetsa mikwingwirima\n
+        - Lotion na exercise zingathandize kuchepetsa stretch marks.\n
 
         Konzekerani:
-        - Kugonana kuli kotetezeka ngati:
-          * Mulibe mbiri yakubereka msanga
-          * Simuli ndi madzi atuluka
-          * Mulibe mwazi wosadziwika\n\n'''
+        - Sex ili safe ngati:
+          * Mulibe history ya kubereka fast
+          * Madzi sanatulukepo
+          * Mulibe bleeding yosadziwika\n\n'''
 
-    "*Sabata 14:*\n"
-    "- Kufotokozera: Tikukuthokozani chifukwa choyamba gawo lachiwiri la mimba! Inu ndi mwana wanu mukupitiriza kukula. Dziwani momwe mungathanirane ndi nkhawa m'njira yabwino.\n"
-    '''Zambiri za sabata iyi
+    "*Week 14:*\n"
+    "- Ku chita explain: Congrats, mwayamba second trimester! Inu na mwana mukupitiriza kukula. Dziwani momwe mungathane na stress m'njira yabwino.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Mutha kukhala ndi chilakolako chowonjezereka ndi mphamvu yatsopano
-        - Zovala za mimba zingakhale zofunikira\n
+        Kuchinja kwa tupi:
+        - Mungakhale na appetite yambiri na energy yatsopano
+        - Maternity clothes zingayambe kufunika\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 10 cm utali (0.05 kg)
-        - Chiwindi chake chikuyamba kupanga bile
-        - Mtima wake ukuyamba kupanga mwazi\n
+        Kukula kwa mwana:
+        - Ali pafupifupi 10 cm utali, 0.05 kg
+        - Liver yake yayamba kupanga bile
+        - Mtima wake wayamba kupanga blood\n
 
         Malangizo:
-        - Ngati muli ndi zipsera zatsopano, dziwitsani dotolo\n
+        - Ngati muli na rashes zatsopano, uzani doctor.\n
 
         Konzekerani:
-        - Kusinthasintha kwa maganizo kumadza pa mimba (musadandaule)\n\n'''
+        - Mood swings zimachitika pa pregnancy, musadandaule.\n\n'''
 
-    "*Sabata 15:*\n"
-    "- Kufotokozera: Pa sabata la 15, adotolo anu angayambe kupima kutalika kwa chiberekero chanu kuti ayese kukula kwa mwana wanu. Komanso, dziwani malo abwino ogonera pa mimba.\n"
-    '''Zambiri za sabata iyi
+    "*Week 15:*\n"
+    "- Ku chita explain: Pa week 15, doctor angayambe kuyeza kukula kwa chiberekero kuti aone kukula kwa mwana. Komaso dziwani position yabwino yogonera pa pregnancy.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Kulemera kwapakati: pafupifupi 2.27 kg
-        - Mutha kupeza mphuno yotsekeka, kupweteka kwa miyendo\n
+        Kuchinja kwa tupi:
+        - Average weight gain: pafupifupi 2.27 kg
+        - Mungakhale na blocked nose kapena miyendo kupweteka\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 12 cm utali (57 g)
-        - Khungu lochepa kwambiri (mizipe yamwazi ingaoneke)
-        - Mafupa akuyamba kuumitsa\n
+        Kukula kwa mwana:
+        - Ali pafupifupi 12 cm utali, 57 g
+        - Skin yake ni yoonda kwambiri, blood vessels zingaoneke
+        - Mafupa ayamba kuuma\n
 
         Malangizo:
-        - Yambani kugona m'mbali (kugona chagada kumaponda mizipe)\n
+        - Yambani kugona mbali. Kugona chagada kungapondereze blood vessels.\n
 
         Konzekerani:
-        - Adotolo adzayamba kupima chiberekero chanu (mtunda pakati pa fupa la pubic ndi pamwamba pa chiberekero)\n\n'''
+        - Doctor adzayamba kuyeza chiberekero chanu, kuchokera pa pubic bone mpaka pamwamba pa chiberekero.\n\n'''
 
-    "*Sabata 16:*\n"
-    "- Kufotokozera: Pamene mulowa mu sabata la 16, mwazi wanu wawonjezeka, mungakhale ndi kuwala kwa mimba, ndipo mwana wanu akukonzekera kukula msanga.\n"
-    '''Zambiri za sabata iyi
+    "*Week 16:*\n"
+    "- Ku chita explain: Pamene mwalowa week 16, blood volume yawonjezeka, mungakhale na pregnancy glow, ndipo mwana akukonzekera kukula fast.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Pafupifupi 90% ya azimai amakumana ndi kuda kwa khungu (mabere, chiuno, manja, mimba)
-        - Chiberekero chikulemera pafupifupi 0.25 kg
-        - Thupi lanu likupanga madzi ochulukirapo a amniotic\n
+        Kuchinja kwa tupi:
+        - Pafupifupi 90% ya azimai amaona skin kuderako pa mabere, chiuno, manja, kapena mimba
+        - Chiberekero chili pafupifupi 0.25 kg
+        - Tupi ikupanga amniotic fluid yochuluka\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 13.5 cm utali (0.07 kg)
-        - Akukonzekera kukula msanga m'masabata otsatira\n
+        Kukula kwa mwana:
+        - Ali pafupifupi 13.5 cm utali, 0.07 kg
+        - Akukonzekera kukula fast mu ma week akubwera\n
 
         Malangizo:
-        - Mutha kumva kuyenda koyamba kwa mwana pakati pa sabata 16 ndi 20\n
+        - Mungayambe kumva mwana kuyenda pakati pa week 16 na 20.\n
 
         Konzekerani:
-        - Adotolo angakulimbikitseni kupima:
+        - Doctor angakulimbikitseni ma test monga:
           * Ultrasound
-          * Alpha-Feta Protein (AFP)
+          * Alpha-Feta Protein, AFP
           * Amniocentesis\n\n'''
 
-    "*Sabata 17:*\n"
-    "- Kufotokozera: Pa sabata la 17, muli mkati mwa gawo lachiwiri la mimba. Mwana wanu akupanga mafuta, mimba yanu ikukula, ndipo mungakhale ndi kupweteka kwa muzipe wa sciatic.\n"
-    '''Zambiri za sabata iyi
+    "*Week 17:*\n"
+    "- Ku chita explain: Pa week 17, muli mkati mwa second trimester. Mwana akupanga mafuta, mimba ikukula, ndipo mungakhale na sciatic nerve pain.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Ziwalo zina zidzasintha kugwirizana ndi kukula kwa chiberekero
-        - Kupweteka kwa msana sikungapeweke\n
+        Kuchinja kwa tupi:
+        - Ziwalo zina za tupi zidzasintha chifukwa chiberekero chikukula
+        - Back pain ingayambe kapena kukula\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 14.5 cm utali (0.11 kg)
-        - Chingwe cha mchombo chikukula ndi kukhala cholimba
-        - Kumva kwa mwana kukukulanso\n
-
-        Malangizo:
-        - Kupweteka kwa muzipe wa sciatic (muzipe waukulu womwe umayenda pansi pa chiberekero)\n
-
-        Konzekerani:
-        - Ziwalo zanu zimayamba kuyabwa kwambiri kuposa kale\n\n'''
-
-    "*Sabata 18:*\n"
-    "- Kufotokozera: Pa sabata 18, mimba yanu ikuyamba kuonekera kwambiri. Mungafunike kutenga nthawi yopuma masana. Mungakhalenso ndi nthawi yanu yachitatu yochezera adotolo posachedwa.\n"
-    '''Zambiri za sabata iyi
-
-        Zosintha za thupi:
-        - Mimba yanu ikuwoneka kwambiri (anthu akhoza kuzindikira)
-        - Muyembekezere kuonjezera 0.45 kg pa sabata
-        - Mikwingwirima yochepa ingaoneke\n
-
-        Kukulira kwa mwana:
-        - Ali pafupifupi 16 cm utali (0.16 kg)
-        - Myelin ikuyamba kupangidwa mozungulira mizipe\n
+        Kukula kwa mwana:
+        - Ali pafupifupi 14.5 cm utali, 0.11 kg
+        - Umbilical cord ikukula na kukhala strong
+        - Hearing ya mwana ikukulanso\n
 
         Malangizo:
-        - Ngati muli ndi ana, pezani nthawi yopuma pamene akugona\n
+        - Sciatic nerve pain ni pain ya nerve yamene imayenda pansi pafupi na chiberekero.\n
 
         Konzekerani:
-        - Konzani nthawi yachitatu yochezera adotolo (mutha kupatsidwa sonogram)\n\n'''
+        - Skin yanu ingayambe kuyabwa kwambiri kuposa kale.\n\n'''
 
-    "*Sabata 19:*\n"
-    "- Kufotokozera: Pa sabata 19, mungakhale ndi ululu wa m'mimba komanso chizungulire. Lankhulani ndi adotolo anu musanagwiritse ntchito mankhwala kapena zitsamba zilizonse.\n"
-    '''Zambiri za sabata iyi
+    "*Week 18:*\n"
+    "- Ku chita explain: Pa week 18, mimba ikuyamba kuoneka kwambiri. Mungafunike kutenga rest masana. Mungakhalenso na third antenatal visit soon.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Kupweteka kwa m'mimba (minofu zikukula)
-        - Kuthetha kwa mchifuwa (heartburn) kungachitike
-        - Kudzimbidwa (constipation) kungachitikenso\n
+        Kuchinja kwa tupi:
+        - Mimba ikuoneka kwambiri, anthu akhoza kuzindikira
+        - Muyembekezere kuwonjezera pafupifupi 0.45 kg pa week
+        - Stretch marks zochepa zingaoneke\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 17.8 cm utali (0.20 kg)
-        - Impso zake zikupanga mitundo
-        - Tsitsi likuyamba kumera pa mutu\n
+        Kukula kwa mwana:
+        - Ali pafupifupi 16 cm utali, 0.16 kg
+        - Myelin ikuyamba kupangidwa mozungulira ma nerves\n
 
         Malangizo:
-        - Pewani chizungulire pogona m'mbali m'malo mogona chagada\n
+        - Ngati muli na ana, tengani nthawi yopuma pamene agona.\n
 
         Konzekerani:
-        - Samalani ndi zitsamba zomwe mumagwiritsa ntchito (zina zingayambitse kusabereka)\n\n'''
+        - Konzani third antenatal visit. Mutha kupatsidwa sonogram.\n\n'''
 
-    "*Sabata 20:*\n"
-    "- Kufotokozera: Tikukuthokozani chifukwa chofika pakati pa mimba yanu! Tsopano ndi nthawi yabwino kuyamba kupanga dongosolo lobereka. Komanso onetsetsani kuti mukudya chitsulo chokwanira (iron).\n"
-    '''Zambiri za sabata iyi
+    "*Week 19:*\n"
+    "- Ku chita explain: Pa week 19, mungakhale na pain m'mimba kapena dizziness. Lankhulani na doctor musanatenge mankhwala kapena zitsamba zilizonse.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Pamwamba pa chiberekero chili pa mlingo womwewo ndi pakati pa mimba
-        - Mwawonjezera pafupifupi 3.6-4.5 kg
-        - Muyembekezere kuonjezera 0.23-0.45 kg pa sabata\n
+        Kuchinja kwa tupi:
+        - Pain m'mimba imatha kuchitika chifukwa muscles zikukula
+        - Heartburn ingachitike
+        - Constipation ingachitikenso\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 19.7 cm utali (0.26 kg)
-        - Waphimbidwa ndi vernix caseosa (chinthu choyera choteteza khungu)
-        - Mtima wake ukumenya pafupifupi 120-160 kamodzi paminiti\n
+        Kukula kwa mwana:
+        - Ali pafupifupi 17.8 cm utali, 0.20 kg
+        - Kidneys zikupanga urine
+        - Hair yayamba kumera pa mutu\n
 
         Malangizo:
-        - Onetsetsani kuti mukudya chitsulo chokwanira (chimathandiza kupanga mwazi)\n
+        - Lekani dizziness pogona mbali m'malo mogona chagada.\n
 
         Konzekerani:
-        - Yambani kuganizira za kubereka ndi kulemba mapulani
-        - Konzani dongosolo lobereka\n\n'''
+        - Samalani na zitsamba zamene mukutenga. Zina zingakhale unsafe pa pregnancy.\n\n'''
 
+    "*Week 20:*\n"
+    "- Ku chita explain: Congrats chifukwa mwafika pakati pa pregnancy! Tsopano ni nthawi yabwino kuyamba kupanga birth plan. Komaso onetsetsani kuti mukudya iron yokwanira.\n"
+    '''Zambiri za week iyi
 
-    "*Sabata 21:*\n"
-    "- Kufotokozera: Pa sabata 21, muli mkati mwa gawo lachiwiri la mimba. Kwa azimayi ambiri, ino ndiyo gawo yosangalatsa kwambiri. Sangalalani ndi nthawiyi pamene mwana wanu akupitiriza kukula.\n"
-    '''Zambiri za sabata iyi
+        Kuchinja kwa tupi:
+        - Pamwamba pa chiberekero chili pa level ya navel
+        - Mwawonjezera pafupifupi 3.6 mpaka 4.5 kg
+        - Muyembekezere kuwonjezera 0.23 mpaka 0.45 kg pa week\n
 
-        Zosintha za thupi:
-        - Mungamva kupweteka kwa m'mimba, chiuno, ndi mapwapwa
-        - Ngati mukuyika zala pafupifupi 1 cm pamwamba pa mimba, mungamve chiberekero\n
-
-        Kukulira kwa mwana:
-        - Ali pafupifupi 21.6 cm utali (0.34 kg)
-        - Zikope zamaliza kupangidwa sabata ino
-        - Akuyenda kwambiri (mutha kumva)\n
+        Kukula kwa mwana:
+        - Ali pafupifupi 19.7 cm utali, 0.26 kg
+        - Waphimbidwa na vernix caseosa, chinthu choyera choteteza skin
+        - Mtima wake ukumenya pafupifupi 120 mpaka 160 pa minute\n
 
         Malangizo:
-        - Pewani matenda a mitundo (UTI) pogwira ntchito izi:
-          * Kumwa madzi 6-8 kupinda tsiku
-          * Kupukuta kuchokera kutsogolo kupita kumbuyo
-          * Kupewa mabuluku ofyata\n
+        - Onetsetsani kuti mukudya iron yokwanira. Imathandiza kupanga blood.\n
 
         Konzekerani:
-        - Ngati muli ndi galimoto, pezani mpando wa galimoto wa mwana\n\n'''
+        - Yambani kuganizira za kubereka
+        - Konzani birth plan\n\n'''
 
-    "*Sabata 22:*\n"
-    "- Kufotokozera: Pa sabata 22, mwana wanu akuwoneka ngati mwana wakhanda, ngakhale ali ndi ntchito yambiri. Iyi ndi nthawi yabwino kulembetsa kalasi ya maphunziro obereka.\n"
-    '''Zambiri za sabata iyi
+    "*Week 21:*\n"
+    "- Ku chita explain: Pa week 21, muli mkati mwa second trimester. Kwa azimai ambiri, iyi ni nthawi yosangalatsa kwambiri. Sangalalani na nthawi iyi pamene mwana akupitiriza kukula.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Mungawoneka wokongola kuposa kale (tsitsi lolimba, nzala zikukula)
-        - Chiberekero chanu chikumveka pafupifupi 2 cm pamwamba pa mchombo\n
+        Kuchinja kwa tupi:
+        - Mungamve pain m'mimba, chiuno, na mapewa
+        - Ngati muyika zala pafupifupi 1 cm pamwamba pa navel, mungamve chiberekero\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 25 cm utali (0.4 kg)
-        - Akuwoneka ngati mwana wakhanda wocheperako
-        - Khungu lake limawonekera (sanapeze kulemera kokwanira)\n
+        Kukula kwa mwana:
+        - Ali pafupifupi 21.6 cm utali, 0.34 kg
+        - Eyelids zamaliza kupangidwa week iyi
+        - Akuyenda kwambiri, ndipo mutha kumva\n
 
         Malangizo:
-        - Zizindikiro za kubereka msanga (kupweteka m'mimba, msana, kusintha kwa madzi)\n
+        - Lekani UTI pogwira ntchito izi:
+          * Imwani madzi 6 mpaka 8 times pa day
+          * Pukutani kuchokera kutsogolo kupita kumbuyo
+          * Lekani kuvala mabuluku ofyatira kwambiri\n
 
         Konzekerani:
-        - Lembetsani makalasi a maphunziro obereka (muyenera kumaliza pa sabata 37)\n\n'''
+        - Ngati muli na car, pezani car seat ya mwana.\n\n'''
 
-    "*Sabata 23:*\n"
-    "- Kufotokozera: Pa sabata 23, mwana wanu akupitiriza kukula. Ino ndi nthawi yabwino kumaliza makonzekedwe a chuti cha mimba ndikuyamba kukambirana za chuti cha abambo.\n"
-    '''Zambiri za sabata iyi
+    "*Week 22:*\n"
+    "- Ku chita explain: Pa week 22, mwana akuoneka ngati newborn, ngakhale akadali na ntchito yambiri yokula. Iyi ni nthawi yabwino kulembetsa birth class.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Chiberekero chili pafupifupi 3.8 cm pamwamba pa mchombo
-        - Kulemera kwanu: 5.4-6.8 kg\n
+        Kuchinja kwa tupi:
+        - Mungaoneke bwino kuposa kale, hair kukhala strong na nails kukula
+        - Chiberekero chikumveka pafupifupi 2 cm pamwamba pa navel\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 28-36 cm utali (0.45 kg)
-        - Tsitsi lofewa lomwe likuphimba thupi lingaoneke pa ultrasound\n
+        Kukula kwa mwana:
+        - Ali pafupifupi 25 cm utali, 0.4 kg
+        - Akuoneka ngati newborn wochepa
+        - Skin yake ikuoneka transparent chifukwa sanapeze weight yokwanira pe apa\n
 
         Malangizo:
-        - Kumwa madzi okwanira (mtundo uyenera kukhala wachikasu pang'ono)\n
+        - Ma signs a kubereka fast angakhale pain m'mimba, back pain, kapena kuchinja kwa discharge.\n
 
         Konzekerani:
-        - Malizitsani makonzekedwe a chuti cha mimba ndi HR\n\n'''
+        - Lembetsani birth classes. Muyenera kumaliza before week 37.\n\n'''
 
-    "*Sabata 24:*\n"
-    "- Kufotokozera: Pa sabata 24, bongo la mwana wanu likukula mofulumira, ndipo mapwapwa akukhwima. Mutha kumva nseru wa m'mawa komanso kusintha kwa khungu lanu.\n"
-    '''Zambiri za sabata iyi
+    "*Week 23:*\n"
+    "- Ku chita explain: Pa week 23, mwana akupitiriza kukula. Iyi ni nthawi yabwino kumaliza maternity leave preparations na kuyamba kukambirana za paternity leave.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Pamwamba pa chiberekero pafupifupi 5 cm kuchokera pa mchombo
-        - Khungu pa mimba ndi mabere likutambasuka (kumva kunyeleza)\n
+        Kuchinja kwa tupi:
+        - Chiberekero chili pafupifupi 3.8 cm pamwamba pa navel
+        - Weight yanu ingakhale 5.4 mpaka 6.8 kg\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 32 cm utali (0.6-0.7 kg)
-        - Bongo likukula mofulumira
-        - Mapwapwa akukonzekera kugwira ntchito\n
+        Kukula kwa mwana:
+        - Ali pafupifupi 28 mpaka 36 cm utali, 0.45 kg
+        - Hair yofewa yamene imaphimba tupi ingaoneke pa ultrasound\n
 
         Malangizo:
-        - Kudya zakudya zochepa tsiku lonse kuthandiza pa kufunda mchifuwa\n
+        - Imwani madzi okwanira. Urine iyenera kukhala light yellow.\n
 
         Konzekerani:
-        - Pakati pa sabata 24 ndi 28, muyenera kupima shuga (gestational diabetes)\n\n'''
+        - Malizitsani maternity leave preparations na HR.\n\n'''
 
-    "*Sabata 25:*\n"
-    "- Kufotokozera: Pa sabata 25, chiberekero chanu chili pafupifupi kukula kwa bola wa mpira. Mwana wanu akuyamba kulemera, ndipo mungathe kudziwa mutundu wa mwana wanu panthawiyi.\n"
-    '''Zambiri za sabata iyi
+    "*Week 24:*\n"
+    "- Ku chita explain: Pa week 24, brain ya mwana ikukula fast, ndipo lungs zikukula. Mungakhalebe na morning sickness komanso skin kuchinja.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Manja ndi zala zingakhale ndi chiswe (carpal tunnel syndrome)
-        - Chiberekero chikumveka pakati pa mchombo ndi pansi pa chifuwa\n
+        Kuchinja kwa tupi:
+        - Pamwamba pa chiberekero chili pafupifupi 5 cm kuchokera pa navel
+        - Skin pa mimba na mabere ikutambasuka, ndipo mungamve kuyabwa\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 33 cm utali (0.7-0.8 kg)
-        - Akuyamba kuonjezera mafuta
-        - Mtundu ungathe kudziwika ndi ultrasound, amniocentesis, CVS kapena NIPT\n
+        Kukula kwa mwana:
+        - Ali pafupifupi 32 cm utali, 0.6 mpaka 0.7 kg
+        - Brain ikukula fast
+        - Lungs zikukonzekera kugwira ntchito\n
 
         Malangizo:
-        - Yambani kuganizira za maina a mwana\n
+        - Idyani vakudya vochepa nthawi zambiri kuti muchepetse heartburn.\n
 
         Konzekerani:
-        - Mutha kupanga ultrasound ya chikumbutso panthawiyi\n\n'''
+        - Pakati pa week 24 na 28, muyenera kuchita sugar test ya gestational diabetes.\n\n'''
 
+    "*Week 25:*\n"
+    "- Ku chita explain: Pa week 25, chiberekero chili pafupifupi size ya football. Mwana ayamba kuwonjezera weight, ndipo mungadziwe gender ya mwana pa nthawi iyi.\n"
+    '''Zambiri za week iyi
 
-    "*Sabata 26:*\n"
-    "- Kufotokozera: Pa sabata 26, muli pafupifupi gawo lachitatu la mimba! Pa nthawi yanu yotsatira yokumana ndi adotolo, mungayembekezere kuti adotolo achite zoyezetsa zina.\n"
-    '''Zambiri za sabata iyi
+        Kuchinja kwa tupi:
+        - Manja na zala zingakhale na numbness kapena pins and needles, carpal tunnel syndrome
+        - Chiberekero chikumveka pakati pa navel na pansi pa chest\n
 
-        Zosintha za thupi:
-        - Kugona kungakhale kovuta (nkhawa, kupweteka kwa miyendo, kutunda)
-        - Kunyereza m'manja ndi m'mapazi (kochepa kumakhala kwabwino)
-        - Pamwamba pa chiberekero pafupifupi 6.3 cm\n
-
-        Kukulira kwa mwana:
-        - Ali pafupifupi 34 cm utali (0.9 kg)
-        - Zala za m'manja ndi m'mapazi zapangidwa
-        - Mapwapwa akupitiriza kukhwima\n
+        Kukula kwa mwana:
+        - Ali pafupifupi 33 cm utali, 0.7 mpaka 0.8 kg
+        - Akuyamba kuwonjezera mafuta
+        - Gender ingadziwike na ultrasound, amniocentesis, CVS, kapena NIPT\n
 
         Malangizo:
-        - Dyani nsomba zochepa za mercury 2-3 masabata (osadyera mackerel)\n
+        - Yambani kuganizira ma names a mwana.\n
 
         Konzekerani:
-        - Konzani kupima:
-          * Magazi
-          * Glucose tolerance
-          * Kudula khungu
-          * Zakudya pambuyo pa kubereka\n\n'''
+        - Mutha kupanga ultrasound ya chikumbutso pa nthawi iyi.\n\n'''
 
-    "*Sabata 27:*\n"
-    "- Kufotokozera: Pa sabata 27, mwayamba gawo lachitatu la mimba! Panthawiyi, mutha kumva mwana wanu akuyenda kwambiri. Ino ndi nthawi yabwino kusankha mpando wa galimoto wa mwana.\n"
-    '''Zambiri za sabata iyi
+    "*Week 26:*\n"
+    "- Ku chita explain: Pa week 26, muli pafupi na third trimester. Pa next appointment, mungayembekezere kuti doctor achite ma tests ena.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Mutha kumva mwana akuyenda (kungakhale ntikuntiku kapena masewera)
-        - Kupweteka panjira yopita ku chimbudzi (hemorrhoids)\n
+        Kuchinja kwa tupi:
+        - Kugona kungakhale kovuta chifukwa cha nkhawa, miyendo kupweteka, kapena heartburn
+        - Manja na mapazi angayambe kuchita pins and needles. Zochepa zili normal
+        - Pamwamba pa chiberekero pali pafupifupi 6.3 cm kuchokera pa navel\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 35 cm utali (1 kg)
-        - Maso akuyamba kutseguka ndi kutseka
-        - Wapanga nthawi yake yakuuka ndi kugona\n
+        Kukula kwa mwana:
+        - Ali pafupifupi 34 cm utali, 0.9 kg
+        - Zala za m'manja na m'mapazi zapangidwa
+        - Lungs zikupitiriza kukula\n
 
         Malangizo:
-        - Ngati muli ndi galimoto, pezani mpando wa galimoto wa mwana\n
+        - Idyani fish yochepa ya mercury 2 mpaka 3 times pa week. Lekani mackerel.\n
 
         Konzekerani:
-        - Ngati simunakonzere makalasi a kubereka, ndi nthawi yake\n\n'''
+        - Konzani ma test monga:
+          * Blood test
+          * Glucose tolerance test
+          * Skin test
+          * Vakudya plan after delivery\n\n'''
 
-    "*Sabata 28:*\n"
-    "- Kufotokozera: Pa sabata 28, mudzayamba kukhala ndi nthawi zambiri zochezera adotolo. Ino ndi nthawi yabwino kukonza makozekedwe a ulendo wanu wopita ku chipatala.\n"
-    '''Zambiri za sabata iyi
+    "*Week 27:*\n"
+    "- Ku chita explain: Pa week 27, mwayamba third trimester. Pa nthawi iyi, mungamve mwana akuyenda kwambiri. Iyi ni nthawi yabwino kusankha car seat ya mwana.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
+        Kuchinja kwa tupi:
+        - Mungamve mwana akuyenda, ngati kicks kapena movement
+        - Hemorrhoids zingayambe, pain pa toilet area\n
+
+        Kukula kwa mwana:
+        - Ali pafupifupi 35 cm utali, 1 kg
+        - Maso ayamba kutseguka na kutseka
+        - Wapanga sleeping na waking pattern yake\n
+
+        Malangizo:
+        - Ngati muli na car, pezani car seat ya mwana.\n
+
+        Konzekerani:
+        - Ngati simunalembetse birth classes, ino ni nthawi yake.\n\n'''
+
+    "*Week 28:*\n"
+    "- Ku chita explain: Pa week 28, mudzayamba kuonana na doctor pafupipafupi. Iyi ni nthawi yabwino kukonza plan ya kupita ku hospital.\n"
+    '''Zambiri za week iyi
+
+        Kuchinja kwa tupi:
         - Chiberekero chikupitiriza kukula
-        - Kulemera kwanu: 7.7-10.8 kg
-        - Kutopa kwambiri ndi kosalekeza\n
+        - Weight yanu ingakhale 7.7 mpaka 10.8 kg
+        - Kutopa kungakhale kwakukulu komanso kosalekeza\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 36 cm utali (1.13 kg)
-        - Bongo likuyamba kugwira ntchito kwambiri
-        - Tsitsi likukulirakulira\n
+        Kukula kwa mwana:
+        - Ali pafupifupi 36 cm utali, 1.13 kg
+        - Brain yayamba kugwira ntchito kwambiri
+        - Hair ikukulirakulira\n
 
         Malangizo:
-        - Yambani kupanga makonzekedwe a ulendo wopita ku chipatala\n
+        - Yambani kupanga plan ya ulendo wopita ku hospital.\n
 
         Konzekerani:
         - Konzani:
-          * Kulandira Rhogam (ngati Rh negative)
-          * Chati ya kusuntha kwa mwana
-          * Kuyenda kwa mwana\n\n'''
+          * Rhogam ngati muli Rh negative
+          * Kick chart
+          * Kuwunika movement ya mwana\n\n'''
 
-    "*Sabata 29:*\n"
-    "- Kufotokozera: Pa sabata 29, ndikofunikira kuti mupeze zakudya zokwanira komanso kupuma. Ino ndi nthawi yabwino kukambirana za dongosolo lanu lobereka ndi mwamuna wanu.\n"
-    '''Zambiri za sabata iyi
+    "*Week 29:*\n"
+    "- Ku chita explain: Pa week 29, ni important kutenga vakudya vokwanira komanso kupuma. Iyi ni nthawi yabwino kukambirana birth plan na partner wanu.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Mukaka wachikasu (colostrum) angatuluke m'mabere
-        - Kulemera kwanu: 8.6-11.3 kg
-        - Kudzimbidwa (constipation) kumabwera\n
+        Kuchinja kwa tupi:
+        - Colostrum, milk yachikasu, ingatuluke m'mabere
+        - Weight yanu ingakhale 8.6 mpaka 11.3 kg
+        - Constipation ingabwere\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 37 cm utali (1.25 kg)
-        - Mutu wake ukukula chifukwa cha bongo
-        - Minofu ndi mapwapwa akupitiriza kukhwima\n
+        Kukula kwa mwana:
+        - Ali pafupifupi 37 cm utali, 1.25 kg
+        - Mutu wake ukukula chifukwa cha brain
+        - Muscles na lungs zikupitiriza kukula\n
 
         Malangizo:
-        - The Dawa community healthcare worker amathandiza\n
+        - Dawa community healthcare worker angathandize.\n
 
         Konzekerani:
-        - Njira zopeza kudzimbidwa:
-          * Idyani zakudya zamasamba ndi zipaso
+        - Njira zochepetsa constipation:
+          * Idyani vegetables na fruits
           * Imwani madzi ambiri
-          * Chitani masewera
-          * Chepetsani mankhwala a chitsulo\n\n'''
+          * Chitani exercise
+          * Chepetsani iron medicine ngati doctor walola\n\n'''
 
-    "*Sabata 30:*\n"
-    "- Kufotokozera: Pa sabata 30, mungakhale mukumva kutopa kwambiri, ndipo mafupa anu angamve ngati otayirira. Ino ndi nthawi yoti muganizire za njira zochepetsera ululu pa nthawi yobereka.\n"
-    '''Zambiri za sabata iyi
+    "*Week 30:*\n"
+    "- Ku chita explain: Pa week 30, mungakhale mukumva kutopa kwambiri, ndipo mafupa angamve ngati loose. Iyi ni nthawi yoganizira njira zochepetsa pain pa kubereka.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Mafupa angakhale otayirira (mapazi angakule)
-        - Mikwingwirima ya mimba ikuyamba kuonekera kwambiri
-        - Kunyereza, kutupa, kupweteka sikuchepa\n
+        Kuchinja kwa tupi:
+        - Mafupa angakhale loose, mapazi angakule
+        - Stretch marks zikuyamba kuoneka kwambiri
+        - Pins and needles, kutupa, na pain zingapitirire\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 38.5 cm utali (1.4 kg)
-        - Maso akhoza kusiyanitsa kuwala ndi mdima
-        - Akutenga gawo lalikulu la chiberekero\n
-
-        Malangizo:
-        - Kupweteka kwa msana kumagwirizana ndi kulemera\n
-
-        Konzekerani:
-        - Ganizirani mitundu ya njira zochepetsera ululu\n\n'''
-
-
-    "*Sabata 31:*\n"
-    "- Kufotokozera: Pa sabata 31, mungakhale ndi Braxton Hicks contractions ndikuyamba kutulutsa mukaka wa chikasu (colostrum). Ino ndi nthawi yabwino kusankha ngati muyamwitsa kapena kugwiritsa ntchito botolo.\n"
-    '''Zambiri za sabata iyi
-
-        Zosintha za thupi:
-        - Madzi achikasu (colostrum) angatuluke m'mabere
-        - Mabere amakhala ofewa pamene akukonzekera kuyamwitsa
-        - Mutha kumva Braxton Hicks contractions\n
-
-        Kukulira kwa mwana:
-        - Ali pafupifupi 39.4 cm utali (1.6-1.8 kg)
-        - Akupanga mafuta pansi pa khungu
-        - Akuwoneka ngati mwana wakhanda\n
+        Kukula kwa mwana:
+        - Ali pafupifupi 38.5 cm utali, 1.4 kg
+        - Maso akhoza kusiyanitsa light na dark
+        - Akutenga space yambiri mu chiberekero\n
 
         Malangizo:
-        - Hemorrhoids si zachilendo (mizipe yotupa panjira yopita ku chimbudzi)\n
+        - Back pain imachitika chifukwa cha weight yowonjezera.\n
 
         Konzekerani:
-        - Sankhani ngati muyamwitsa kapena kugwiritsa ntchito botolo\n\n'''
+        - Ganizirani njira zochepetsa pain pa kubereka.\n\n'''
 
-    "*Sabata 32:*\n"
-    "- Kufotokozera: Pa sabata 32, mwina mudzakhala ndi nthawi yokumana ndi adotolo masabata awiri aliwonse. Ganizirani zopanga sankho ngati mupulumutsa magazi a mwana wanu (cord blood).\n"
-    '''Zambiri za sabata iyi
+    "*Week 31:*\n"
+    "- Ku chita explain: Pa week 31, mungakhale na Braxton Hicks contractions na kuyamba kutulutsa colostrum. Iyi ni nthawi yabwino kusankha ngati muyamwitsa kapena kugwiritsa ntchito bottle.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Pamwamba pa chiberekero pafupifupi 12.7 cm
+        Kuchinja kwa tupi:
+        - Colostrum ingatuluke m'mabere
+        - Mabere amakhala soft pamene akukonzekera breastfeeding
+        - Mungamve Braxton Hicks contractions\n
+
+        Kukula kwa mwana:
+        - Ali pafupifupi 39.4 cm utali, 1.6 mpaka 1.8 kg
+        - Akupanga mafuta pansi pa skin
+        - Akuoneka ngati newborn\n
+
+        Malangizo:
+        - Hemorrhoids si zachilendo pa pregnancy. Ni swollen veins pa toilet area.\n
+
+        Konzekerani:
+        - Sankhani ngati muyamwitsa kapena mugwiritse ntchito bottle.\n\n'''
+
+    "*Week 32:*\n"
+    "- Ku chita explain: Pa week 32, mwina mudzayamba kuona doctor every 2 weeks. Ganizirani ngati mukufuna kusunga cord blood ya mwana.\n"
+    '''Zambiri za week iyi
+
+        Kuchinja kwa tupi:
+        - Pamwamba pa chiberekero pali pafupifupi 12.7 cm kuchokera pa navel
         - Mungayambe kuvutika kupuma
-        - Braxton Hicks contractions zimachulukira\n
+        - Braxton Hicks contractions zingachuluke\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 40.6 cm utali (1.8-2 kg)
-        - Zala za m'manja ndi m'mapazi zapangidwa
+        Kukula kwa mwana:
+        - Ali pafupifupi 40.6 cm utali, 1.8 mpaka 2 kg
+        - Zala za m'manja na m'mapazi zapangidwa
         - Mafupa onse apangidwa\n
 
         Malangizo:
         - Njira zochepetsa Braxton Hicks:
-          * Sinthani malo okhalilamo
+          * Sinthani position
           * Sambani m'madzi ofunda
           * Imwani madzi ambiri\n
 
         Konzekerani:
-        - Muyenera kupita ku adotolo masabata awiri aliwonse\n\n'''
+        - Muyenera kupita ku doctor every 2 weeks.\n\n'''
 
-    "*Sabata 33:*\n"
-    "- Kufotokozera: Kuyambira sabata 33, mungazindikire madzi kuokazi (amniotic fluid) akutuluka. Muyeneranso kuchita zinthu zopewa kuti muchepetse mwayi wanu wofunikira kuchekedwa (episiotomy).\n"
-    '''Zambiri za sabata iyi
+    "*Week 33:*\n"
+    "- Ku chita explain: Kuyambira week 33, mungazindikire amniotic fluid ikutuluka ku vagina. Muyeneranso kuchita zinthu zolekeza chance yofunikira episiotomy.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Pamwamba pa chiberekero pafupifupi 12.7 cm
-        - Kulemera kwanu: 10-12.7 kg
-        - Madzi a amniotic angatuluke\n
+        Kuchinja kwa tupi:
+        - Pamwamba pa chiberekero pali pafupifupi 12.7 cm kuchokera pa navel
+        - Weight yanu ingakhale 10 mpaka 12.7 kg
+        - Amniotic fluid ingatuluke\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 42 cm utali (2-2.3 kg)
-        - Khungu lake likuyamba kuwoneka lopanda mankwinya
-        - Fupa la mutu lofewa (losavuta pa kubereka)\n
+        Kukula kwa mwana:
+        - Ali pafupifupi 42 cm utali, 2 mpaka 2.3 kg
+        - Skin yake yayamba kuoneka smooth
+        - Skull yake ili soft kuti kubereka kukhale kosavuta\n
 
         Malangizo:
-        - Kugonana kuli kotetezeka ngati adotolo sanakuuzeni china\n
+        - Sex ili safe ngati doctor sanakuuzani china.\n
 
         Konzekerani:
-        - Kambiranani za episiotomy ndi adotolo (kuchekedwa kokulitsa pakamwa pa ukazi)\n\n'''
+        - Kambiranani za episiotomy na doctor. Episiotomy ni kucheka pang'ono kuti kusegula kwa vagina kukule pa kubereka.\n\n'''
 
-    "*Sabata 34:*\n"
-    "- Kufotokozera: Pa sabata 34, mapwapwa a mwana wanu amapangidwa bwino. Panthawiyi, adotolo anu angakulimbikitseni kuti muyambe kugwiragwira malo uzungulila ukazi (perineum) yanu kuti mupewe episiotomy.\n"
-    '''Zambiri za sabata iyi
+    "*Week 34:*\n"
+    "- Ku chita explain: Pa week 34, lungs za mwana zapangidwa bwino. Pa nthawi iyi, doctor angakulimbikitseni kuyamba kugwiragwira perineum kuti mulekeze episiotomy.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Pamwamba pa chiberekero pafupifupi 14 cm
-        - Madzi a amniotic amafika pachimake\n
+        Kuchinja kwa tupi:
+        - Pamwamba pa chiberekero pali pafupifupi 14 cm kuchokera pa navel
+        - Amniotic fluid yafika pa peak\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 44.5 cm utali (2.3-2.5 kg)
-        - Akupanga mafuta pansi pa khungu (ofunikira pa kutentha)\n
+        Kukula kwa mwana:
+        - Ali pafupifupi 44.5 cm utali, 2.3 mpaka 2.5 kg
+        - Akupanga mafuta pansi pa skin, yamene imathandiza pa kutentha kwa tupi\n
 
         Malangizo:
-        - Gwirani malo uzungulila ukazi kuti mupewe episiotomy\n
+        - Gwiragwirani perineum kuti mulekeze episiotomy.\n
 
         Konzekerani:
         - Konzani:
-          * Kupemisa kwa Group B Strep
-          * Makozekidwe a nthawi yotsala
-          * Njira zowongolera ululu
-          * Kubereka kwa Cesarean\n\n'''
+          * Group B Strep test
+          * Ma preparations a nthawi yotsala
+          * Njira zochepetsa pain
+          * C-section plan ngati pakufunika\n\n'''
 
-    "*Sabata 35:*\n"
-    "- Kufotokozera: Pa sabata 35, mungamve kupema movutikira. Mungazindikirenso kusintha kwa mayendedwe a mwana wanu. Sabata ino, ndikofunikira kuyamba kuziwa kwa kukankha kwa mwana wanu.\n"
-    '''Zambiri za sabata iyi
+    "*Week 35:*\n"
+    "- Ku chita explain: Pa week 35, mungamve kupuma movutikira. Mungazindikire kuchinja kwa movement ya mwana. Week iyi ni important kuyamba kuwerenga kicks za mwana.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Pafupifupi 15.2 cm kuchokera pa mchombo
-        - Kulemera kwanu: 10.9-13.2 kg
-        - Braxton Hicks contractions pafupipafupi\n
+        Kuchinja kwa tupi:
+        - Pafupifupi 15.2 cm kuchokera pa navel
+        - Weight yanu ingakhale 10.9 mpaka 13.2 kg
+        - Braxton Hicks contractions zingachitike pafupipafupi\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 43.2-45.7 cm utali (2.5-2.7 kg)
-        - Impso zapangidwa bwino
-        - Chiwindi chikuyamba kukonza zinyalala\n
+        Kukula kwa mwana:
+        - Ali pafupifupi 43.2 mpaka 45.7 cm utali, 2.5 mpaka 2.7 kg
+        - Kidneys zapangidwa bwino
+        - Liver yayamba kukonza waste\n
 
         Malangizo:
-        - Pezani dotolo wa ana (pediatrician)\n
+        - Pezani pediatrician wa mwana.\n
 
         Konzekerani:
-        - Yambani kupenda kukankha kwa mwana\n\n'''
+        - Yambani kuwerenga kicks za mwana.\n\n'''
 
+    "*Week 36:*\n"
+    "- Ku chita explain: Pa week 36, mwatsala pafupifupi mwezi umodzi. Mungamve Braxton Hicks contractions zambiri. Iyi ni nthawi yabwino kukonza hospital bag.\n"
+    '''Zambiri za week iyi
 
-    "*Sabata 36:*\n"
-    "- Kufotokozera: Pa sabata 36, muli ndi mwezi umodzi wokha wotsala. Mungamve kuchuluka kwa Braxton Hicks contractions. Ino ndi nthawi yabwino kukunza chola chanu cha ku chipatala.\n"
-    '''Zambiri za sabata iyi
-
-        Zosintha za thupi:
-        - Mwana wanu akutsika mu chiuno (lightening/engagement)
-        - Simudzazindikira kusintha kwa kulemera
+        Kuchinja kwa tupi:
+        - Mwana akutsika mu pelvis, yamene imatchedwa lightening kapena engagement
+        - Mwina weight singasinthe kwambiri
         - Braxton Hicks contractions zingachitike kwambiri\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 44.5-48.3 cm utali (2.6-3.1 kg)
-        - Tsitsi lofewa (lanugo) likuyamba kutha
-        - Vernix caseosa (choteteza khungu) chikupitirira\n
+        Kukula kwa mwana:
+        - Ali pafupifupi 44.5 mpaka 48.3 cm utali, 2.6 mpaka 3.1 kg
+        - Lanugo, hair yofewa, ikuyamba kutha
+        - Vernix caseosa ikupitiriza kuteteza skin\n
 
         Malangizo:
-        - Ngati mabere anu amakuchititsani kukhala osamasuka, gonenani mu bra yoyamwitsa\n
+        - Ngati mabere akukupangitsani kusamva bwino, gonani mu nursing bra.\n
 
         Konzekerani:
         - Konzani:
-          * Khadi ya inshuwaransi
-          * Zovala zopitanazo kunyumba
-          * Ma bra oyamwitsa
-          * Mpando wa galimoto wa mwana\n\n'''
+          * Insurance card
+          * Zovala zopita nazo kunyumba
+          * Nursing bras
+          * Car seat ya mwana\n\n'''
 
-    "*Sabata 37:*\n"
-    "- Kufotokozera: Pa sabata 37, khosi la chiberekero chanu lidzayamba kutseguka. Mungathenso kutulutsa zinthu zolingana ndi mamina (mucus plug). Tengani nthawi kuti mumalize kukonzekera kulikonse mwana wanu asanabwere.\n"
-    '''Zambiri za sabata iyi
+    "*Week 37:*\n"
+    "- Ku chita explain: Pa week 37, cervix yanu idzayamba kuseguka. Mungatulutsenso mucus plug. Tengani nthawi kumaliza ma preparations onse mwana asanabwere.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Kulemera kwanu: 11.3-15.9 kg
-        - Madzi a amniotic akuyamba kuchepa
+        Kuchinja kwa tupi:
+        - Weight yanu ingakhale 11.3 mpaka 15.9 kg
+        - Amniotic fluid ikuyamba kuchepa
         - Braxton Hicks contractions zikuchulukira\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 45.7 cm utali (2.7-3.2 kg)
-        - Amaganiziridwa kuti ndi okwima (full-term)
-        - Akhoza kubadwa nthawi iliyonse\n
+        Kukula kwa mwana:
+        - Ali pafupifupi 45.7 cm utali, 2.7 mpaka 3.2 kg
+        - Amaganiziridwa kuti ni full-term
+        - Akhoza kubadwa anytime\n
 
         Malangizo:
-        - Malizani zokonzekera zonse mwana asanabwere\n
+        - Malizani preparations zonse mwana asanabwere.\n
 
         Konzekerani:
-        - Malizani maphunziro a kubereka
-        - Konzani ulendo wopita ku chipatala\n\n'''
+        - Malizani birth classes
+        - Konzani ulendo wopita ku hospital\n\n'''
 
-    "*Sabata 38:*\n"
-    "- Kufotokozera: Pa sabata 38, ziwalo zambiri za mwana wanu zikugwira ntchito mokwanira, ndipo mungabereka nthawi iliyonse. Yesani kupuma, ndipo sangalalani ndi masiku omalizirawa musanakumane ndi mwana wanu.\n"
-    '''Zambiri za sabata iyi
+    "*Week 38:*\n"
+    "- Ku chita explain: Pa week 38, ziwalo zambiri za mwana zikugwira ntchito bwino, ndipo mungabereke anytime. Yesani kupuma, ndipo sangalalani na ma days omaliza musanakumane na mwana.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Mucus plug angatuluke (mamina ambiri)
-        - Mungakumane ndi kutupa kwa mapazi
-        - Khosi la chiberekero latseguka\n
+        Kuchinja kwa tupi:
+        - Mucus plug ingatuluke
+        - Mapazi angatupuke
+        - Cervix ikhoza kuyamba kuseguka\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 43.2-50.8 cm utali (2.8-3.4 kg)
-        - Bongo ndi mapwapwa akugwira ntchito bwino
-        - Vernix caseosa ikupitirira kuteteza khungu\n
+        Kukula kwa mwana:
+        - Ali pafupifupi 43.2 mpaka 50.8 cm utali, 2.8 mpaka 3.4 kg
+        - Brain na lungs zikugwira ntchito bwino
+        - Vernix caseosa ikupitiriza kuteteza skin\n
 
         Malangizo:
-        - Ngati mwana ali breech (mapazi pansi), funsani adotolo za sonogram\n
+        - Ngati mwana ali breech, mapazi pansi, funsani doctor za sonogram.\n
 
         Konzekerani:
         - Konzani:
-          * Wotumila foni pa nthawi yobereka
-          * Nthawi yakumayabililo yobereka kunyumba
-          * Mavuto aliwonse azaumoyo\n\n'''
+          * Munthu woti mumuyimbire pa labor
+          * Nthawi yoyambira labor kunyumba
+          * Health problems iliyonse yamene muli nayo\n\n'''
 
-    "*Sabata 39:*\n"
-    "- Kufotokozera: Pa sabata 39, mungakhale simunazindikire zosintha zambiri pa masabata angapo apitawo. Mwana wanu akhoza kubwera nthawi iliyonse, choncho onetsetsani kuti mwapuma ndikusangalala ndi nthawiyi.\n"
-    '''Zambiri za sabata iyi
+    "*Week 39:*\n"
+    "- Ku chita explain: Pa week 39, mwina simunaone kuchinja kwambiri ma weeks apitawo. Mwana akhoza kubwera anytime, choncho onetsetsani kuti mwapuma na kusangalala na nthawi iyi.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Simungawonjezere kulemera
-        - Madzi anu angatuluke (kumanyowa kumapazi)
-        - Zizindikiro za kubereka:
-          * Contractions zanthawi zonse
-          * Mphamvu ya chiuno
-          * Kupweteka kwa msana\n
+        Kuchinja kwa tupi:
+        - Mwina simungawonjezere weight
+        - Madzi angatuluke, ngati kunyowa kumapazi
+        - Ma signs a labor:
+          * Contractions za nthawi zonse
+          * Pressure m'chiuno
+          * Back pain\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 45.7-52 cm utali (2.9-3.6 kg)
-        - Akupitiriza kupanga mafuta pansi pa khungu
+        Kukula kwa mwana:
+        - Ali pafupifupi 45.7 mpaka 52 cm utali, 2.9 mpaka 3.6 kg
+        - Akupitiriza kupanga mafuta pansi pa skin
         - Akukonzekera kubadwa\n
 
         Malangizo:
-        - Pitirizani kuyang'anira mayendedwe a mwana\n
+        - Pitirizani kuyang'anira movement ya mwana.\n
 
         Konzekerani:
-        - Tengani nthawi nokha ndi mwamuna wanu\n\n'''
+        - Tengani nthawi yokhala nokha na partner wanu.\n\n'''
 
-    "*Sabata 40:*\n"
-    "- Kufotokozera: Tikukuthokozani chifukwa chofika kumapeto kwa mimba yanu! Mwina mudzakumana ndi mwana wanu sabata ino. Phunzirani malangizo othandiza pa nthawi yobereka.\n"
-    '''Zambiri za sabata iyi
+    "*Week 40:*\n"
+    "- Ku chita explain: Congrats chifukwa mwafika kumapeto kwa pregnancy! Mwina mukumana na mwana week iyi. Phunzirani tips zothandiza pa labor na delivery.\n"
+    '''Zambiri za week iyi
 
-        Zosintha za thupi:
-        - Mutu wa mwana udzayamba kuonekera (crowning)
+        Kuchinja kwa tupi:
+        - Mutu wa mwana ungayambe kuoneka, yamene imatchedwa crowning
         - Contractions zikuchulukira
-        - Mungakhale ndi kusagona, kutupa, kutunda\n
+        - Mungakhale na kusagona, kutupa, na heartburn\n
 
-        Kukulira kwa mwana:
-        - Ali pafupifupi 48.3-53.3 cm utali (3-4.5 kg)
-        - Mafupa onse olimba kupatula fupa la mutu
+        Kukula kwa mwana:
+        - Ali pafupifupi 48.3 mpaka 53.3 cm utali, 3 mpaka 4.5 kg
+        - Mafupa onse ndi olimba kupatula skull
         - Akukonzekera kubadwa\n
 
         Malangizo:
-        - Mwana adzapatsidwa mayeso oyamba (APGAR) pambuyo pa kubadwa\n
+        - Mwana adzatenga first test, APGAR, after kubadwa.\n
 
         Konzekerani:
         - Konzani:
           * Non-stress test
           * Amniotic Fluid Index
           * Sonogram biophysical profile
-          * Kuyambitsa kubereka (induction)
-          * Kubereka kwa Cesarean\n\n'''
+          * Induction ngati pakufunika
+          * C-section ngati pakufunika\n\n'''
 
 )
