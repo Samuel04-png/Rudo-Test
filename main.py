@@ -260,7 +260,7 @@ def detect_language(message, sender=None):
                       "twatotela", "mukwai", "napapata"],
         "chinyanja": ["moni", "zikomo", "pepani", "ndithu", "chonde", "eyaa",
                       "nitandizeni", "nankani"],
-        "tonga":     ["mwabuka", "mwalandwa", "ndatotela", "kapati", "iyayi"],
+        "tonga":     ["mwabuka", "mwalandwa", "ndatotela", "kapati", "Mbuti"],
         "lozi":      ["ndalumba", "haa", "kacenu", "muzuhile"],
     }
     for lang, words in exact_matches.items():
@@ -308,9 +308,9 @@ def detect_language(message, sender=None):
             "ukubomba", "icisungu", "icibemba", "shaleenipo",
         ],
         "tonga": [
-            "mwalumela", "ndatotela", "twatotela", "kapati",
-            "mwana musankwa", "mwana mwanakazi",
-            "mbomba", "ndisimutwe", "ndatola", "mabbali",
+            "ndalumba", "lugwazyo", "mubuzyo", "kapati", "Zitondezyo",
+            "Mutumbu", "Dokota", "Cinzi", "Buti", "Makani", "Kusilikwa",
+            "mbubo", "buumi", "chibadela", "kaambo nzi", "Buumi", "Kuli", "Makani",
         ],
         "english": [
             "what", "how", "when", "why", "where", "signs", "symptoms",
@@ -327,7 +327,7 @@ def detect_language(message, sender=None):
         "ndebele":   ["unjani wena", "ngiyabonga kakhulu", "sicela ungichazele"],
         "lozi":      ["uli bwanji", "ni bata", "ha ndi zibi", "ndalumba hahulu"],
         "bemba":     ["muli shani", "napapata", "nshishibe", "bushe kuti"],
-        "tonga":     ["mwabuka buti", "mwalandwa buti", "ndazwa kwiinda"],
+        "tonga":     ["mmuli buti", "ndakomba", "Tandizi" "Sena Kuti"],
         "english":   ["how are you", "what are", "what is", "can you",
                       "tell me", "i need", "i want", "please tell",
                       "watch out", "signs of", "signs to", "how do i",
@@ -509,11 +509,11 @@ def handle_language_detection(sender, prompt, phone_id):
     elif detected_lang == "ndebele":
         send("Sawubona! Ngingu Rudo, isiphathamandla se-Dawa Health. Masige saqala ngokubhalisa. Ngicela unginike amadijithi amane okugcina efoni yakho.", sender, phone_id)
     elif detected_lang == "bemba":
-        send("Mwaiseni! Nine Rudo, wakufwailisha wa Dawa Health. Tiyambeni no kulembesha. Napapita, mpeele enamba shakulekelesha shane (4) sha foni yenu.", sender, phone_id)
+        send("Mwaiseni! Nine Rudo, wakufwailisha wa Dawa Health. Tiyeni tampilepo ukulembesha. Cisuma mpeele amanamba ayi 4 ayalekelesha sha ku foni namba yenu.", sender, phone_id)
     elif detected_lang == "chinyanja":
         send("Moni! Ndine Rudo, mphungu wa Dawa Health. Tiyambireni ndi kulembetsa. Chonde ndipatseni manambala anayi omaliza a nambala yanu yafoni.", sender, phone_id)
     elif detected_lang == "tonga":
-        send("Mwabuka buti! Ndime Rudo, wakuyambilila wa Dawa Health. Tayambuke kuzyibisya. Ndatola, ndipe zyibalo zyotobela zyane (4) zyanyongola yako.", sender, phone_id)
+        send("Muli buti! Ndime Rudo, wakugwasya Dawa Health. Atutalikile kulembezya. amundipe ma nambala ali 4 ali kumamanino ya foni namba yenu", sender, phone_id)
     elif detected_lang == "lozi":
         send("Mwa bona! Mina ki Rudo, mubasi wa ku thusa wa Dawa Health wa ku kompyuta. A re simule ka ku itambula. Ndapota, nipe dinomolo za mafelele a mane za foni ya hao.", sender, phone_id)
     else:
@@ -538,11 +538,11 @@ def handle_registration(sender, prompt, phone_id):
         elif lang == "ndebele":
             send(f"Ngiyabonga! I-ID yakho eyakhiwe ithi: {user_id}. Gcina le ID ngoba izocelwa kumaDawa clinics. Ngingakusiza ngani namuhla?", sender, phone_id)
         elif lang == "bemba":
-            send(f"Natotela! ID yenu iyapangwa ni: {user_id}. Sungeni ID iyi pantu ikabombwa ku Dawa clinics. Nga kuti njamfwa shani lelo?", sender, phone_id)
+            send(f"Natotela! ID yenu iyapangwa ni: {user_id}. Sungeni ID iyi pantu ikabombwa ku Dawa clinics. Nga kuti namwafwa shani lelo?", sender, phone_id)
         elif lang == "chinyanja":
             send(f"Zikomo! ID yanu yopangidwa ndi: {user_id}. Sungani ID iyi chifukwa idzafunsidwa kumakliniki a Dawa. Ndingakuthandizireni lero?", sender, phone_id)
         elif lang == "tonga":
-            send(f"Twatotela! ID yako yakubikwa nja: {user_id}. Sunga ID eyi nokuba ikaombwa ku Dawa clinics. Ndingakuyandisye lino?", sender, phone_id)
+            send(f"Twalumba! ID yenu nji: {user_id}. mweelede kuisunga kabotu ID kambo iyakubeleka ku Dawa clinics. Nga ndamukyasya buti lino?", sender, phone_id)
         elif lang == "lozi":
             send(f"Ndalumba! ID ya wena ye e bupilwe ki: {user_id}. Boloka ID ye hantši kakuli u ta buzwa yona kwa makiliniki a Dawa. Nka ku thusa ka mini sunu?", sender, phone_id)
         else:
@@ -570,7 +570,7 @@ def handle_follow_up(sender, prompt, phone_id):
         # Chinyanja
         "moni", "muli bwanji",
         # Tonga
-        "mwabuka", "mwabuka buti", "mwalandwa", "mwalandwa buti",
+        "Buti", "Muli Buti", "Mwatambulwa",
         # Bemba
         "mwaiseni", "muli shani",
         # Lozi
@@ -581,12 +581,12 @@ def handle_follow_up(sender, prompt, phone_id):
         # FIX: re-read state and lang after reset
         state = user_states[sender]
         lang = state["language"]
-        greet_map = {"shona":"Mhoroi! Ndingakubatsirei nhasi?","ndebele":"Sawubona! Ngingakusiza ngani namuhla?","chinyanja":"Moni! Ndingakuthandizireni lero?","lozi":"Mwa bona! Nka ku thusa ka mini sunu?","tonga":"Moni! Ndingamwafwa shani ilelo?","bemba":"Muli shani! Bushe kuti namwafwa shani lelo?"}
+        greet_map = {"shona":"Mhoroi! Ndingakubatsirei nhasi?","ndebele":"Sawubona! Ngingakusiza ngani namuhla?","chinyanja":"Moni! Ndingakuthandizireni lero?","lozi":"Mwa bona! Nka ku thusa ka mini sunu?","tonga":"Muli buti! Nga ndamukwasya buti sunu?","bemba":"Muli shani! Bushe kuti namwafwa shani lelo?"}
         send(greet_map.get(lang, "Hello! How can I help you today?"), sender, phone_id)
         save_single_user_state(sender)
         return
 
-    no_responses = ["no", "nah", "nope", "hapana", "kwete", "aiwa", "a'a", "not really", "cha", "ayi"]
+    no_responses = ["no", "nah", "nope", "hapana", "kwete", "aiwa", "a'a", "not really",  "awe" "Pepe", "cha", "ayi"]
 
     if any(response in prompt_lower for response in no_responses):
         _ask_purchase_interest(sender, phone_id, lang)
@@ -617,7 +617,7 @@ def _send_thinking(sender, phone_id, lang):
         "shona": "Ndiri kufunga...",
         "ndebele": "Ngiyacabangisisa...",
         "chinyanja": "Ndikuganiza...",
-        "tonga": "Ndikuganizira...",
+        "tonga": "Ndichiyandaula...",
         "bemba": "ndefwailisha...",
         "lozi": "Ni nahana...",
     }
@@ -632,7 +632,7 @@ def _send_more_questions(sender, phone_id, lang):
         "shona": "Pane chimwe chamunoda kubvunza here?",
         "ndebele": "Uneminye imibuzo yini?",
         "chinyanja": "Kodi muli ndi mafunso ena?",
-        "tonga": "Uli ne mabvuzo yanga yonse?",
+        "tonga": "Hena muli a mubuzyo?",
         "bemba": "Uli ne fipusho nafimbi?",
         "lozi": "O na mabvuzo a mangi?",
     }
@@ -675,7 +675,7 @@ def handle_general_followup(sender, prompt, phone_id):
             "ndebele": "Sawubona! Ngingakusiza ngani namuhla?",
             "chinyanja": "Moni! Ndingakuthandizireni lero?",
             "lozi": "Mwa bona! Nka ku thusa ka mini sunu?",
-            "tonga": "Moni! Ndingamwafwa shani ilelo?",
+            "tonga": "Mwabonwa! Hena nga ndamukyasya buti sunu?",
             "bemba": "Muli shani! Bushe kuti namwafwa shani lelo?",
         }
         send(greet_map.get(lang, "Hello! How can I help you today?"), sender, phone_id)
@@ -689,7 +689,7 @@ def handle_general_followup(sender, prompt, phone_id):
         ask_map = {
             "shona": "Bvunzai mubvunzo wenyu.",
             "ndebele": "Ngiyacela ubuze umbuzo wakho.",
-            "tonga": "Nkumbira ubvunze mubvuzo wako.",
+            "tonga": "Amubuye mubuyo",
             "chinyanja": "Chonde funsani funso lanu.",
             "bemba": "Nomba, ipusha ilipusho lyobe.",
             "lozi": "Nkumbira ubuze mubvuzo wako.",
@@ -721,7 +721,7 @@ def ask_follow_up_question(sender, phone_id):
     followup_map = {
         "shona": "Pane chimwe chandingakubatsira nacho here?",
         "ndebele": "Ingabe kukhona okunye engingakusiza ngakho?",
-        "tonga": "Kuli chinco nchingakusebelesya nacho",
+        "tonga": "Hena muli amubuyo umbi?",
         "chinyanja": "Kodi pali zina zomwe ndingakuthandizireni?",
         "bemba": "Kuli fintu fimbi ifyo ningamwafwilisha?",
         "lozi": "Ki sina sika ni ka thusa ka sona",
@@ -745,7 +745,7 @@ def switch_language_and_respond(sender, prompt, phone_id, current_lang, detected
             "ndebele": "Sawubona! Ngingakusiza ngani namuhla?",
             "chinyanja": "Moni! Ndingakuthandizireni lero?",
             "lozi": "Mwa bona! Nka ku thusa ka mini sunu?",
-            "tonga": "Moni! Ndingamwafwa shani ilelo?",
+            "tonga": "Mwabonwa! Hena nga ndamukwasya buti sunu?",
             "bemba": "Muli shani! Bushe kuti namwafwa shani lelo?",
         }
         send(greet_map.get(detected_lang, "Hello! How can I help you today?"), sender, phone_id)
@@ -757,6 +757,8 @@ def switch_language_and_respond(sender, prompt, phone_id, current_lang, detected
                 "ndebele": "Sawubona! Masige saqala ngokubhalisa. Ngicela unginike amadijithi amane okugcina efoni yakho.",
                 "chinyanja": "Moni! Tiyambireni ndi kulembetsa. Chonde ndipatseni manambala anayi omaliza a nambala yanu yafoni.",
                 "lozi": "Mwa bona! A re simule ka ku itambula. Dinomolo za mafelele a lina la wena ki zini za mafelele a mane?",
+                "tonga": "Mwa bonwa! Atutalikile kulembesha. Amundipe ma nambala ali 4 ali kumamanino ya foni namba yenu",
+                 "Bemba": "Mwaiseni! Pakutampa Lembesheni. Lembeni ama namba ayali 4 ayashalikisha kuli namba yenu",
             }
             send(reg_map.get(detected_lang, "Hello! Let's start with registration. What is the last 4 digits of your number?"), sender, phone_id)
     
@@ -766,6 +768,8 @@ def switch_language_and_respond(sender, prompt, phone_id, current_lang, detected
             "ndebele": "Sicela ufake iviki lokukhulelwa ",
             "chinyanja": "Chonde lowetsani sabata la pakati ",
             "lozi": "Ndapota faka linomolo la viki ya ku imelela mwana ",
+            "Tonga": " Amubike namba yama wiki yo mwaba andaa (yo mwaba akaati)",
+            "Bemba": "Lembeni imilungu mwaba pabukulu",
         }
         send(week_map.get(detected_lang, "Please enter your pregnancy week number "), sender, phone_id)
     
@@ -821,7 +825,7 @@ def handle_main_menu(sender, prompt, phone_id):
         # Chinyanja
         "moni", "muli bwanji",
         # Tonga
-        "mwabuka", "mwabuka buti", "mwalandwa", "mwalandwa buti",
+        "mwabuka", "mwabuka buti", "mwatambulwa", "Buti",
         # Bemba
         "mwaiseni", "muli shani",
         # Lozi
@@ -844,7 +848,7 @@ def handle_main_menu(sender, prompt, phone_id):
             "ndebele": "Sawubona! Ngingakusiza ngani namuhla?",
             "chinyanja": "Moni! Ndingakuthandizireni lero?",
             "lozi": "Mwa bona! Nka ku thusa ka mini sunu?",
-            "tonga": "Moni! Ndingamwafwa shani ilelo?",
+            "tonga": "Buti! Nga ndamukwasya buti sunu?",
             "bemba": "Muli shani! Bushe kuti namwafwa shani lelo?",
         }
         send(greet_map.get(lang, "Hello! How can I help you today?"), sender, phone_id)
@@ -893,7 +897,7 @@ def handle_main_menu(sender, prompt, phone_id):
                     "ndebele": "Sicela ufake iviki lokukhulelwa ",
                     "chinyanja": "Chonde lowetsani sabata la pakati ",
                     "lozi": "Ndapota faka linomolo la viki ya ku imelela mwana ",
-                    "tonga": "Ndatola, ingila nhwiiiki ya kubeleka mwana ",
+                    "Tonga": " Amubike namba yama wiki yo mwaba andaa (yo mwaba akaati)",
                     "bemba": "Napapita, ingisha umulungu wa pa nkundi ",
                 }
                 send(week_map.get(lang, "Please enter your pregnancy week number:"), sender, phone_id)
@@ -943,15 +947,15 @@ def handle_main_menu(sender, prompt, phone_id):
                         "3. Nini nka ya kwa dokotela?"
                     ),
                     "tonga": (
-                        "Sarudza mubvuzo:\n"
-                        "1. Zizyo zyakubaa mwana nzi?\n"
-                        "2. Malangizo aakudya nzi?\n"
-                        "3. Ndingafwile kubona dokotela lili?"
+                        "Sala mubuzyo:\n"
+                        "1. Hena nga mwaiziba buti kutu muntu uli andaa olo uli akaati?\n"
+                        "2. Hena zilyo nzi zyo elede kulya mukaintu uli andaa?\n"
+                        "3. Hena chiindi nzi cho diyelede kubona ba dokata?"
                     ),
                     "bemba": (
                         "Sala ilipusho:\n"
-                        "1. Ifyo balenanga pa nkundi nshi?\n"
-                        "2. Amabumba ya kulya nshi?\n"
+                        "1. Finshi nigeshibilako ukutila ndi pabukulu?\n"
+                        "2. Mabumba ya fyakulya nshi fwile ukulya?\n"
                         "3. Nfwile ukumona dokota lisa?"
                     ),
                 }
@@ -996,9 +1000,9 @@ def handle_main_menu(sender, prompt, phone_id):
                     ),
                     "bemba": (
                         "Sala ilipusho:\n"
-                        "1. Kansa ya cibeleshi nshi?\n"
-                        "2. Ifyo balenanga mu kutanga kwa kansa ya cibeleshi nshi?\n"
-                        "3. Ichambisha kansa ya cibeleshi chinshi?"
+                        "1. Bushe Cervical cancer nichinshi?\n"
+                        "2. Finshi ningamwenako ukutila ninkwata cervical cancer?\n"
+                        "3. Finshi ifileta Cervical cancer?"
                     ),
                 }
                 send(cq_map.get(lang, (
@@ -1009,7 +1013,7 @@ def handle_main_menu(sender, prompt, phone_id):
                 )), sender, phone_id)
             save_single_user_state(sender)
             return
-
+//END of tonga refinement
         else:
             invalid_map = {
                 "shona": "Pindura ne '1' kuti uwane ruzivo kana '2' kuti ubvunze mibvunzo.",
