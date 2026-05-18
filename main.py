@@ -1013,7 +1013,7 @@ def handle_main_menu(sender, prompt, phone_id):
                 )), sender, phone_id)
             save_single_user_state(sender)
             return
-//END of tonga refinement
+#END of tonga refinement
         else:
             invalid_map = {
                 "shona": "Pindura ne '1' kuti uwane ruzivo kana '2' kuti ubvunze mibvunzo.",
