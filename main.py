@@ -2166,7 +2166,7 @@ def _get_lang_enforce(lang: str) -> str:
         "chinyanja": "Yankhani mu Chichewa/Chinyanja basi. Osagwiritsa ntchito Chingerezi.",
         "lozi":      "Arabela ka Silozi feela. U se ke wa sebelisa Siingelesi.",
         "bemba":     "Yasuka mu Chibemba fye. Ushatumishe Cingeleshi.",
-        "tonga":     "Mupandule mu Chitonga chete. Musagwisye Ciingelezi.",
+        "tonga":     "Pandula mu Chitonga chamazuba ano. Ukonzya kusebenzisa ma health terms monga pregnancy, week, clinic, doctor, ultrasound, kapena vitamins ngati ziyandika, koma usalembe answer yonse mu English.",
     }.get(lang, "Respond in English only.")
 
 
@@ -2175,7 +2175,7 @@ def _get_fallback(lang: str) -> str:
         "shona":     "Pane dambudziko pakupindura mubvunzo wako.",
         "ndebele":   "Kunenkinga ekuphenduleni umbuzo wakho.",
         "chinyanja": "Pali vuto popanga yankho la funso lanu.",
-        "tonga":     "Kwakali zyuuno mu kupandula mwaambo wako.",
+        "tonga":     "Pepani, pali vuto pakupanga answer ya mubuzyo wako.",
         "bemba":     "Kuli ubukopo mu kuyasuka ilipusho lyobe.",
         "lozi":      "Ku na bothata ka ku arabela lipuzo la hao.",
     }.get(lang, "Sorry, there was a problem getting an answer.")
@@ -2212,8 +2212,9 @@ def ask_gemini(question: str, lang: str = "english") -> str:
             "Yasuka ilipusho lyi mu Chibemba icasalangana, icapepa, na icali na ubusuma bwa buumi:\n\n"
         ),
         "tonga": (
-            "Ndi mweenzinyina wa buumi bwa kubaa mwana. "
-            "Mupandule mwaambo wu mu Chitonga chakweelela, chiswiipe, komanso chili a cibelesyo ca buumi:\n\n"
+            "Uli maternal health assistant wa Dawa Health. "
+            "Pandula mubuzyo uyu mu Chitonga chamazuba ano, momveka bwino, mwachidule, na ma advice a health ali safe. "
+            "Gwiritsa ntchito mawu amene bamakaintu bamvwa monga pregnancy, week, clinic, doctor, na prenatal vitamins ngati afunika:\n\n"
         ),
     }.get(lang, (
         "You are a maternal health assistant. "
@@ -2273,8 +2274,9 @@ def ask_gemini_cancer(question: str, lang: str = "english") -> str:
             "Yasuka ilipusho lyi mu Chibemba icamoneka bwino kabili icapepuka:\n\n"
         ),
         "tonga": (
-            "Ndi mweenzinyina wa kansa ya mulomo wa cibeleko. "
-            "Mupandule mwaambo wu mu Chitonga chakweelela alimwi chiswiipe:\n\n"
+            "Uli cervical cancer health assistant wa Dawa Health. "
+            "Pandula mubuzyo uyu mu Chitonga chamazuba ano, momveka bwino, mwaulemu, na ma advice a health ali safe. "
+            "Gwiritsa ntchito common medical terms monga cervical cancer, HPV, screening, clinic, kapena doctor ngati afunika:\n\n"
         ),
     }.get(lang, (
         "You are a cervical cancer health assistant. "
@@ -2340,9 +2342,13 @@ def ask_gemini_general(question: str, lang: str) -> str:
             "Malizitsani ndi chenjezo chachidule chonena kuti chidziwitsochi sichimalowa m'malo mwa kuyezetsa kwa dokotala.\n\n"
         ),
         "tonga": (
-            "Muli mweenzinyina wa buumi mu buumi bwa banakazi abali mu buumi bwa kubusya mwana alimwi ne ndenda ya mulomo wa cibeleko. "
-            "Tangi mpoonya mpoonyo ku mpendulo. "
-            "Malizya a kusinsimuna kufwaafwi kuti ulwazi ulu talusanduki ku lwandano lwa dokotela.\n\n"
+            "Uli professional health assistant wa Dawa Health pa pregnancy, maternal health, na cervical cancer. "
+            "Pandula mubuzyo wa user mu Chitonga chamazuba ano pogwiritsa ntchito correct health information. "
+            "Usayambe na phrases monga Chabwino, Inde, kapena Let me explain. "
+            "Yamba directly na answer. "
+            "Ngati user wafunsa za home visits, auzeni kuti Dawa Health clinicians bacita home visits. "
+            "Malizya na short disclaimer kuti information iyi siyilowa m'malo mwa kuwona doctor. "
+            f"Contact: email={company_email}, phone={company_phone}, address={company_address}, website={company_website}.\n\n"
         ),
         "bemba": (
             "Uli kapyunga wa buumi uwashintilila pa buumi bwa banakashi abali ne fumo pamo ne kansa ya mulomo wa cibeleshi. "
