@@ -256,7 +256,7 @@ def detect_language(message, sender=None):
                       "zvakanaka", "wadini", "taura", "kwete"],
         "ndebele":   ["sawubona", "salibonani", "unjani", "yebo", "ngiyabonga",
                       "ngicela", "impela", "kunjani", "hatshi", "kambe"],
-        "bemba":     ["mwaiseni", "ulishani", "nalikutemwa", "natotela",
+        "bemba":     ["mwaiseni", "ulishani", "nalikutemwa", "natotela", "shani", "Chisuma", "Sana", "Njelelako",
                       "twatotela", "mukwai", "napapata"],
         "chinyanja": ["moni", "zikomo", "pepani", "ndithu", "chonde", "eyaa",
                       "nitandizeni", "nankani"],
@@ -326,7 +326,7 @@ def detect_language(message, sender=None):
         "shona":     ["makadini", "zvakanaka sei", "ndatenda", "ndiriku"],
         "ndebele":   ["unjani wena", "ngiyabonga kakhulu", "sicela ungichazele"],
         "lozi":      ["uli bwanji", "ni bata", "ha ndi zibi", "ndalumba hahulu"],
-        "bemba":     ["muli shani", "napapita", "nshishibe", "bushe kuti"],
+        "bemba":     ["muli shani", "napapata", "nshishibe", "bushe kuti"],
         "tonga":     ["mwabuka buti", "mwalandwa buti", "ndazwa kwiinda"],
         "english":   ["how are you", "what are", "what is", "can you",
                       "tell me", "i need", "i want", "please tell",
@@ -1061,7 +1061,7 @@ def handle_main_menu(sender, prompt, phone_id):
                         "ndebele": "Alukho ulwazi lwaleviki.",
                         "chinyanja": "Palibe zambiri za sabata ili.",
                         "lozi": "Sina zintu za ku fumwa ka viki ye.",
-                        "bemba": "Tapali icibeela ca umulungu wu.",
+                        "bemba": "Tapali ifilifyonse pa mulungu uyu.",
                         "tonga": "Tana cibeela ca nhwiiiki iyi.",
                     }
                     send(no_week_map.get(lang, "No data available for that week."), sender, phone_id)
@@ -1072,7 +1072,7 @@ def handle_main_menu(sender, prompt, phone_id):
                 "ndebele": "Sicela ufake inombolo yeviki evumelekile ephakathi kuka-1 no-40.",
                 "chinyanja": "Chonde lowetsani nambala yoyenera ya sabata kuchokera pa 1 mpaka 40.",
                 "lozi": "Ndapota faka linomolo la viki le li le ka 1 ku ya ka 40.",
-                "bemba": "Napapita, ingisha umulungu ukufuma pa 1 ukufika pa 40.",
+                "bemba": "Chisuma, ingisha umulungu ukufuma pa 1 ukufika pa 40.",
                 "tonga": "Ndatola, ingila nhwiiiki kuzwa 1 kusika 40.",
             }
             send(invalid_week_map.get(lang, "Please enter a valid week number between 1 and 40."), sender, phone_id)
@@ -1611,7 +1611,7 @@ def handle_shop_add_more(sender, prompt, phone_id):
             "ndebele":   "Kulungile! Ngicela unike ikheli lakho lokuhambisa (idolobha, indawo, noma ulwazi olwengeziwe).",
             "chinyanja": "Chabwino! Chonde tipatseni adilesi yanu yokumanga (mzinda, dera, ndi chilichonse china chopindulitsa).",
             "tonga":     "Chabwino! Ndatola, tipeni adilesi yanu yokumanga (mzinda, dera, ndi chilichonse china).",
-            "bemba":     "Cino cino! Napapata, mpeele aderesi yenu ya kupeleka (tawuni, cifungo, kabili fimo ifyalumo).",
+            "bemba":     "Chisuma! Napapata, mpeele adilesi yenu iya kuletako ifyomuleshita (tawuni, cifulo, kabili nafimbi ifyo twingeshibilako pa nchende).",
             "lozi":      "Ho lokile! Ndapota, nipe aderesi ya hao ya ku alafa (tauni, sibaka, ni ze ñwi ze thusang).",
         }
         send(addr_map.get(lang, "Great! Please provide your delivery address (town, area, and any helpful details)."), sender, phone_id)
@@ -1624,7 +1624,7 @@ def handle_shop_add_more(sender, prompt, phone_id):
             "ndebele":   "Kulungile! Ngicela unike ikheli lakho lokuhambisa (idolobha, indawo, noma ulwazi olwengeziwe).",
             "chinyanja": "Chabwino! Chonde tipatseni adilesi yanu yokumanga (mzinda, dera, ndi chilichonse china chopindulitsa).",
             "tonga":     "Chabwino! Ndatola, tipeni adilesi yanu yokumanga (mzinda, dera, ndi chilichonse china).",
-            "bemba":     "Cino cino! Napapata, mpeele aderesi yenu ya kupeleka (tawuni, cifungo, kabili fimo ifyalumo).",
+            "bemba":     "Chisuma! Napapata, mpeele adilesi yenu iya kuletako ifyomuleshita (tawuni, cifulo, kabili nafimbi ifyo twingeshibilako pa nchende).",
             "lozi":      "Ho lokile! Ndapota, nipe aderesi ya hao ya ku alafa (tauni, sibaka, ni ze ñwi ze thusang).",
         }
         send(addr_map.get(lang, "Great! Please provide your delivery address (town, area, and any helpful details)."), sender, phone_id)
@@ -1646,8 +1646,8 @@ def handle_purchase_response(sender, prompt, phone_id):
             "shona": "Ndatenda! Iva nezuva rakanaka. Kana uine mimwe mibvunzo, tanga patsva nekuti 'hesi'.",
             "ndebele": "Ngiyabonga! Ube nosuku oluhle. Uma uneminye imibuzo, qala ingxoxo entsha ngo-'unjani'.",
             "chinyanja": "Zikomo! Khalani ndi tsiku labwino. Ngati muli ndi mafunso ena, yambani ponena 'muli bwanji'.",
-            "tonga": "Twatotela! Mube abusiku bwabwino. Ngaa muli ne mafunso yami, yambani ponena 'mwabuka buti'.",
-            "bemba": "Natotela! Mubelele bwino. Nga muli na ifyafyala ifyalumo, tambuleni ponena 'mwaiseni'.",
+            "tonga": "Twatotela! mwikale bwino. Ngaa muli ne mafunso yami, yambani ponena 'mwabuka buti'.",
+            "bemba": "Natotela! Mwikale bwino. Nga muli nefipusho nafimbi, lembeni uki 'shani'.",
             "lozi": "Ndalumba! Mube ni lizazi le linde. Ha mu na lipuzo le linwi, qalisa ka ku bulela 'mwa bona'.",
         }
         send(bye_map.get(lang, "Thank you! Have a nice day. If you have more questions, start over by saying 'hi'."), sender, phone_id)
@@ -1667,7 +1667,7 @@ def handle_purchase_response(sender, prompt, phone_id):
                     "shona": "Ndine urombo, hapana zvigadzirwa zvehutano hwepamuviri zvazvino onekwa. Tinokurudzira kuenda kukiriniki yedu kuti uwane rumwe ruzivo.",
                     "ndebele": "Uxolo, azikho izinto zokunakekela isisu ezitholakalayo okwamanje. Sincoma ukuya esibhedlela sethu ukuze uthole eminye imininingwane.",
                     "tonga": "Ndatola, tana zinthu za bupilo bwa kubaa mwana zitholakalaya seesilizyo. Tinkusinja kufuna kuswiilila bukliniki bweesu.",
-                    "bemba": "Natapa, tapali imisansa ya buumi bwa nkashi itholakalayo seesilizyo. Tikusinja ukuya ku kliniki yeesu.",
+                    "bemba": "Chabulanda, tapali ifipe fya bumi bwa bafyashi. Tulemikonkomesha ukuti mwise kuchipatala chesu pakwishibilapo ifingi.",
                     "lozi": "Ni maswabi, ha ku na swakupila swa buimana se si fumaneha cwale. Lu ku susueza ku ya kwa kiliniki ya luna.",
                 }
                 send(no_prod_map.get(lang, "Sorry, no maternal health products are currently available. We recommend visiting our clinic for more information."), sender, phone_id)
@@ -1682,7 +1682,7 @@ def handle_purchase_response(sender, prompt, phone_id):
                     "shona": "Ndine urombo, hapana zvigadzirwa zvecervical cancer zvazvino onekwa. Tinokurudzira kuenda kukiriniki yedu kuti uwane rumwe ruzivo.",
                     "ndebele": "Uxolo, azikho izinto zokuvikela isilonda somlomo wesibeletho ezitholakalayo okwamanje. Sincoma ukuya esibhedlela sethu ukuze uthole eminye imininingwane.",
                     "tonga": "Ndatola, tana zinthu za kansa ya mulomo wa cibeleko zitholakalaya seesilizyo. Tinkusinja kufuna kuswiilila bukliniki bweesu.",
-                    "bemba": "Natapa, tapali imisansa ya kansa ya cibeleshi itholakalayo seesilizyo. Tikusinja ukuya ku kliniki yeesu.",
+                    "bemba": "Chabulanda, tapali ifipe fya kansa ya cervix ifyasangwa pali ino nshita. Tulemikonkomesha ukuti mwise kuchipatala chesu pakwishibilapo ifingi.",
                     "lozi": "Ni maswabi, ha ku na swakupila swa kankere ya mulomo wa sibeleko se si fumaneha cwale. Lu ku susueza ku ya kwa kiliniki ya luna.",
                 }
                 send(no_cerv_map.get(lang, "Sorry, no cervical cancer products are currently available. We recommend visiting our clinic for more information."), sender, phone_id)
@@ -1696,7 +1696,7 @@ def handle_purchase_response(sender, prompt, phone_id):
                     "shona": "Tinokutendai! Tichakubatai mukati memaminitsi mashoma kuti muwedzere ruzivo.",
                     "ndebele": "Siyabonga! Sizokuthinta emizuzwini embalwa ukuze uthole eminye imininingwane.",
                     "tonga": "Twatotela! Tinkuumba mukati wa maminiti mashoma kuti mupate zambiri.",
-                    "bemba": "Natotela! Tukakuumba mukati wa maminiti ashono ukufuna ifyalumo fyalumo.",
+                    "bemba": "Natotela! Twalalanda naimwe mukashita fye akanono.",
                     "lozi": "Ndalumba! Lu ta ku ama ka nako ye nyinyani kuli lu file litaba ze ñwi.",
                 }
                 send(gen_map.get(lang, "Thank you! We'll contact you shortly for more details."), sender, phone_id)
@@ -1706,7 +1706,7 @@ def handle_purchase_response(sender, prompt, phone_id):
             "ndebele": "Ungathanda ukuqhubeka nokuthenga noma yini yale mikhiqizo? ",
             "chinyanja": "Kodi mukufuna kupitiriza kugula chinthu cha zinthu izi? ",
             "tonga": "Ungafuna kupitiriza kugula chintu cha zinthu izi? ",
-            "bemba": "Ufuna ukupitiliza ukugula chintu cha imisansa iyi? ",
+            "bemba": "Ulefwaya ukukonkanyapo ukushita nafimbi ifipe? ",
             "lozi": "Kana u bata ku zwelapili ku landa se si liñwi sa swakupila se? ",
         }
         send(proceed_map.get(lang, "Would you like to proceed with purchasing any of these products? "), sender, phone_id)
@@ -1720,7 +1720,7 @@ def handle_purchase_response(sender, prompt, phone_id):
             "ndebele": "Angikuzwisisi. Phendula ngicela: Ungathanda ukuthenga imikhiqizo? ",
             "chinyanja": "Sindinamve. Yankhani chonde: Kodi mukufuna kugula zinthu? ",
             "tonga": "Tana kumva. Yankhani chonde: Ungafuna kugula zinthu? ",
-            "bemba": "Nsasumina. Yasuka chonde: Ufuna ukugula imisansa? ",
+            "bemba": "Nshishibe pali ifi. Yasuka: Ulefwaya ukukonkanyapo ukushita nafimbi ifipe? ",
             "lozi": "Ha ni utwisisi. Arabela kwa ku ya: Kana u bata ku landa swakupila? ",
         }
         send(unclear_map.get(lang, "I didn't understand. Please reply: Would you like to purchase products?  "), sender, phone_id)
@@ -1740,7 +1740,7 @@ def handle_purchase_confirmation(sender, prompt, phone_id):
             "ndebele": "Kulungile. Ngiyabonga! Uma uneminye imibuzo, qala kabusha ngokuthi 'unjani'.",
             "chinyanja": "Zikomo! Khalani ndi tsiku labwino. Ngati muli ndi mafunso ena, yambani ponena 'muli bwanji'.",
             "tonga": "Chabwino. Twatotela! Ngaa muli ne mafunso yami, yambani ponena 'mwabuka buti'.",
-            "bemba": "Cino cino. Natotela! Nga muli na ifyafyala ifyalumo, tambuleni ponena 'mwaiseni'.",
+            "bemba": "Chisuma. Natotela! Nga muli nefipusho nafimbi, lembeni ukuti 'shani'.",
             "lozi": "Ho lokile. Ndalumba! Ha mu na lipuzo le linwi, qalisa ka ku bulela 'mwa bona'.",
         }
         send(alright_map.get(lang, "Alright. Thank you! If you have more questions, start over by saying 'hi'."), sender, phone_id)
@@ -1752,7 +1752,7 @@ def handle_purchase_confirmation(sender, prompt, phone_id):
             "ndebele": "Siyabonga! Sizokuthinta emizuzwini embalwa ukuze uthole eminye imininingwane ngokuthenga.",
             "chinyanja": "Zikomo! Tidzakuumbanani posachedwapa kuti mupeze zambiri zokhudza kugula.",
             "tonga": "Twatotela! Tinkuumba posachedwapa kuti mupate zambiri zokhudza kugula.",
-            "bemba": "Natotela! Tukakuumba mu kufupifupi ukufuna ifyalumo pa kugula.",
+            "bemba": "Natotela! Twalamitumina ifyebo ifingi pafipe mwa shita nombaline.",
             "lozi": "Ndalumba! Lu ta ku ama ka nako ye nyinyani kuli lu fe litaba ze ñwi ka za ku landa.",
         }
         send(thanks_map.get(lang, "Thank you! We'll contact you shortly for more details about your purchase."), sender, phone_id)
@@ -1764,7 +1764,7 @@ def handle_purchase_confirmation(sender, prompt, phone_id):
             "ndebele": "Angikuzwisisi. Phendula ngicela: Ungathanda ukuqhubeka nokuthenga? ",
             "chinyanja": "Sindinamve. Yankhani chonde: Kodi mukufuna kupitiriza kugula? ",
             "tonga": "Tana kumva. Yankhani chonde: Ungafuna kupitiriza kugula? ",
-            "bemba": "Nsasumina. Yasuka chonde: Ufuna ukupitiliza ukugula? ",
+            "bemba": "Nshishibe pali ifi. Yasuka: Bushe ulefyaya ukukonkanyapo ukushita ifipe? ",
             "lozi": "Ha ni utwisisi. Arabela kwa ku ya: Kana u bata ku zwelapili ku landa? ",
         }
         send(unclear_map.get(lang, "I didn't understand. Please reply: Would you like to proceed with purchasing?  "), sender, phone_id)
@@ -1784,7 +1784,7 @@ def format_products_for_display(products_list, lang):
             "ndebele": "Azikho imikhiqizo etholakalayo okwamanje.",
             "chinyanja": "Palibe zinthu zitholakalayo pakali pano.",
             "tonga": "Tana zinthu zitholakalaya seesilizyo.",
-            "bemba": "Tapali imisansa itholakalayo seesilizyo.",
+            "bemba": "Tapali ifipe pali kano kashita.",
             "lozi": "Ha ku na swakupila se si fumaneha cwale.",
         }
         return empty_map.get(lang, "No products currently available.")
@@ -1794,7 +1794,7 @@ def format_products_for_display(products_list, lang):
         "ndebele": "🏥 Imikhiqizo Yezempilo:\n\n",
         "chinyanja": "🏥 Zinthu za Thanzo:\n\n",
         "tonga": "🏥 Zinthu za Bupilo:\n\n",
-        "bemba": "🏥 Imisansa ya Buumi:\n\n",
+        "bemba": "🏥 ifipe ya Buumi:\n\n",
         "lozi": "🏥 Swakupila:\n\n",
     }
     products_text = header_map.get(lang, "🏥 Health Products:\n\n")
@@ -1824,7 +1824,7 @@ def format_products_for_display(products_list, lang):
         "ndebele": "Khetha umkhiqizo ngokutshela inombolo yayo.",
         "chinyanja": "Sankhani chinthu ponena nambala yake.",
         "tonga": "Sankhani chinthu ponena nambala yake.",
-        "bemba": "Sala imisansa ka kulanda inomba yayo.",
+        "bemba": "Sala nambala pakuti usale ichipe.",
         "lozi": "U khethe swakupila ka ku bulela nomolo ya sona.",
     }
     products_text += select_map.get(lang, "Select a product by telling us the number.")
@@ -1850,7 +1850,7 @@ def handle_conversation_state(sender, prompt, phone_id):
         # Tonga
         "mwabuka", "mwabuka buti", "mwalandwa", "mwalandwa buti",
         # Bemba
-        "mwaiseni", "muli shani",
+        "mwaiseni", "muli shani", "shani",
         # Lozi
         "mwa bona",
     ]
@@ -1873,7 +1873,7 @@ def handle_conversation_state(sender, prompt, phone_id):
             "ndebele": "Sawubona! Ngingakusiza ngani namuhla?",
             "chinyanja": "Moni! Ndingakuthandizireni lero?",
             "tonga": "Moni! Ndingamwafwa shani ilelo?",
-            "bemba": "Muli shani! Bushe kuti namwafwa shani lelo?",
+            "bemba": "Shani! Bushe kuti namwafwa shani lelo?",
             "lozi": "Mwa bona! Nka ku thusa ka mini sunu?",
         }
         send(greet_map.get(lang, "Hello! How can I help you today?"), sender, phone_id)
@@ -1941,7 +1941,7 @@ def ask_cervical_more_info(sender, phone_id):
         "ndebele": "Ungathanda ukuthola eminye imininingwane nge-cervical cancer? ",
         "chinyanja": "Kodi mukufuna kupeza zambiri za cervical cancer?",
         "tonga": "Ungafuna kupata zambiri za kansa ya mulomo wa cibeleko?",
-        "bemba": "Ufuna ukupata ifyalumo fyalumo pa kansa ya cibeleshi?",
+        "bemba": "Bushe kuti wafwaya ukwishibilapo ifingi pali cervical kansa?",
         "lozi": "Kana u bata ku fumana litaba ze ñwi ka za kankere ya mulomo wa sibeleko?",
     }
     send(more_map.get(lang, "Would you like to get more information about cervical cancer?  "), sender, phone_id)
@@ -1958,7 +1958,7 @@ def ask_cervical_question_number(sender, phone_id):
         "ndebele": "Faka inombolo yombuzo kusuka ku-1 kuya ku-100:",
         "chinyanja": "Lowetsani nambala ya funso kuchokera pa 1 mpaka 100:",
         "tonga": "Ingila nambala ya mwaambo kuzwa 1 kusika 100:",
-        "bemba": "Ingisha inomba ya ilipusho ukufuma pa 1 ukufika pa 100:",
+        "bemba": "lemba nambala ya lipusho ukufuma pa 1 ukufika pa 100:",
         "lozi": "Kenya nomolo ya lipuzo ku zwana 1 ku ya ku 100:",
     }
     send(num_map.get(lang, "Enter a question number from 1 to 100:"), sender, phone_id)
@@ -1975,7 +1975,7 @@ def ask_keep_learning(sender, phone_id):
         "ndebele": "Ungathanda ukuqhubeka nokufunda ezinye izindaba ze-cervical cancer? ",
         "chinyanja": "Kodi mukufuna kupitiriza kuphunzira zina zambiri za cervical cancer?",
         "tonga": "Ungafuna kupitiriza kuphunzira zambiri za kansa ya mulomo wa cibeleko?",
-        "bemba": "Ufuna ukupitiliza ukulearela ifyalumo pa kansa ya cibeleshi?",
+        "bemba": "Bushe ulefwaya ukukonkanyapo ukusambililapo ifingi pali cervical cancer?",
         "lozi": "Kana u bata ku zwelapili ku ithuta litaba ze ñwi ka za kankere ya mulomo wa sibeleko?",
     }
     send(keep_map.get(lang, "Would you like to keep learning more about cervical cancer?  "), sender, phone_id)
@@ -1988,8 +1988,8 @@ def handle_cervical_more_info(sender, prompt, phone_id):
     lang = state["language"]
     prompt_lower = prompt.lower().strip()
     
-    yes_responses = ["yes", "yeah", "yep", "please", "ehe", "hongu", "ndizvo", "inde", "yebo"]
-    no_responses = ["no", "nah", "nope", "hapana", "kwete", "aiwa", "a'a", "not really", "cha", "ayi"]
+    yes_responses = ["yes", "yeah", "yep", "please", "ehe", "hongu", "ndizvo", "inde", "Emukwayi", "yebo"]
+    no_responses = ["no", "nah", "nope", "hapana", "kwete", "aiwa", "a'a", "not really", "cha", "ayi",  "iyo", "Awe"]
     
     if any(response in prompt_lower for response in yes_responses):
         ask_cervical_question_number(sender, phone_id)
@@ -2002,7 +2002,7 @@ def handle_cervical_more_info(sender, prompt, phone_id):
             "ndebele": "Angikuzwisisi. Phendula ngicela: Ungathanda ukuthola eminye imininingwane? ",
             "chinyanja": "Sindinamve. Yankhani chonde: Kodi mukufuna kupeza zambiri?",
             "tonga": "Tana kumva. Yankhani chonde: Ungafuna kupata zambiri?",
-            "bemba": "Nsasumina. Yasuka chonde: Ufuna ukupata ifyalumo fyalumo?",
+            "bemba": "Nshishibe pali ifi. Napapata asuka: Kuti wafyaya ukwishibilapo nafimbi?",
             "lozi": "Ha ni utwisisi. Arabela kwa ku ya: Kana u bata ku fumana litaba ze ñwi?",
         }
         send(unclear_map.get(lang, "I didn't understand. Please reply: Would you like to get more information?  "), sender, phone_id)
@@ -2035,7 +2035,7 @@ def handle_cervical_question_number(sender, prompt, phone_id):
                     "ndebele": f"Uxolo, angikutholanga umbuzo wenombolo {question_num}. Zama enye inombolo kusuka ku-1 kuya ku-100.",
                     "chinyanja": f"Pepani, sindinapeze funso la nambala {question_num}. Yesani nambala ina kuchokera pa 1 mpaka 100.",
                     "tonga": f"Ndatola, tana kupata mwaambo wa nambala {question_num}. Lingenya nambala inzwi kuzwa 1 kusika 100.",
-                    "bemba": f"Natapa, nshasangile ilipusho lya inomba {question_num}. Esheni inomba inzwi ukufuma pa 1 ukufika pa 100.",
+                    "bemba": f"Njelelako, nshi isangile nambala ye lipusho {question_num}. Lembeni nambala imbi ukufuma pa 1 ukufika pa 100.",
                     "lozi": f"Ni maswabi, ha ni fumani lipuzo la nomolo {question_num}. Linge nomolo ye nzwi ku zwana 1 ku ya ku 100.",
                 }
                 send(not_found_map.get(lang, f"Sorry, I couldn't find question number {question_num}. Please try another number from 1 to 100."), sender, phone_id)
@@ -2046,7 +2046,7 @@ def handle_cervical_question_number(sender, prompt, phone_id):
                 "ndebele": "Sicela ufake inombolo ephakathi kuka-1 no-100 kuphela.",
                 "chinyanja": "Chonde lowetsani nambala kuchokera pa 1 mpaka 100 basi.",
                 "tonga": "Ndatola, ingila nambala kuzwa 1 kusika 100 fye.",
-                "bemba": "Napapita, ingisha inomba ukufuma pa 1 ukufika pa 100 fye.",
+                "bemba": "Napapata, ingisha nambala ukufuma pa 1 ukufika pa 100 fye.",
                 "lozi": "Ndapota, kenya nomolo ku zwana 1 ku ya ku 100 feela.",
             }
             send(range_map.get(lang, "Please enter a number between 1 and 100 only."), sender, phone_id)
@@ -2058,7 +2058,7 @@ def handle_cervical_question_number(sender, prompt, phone_id):
             "ndebele": "Sicela ufake inombolo evumelekile ephakathi kuka-1 no-100.",
             "chinyanja": "Chonde lowetsani nambala yoyenera kuchokera pa 1 mpaka 100.",
             "tonga": "Ndatola, ingila nambala yoyenera kuzwa 1 kusika 100.",
-            "bemba": "Napapita, ingisha inomba iyenera ukufuma pa 1 ukufika pa 100.",
+            "bemba": "Napapata, ingisha nambala ilingile ukufuma pa 1 ukufika pa 100.",
             "lozi": "Ndapota, kenya nomolo ye nepahezi ku zwana 1 ku ya ku 100.",
         }
         send(invalid_map.get(lang, "Please enter a valid number between 1 and 100."), sender, phone_id)
@@ -2069,8 +2069,8 @@ def handle_keep_learning(sender, prompt, phone_id):
     lang = state["language"]
     prompt_lower = prompt.lower().strip()
     
-    yes_responses = ["yes", "yeah", "yep", "please", "ehe", "hongu", "ndizvo", "inde", "yebo"]
-    no_responses = ["no", "nah", "nope", "hapana", "kwete", "aiwa", "a'a", "not really", "cha", "ayi"]
+    yes_responses = ["yes", "yeah", "yep", "please", "ehe", "hongu", "ndizvo", "inde", "emukwayi", "ehe", "yebo"]
+    no_responses = ["no", "nah", "nope", "hapana", "kwete", "aiwa", "a'a", "not really", "cha", "ayi", "awe", "iyo"]
     
     if any(response in prompt_lower for response in yes_responses):
         ask_cervical_question_number(sender, phone_id)
@@ -2083,7 +2083,7 @@ def handle_keep_learning(sender, prompt, phone_id):
             "ndebele": "Angikuzwisisi. Phendula ngicela: Ungathanda ukuqhubeka nokufunda? ",
             "chinyanja": "Sindinamve. Yankhani chonde: Kodi mukufuna kupitiriza kuphunzira?",
             "tonga": "Tana kumva. Yankhani chonde: Ungafuna kupitiriza kuphunzira?",
-            "bemba": "Nsasumina. Yasuka chonde: Ufuna ukupitiliza ukulearela?",
+            "bemba": "Nshishibe pali ifi. Napapata Yasuka: Ulefwaya ukukonkanyapo ukusambilila?",
             "lozi": "Ha ni utwisisi. Arabela kwa ku ya: Kana u bata ku zwelapili ku ithuta?",
         }
         send(unclear_map.get(lang, "I didn't understand. Please reply: Would you like to keep learning?  "), sender, phone_id)
@@ -2097,7 +2097,7 @@ def ask_another_week(sender, phone_id):
         "ndebele": "Ungathanda ukufunda ngamanye amaviki okukhulelwa? ",
         "chinyanja": "Kodi mukufuna kudziwa za masabata ena a pakati?",
         "tonga": "Ungafuna kudziwa za manhwiiiki eni a kubaa mwana?",
-        "bemba": "Ufuna ukuishiba pa myeshi iyengi ya pa nkundi?",
+        "bemba": "Kuti wafwaya ukwishiba pa fya milungu yapabukulu imbi?",
         "lozi": "Kana u bata ku ithuta ka za maviki a manwi a buimana?",
     }
     send(another_map.get(lang, "Would you like to learn about other pregnancy weeks?  "), sender, phone_id)
@@ -2111,8 +2111,8 @@ def handle_another_week(sender, prompt, phone_id):
     lang = state["language"]
     prompt_lower = prompt.lower().strip()
     
-    yes_responses = ["yes", "yeah", "yep", "please", "ehe", "hongu", "ndizvo", "inde", "yebo"]
-    no_responses = ["no", "nah", "nope", "hapana", "kwete", "aiwa", "a'a", "not really", "cha", "ayi"]
+    yes_responses = ["yes", "yeah", "yep", "please", "ehe", "hongu", "ndizvo", "inde", "emukwayi", "ehe", "yebo"]
+    no_responses = ["no", "nah", "nope", "hapana", "kwete", "aiwa", "a'a", "not really", "cha", "ayi", "awe", "iyo"]
     
     if any(response in prompt_lower for response in yes_responses):
         state["step"] = "ask_week"
@@ -2121,8 +2121,8 @@ def handle_another_week(sender, prompt, phone_id):
             "ndebele": "Sicela ufake iviki lokukhulelwa ",
             "chinyanja": "Chonde lowetsani sabata la pakati ",
             "lozi": "Ndapota faka linomolo la viki ya ku imelela mwana ",
-            "tonga": "Ndatola, ingila nhwiiiki ya kubeleka mwana ",
-            "bemba": "Napapita, ingisha umulungu wa pa nkundi ",
+            "tonga": "Chisuma, ingisheni nambala yamilungu mwaba pabukulu",
+            "bemba": "Chisuma, ingisheni nambala yamilungu mwaba pabukulu ",
         }
         send(week_map.get(lang, "Please enter your pregnancy week number "), sender, phone_id)
         save_single_user_state(sender)
@@ -2136,10 +2136,10 @@ def handle_another_week(sender, prompt, phone_id):
             "ndebele": "Ngiyabonga! Ungathanda ukuthengwa izinto zokunakekela isisu? Sinakho:\n- Ama-Prenatal Vitamins\n- Izinto zokuhlola isisu\n- Amakhithi okunakekela isisu",
             "chinyanja": "Zikomo! Kodi mukufuna kugula zinthu za Thanzi la Amayi? Tili ndi:\n- Mavitamini a Prenatal\n- Zoyezera pakati\n- Makiti a Thanzi la Amayi",
             "tonga": "Twatotela! Ungafuna kugula zinthu za bupilo bwa kubaa mwana? Tili na:\n- Mavitamini a Prenatal\n- Zoyezera kubaa mwana\n- Makiti a Bupilo bwa Kubaa Mwana",
-            "bemba": "Natotela! Ufuna ukugula imisansa ya buumi bwa nkashi? Tuli na:\n- Mavitamini a Prenatal\n- Ifyoyeshamo pa nkundi\n- Makiti ya Buumi bwa Nkashi",
+            "bemba": "Twatotela! Bushe kuti mwafwaya ukushita ifipe fyapabukulu? Natukwa na:\n- Ama-Prenatal Vitamins\n- Ifyakwishibilako nga muli pabukulu\n- Makiti ya Buumi bwa banamayo",
             "lozi": "Ndalumba! Kana u bata ku landa swakupila swa buimana? Lu na:\n- Mavitamini a Prenatal\n- Swakutatuba buimana\n- Makiti a Buimana",
         }
-        send(prod_offer_map.get(lang, "Thank you! Would you like to purchase maternal health products? We offer:\n- Prenatal Vitamins\n- Pregnancy Tests\n- Maternal Care Kits"), sender, phone_id)
+        send(prod_offer_map.get(lang, "Thank you! Would you like to purchase maternal health products? We offer:\n- Prenatal Vitamins\n- Pregnancy Tests\n- Ifipe fya kusakamana abafyashi"), sender, phone_id)
         save_single_user_state(sender)
         
     else:
@@ -2148,7 +2148,7 @@ def handle_another_week(sender, prompt, phone_id):
             "ndebele": "Angikuzwisisi. Phendula ngicela: Ungathanda ukufunda ngamanye amaviki? ",
             "chinyanja": "Sindinamve. Yankhani chonde: Kodi mukufuna kudziwa za masabata ena?",
             "tonga": "Tana kumva. Yankhani chonde: Ungafuna kudziwa za manhwiiiki eni?",
-            "bemba": "Nsasumina. Yasuka chonde: Ufuna ukuishiba pa myeshi iyengi?",
+            "bemba": "Nshishibe pali ifi. Napapta Yasuka: Kuti mwafwaya ukwishiba pa milungu imbi iyapabukulu?",
             "lozi": "Ha ni utwisisi. Arabela kwa ku ya: Kana u bata ku ithuta ka za maviki a manwi?",
         }
         send(unclear_map.get(lang, "I didn't understand. Please reply: Would you like to learn about other weeks?  "), sender, phone_id)
@@ -2165,7 +2165,7 @@ def _get_lang_enforce(lang: str) -> str:
         "ndebele":   "Phendula ngesiNdebele kuphela. Ungasebenzisi isiNgisi.",
         "chinyanja": "Yankhani mu Chichewa/Chinyanja basi. Osagwiritsa ntchito Chingerezi.",
         "lozi":      "Arabela ka Silozi feela. U se ke wa sebelisa Siingelesi.",
-        "bemba":     "Yasuka mu Chibemba fye. Ushatumishe Cingeleshi.",
+        "bemba":     "Yasuka mu Cibemba fye. Wibonfya icingeleshi.",
         "tonga":     "Mupandule mu Chitonga chete. Musagwisye Ciingelezi.",
     }.get(lang, "Respond in English only.")
 
@@ -2176,7 +2176,7 @@ def _get_fallback(lang: str) -> str:
         "ndebele":   "Kunenkinga ekuphenduleni umbuzo wakho.",
         "chinyanja": "Pali vuto popanga yankho la funso lanu.",
         "tonga":     "Kwakali zyuuno mu kupandula mwaambo wako.",
-        "bemba":     "Kuli ubukopo mu kuyasuka ilipusho lyobe.",
+        "bemba":     "Cabulanda, kuliko ubwafya pakwasuka kuyasuka ilipusho lyobe.",
         "lozi":      "Ku na bothata ka ku arabela lipuzo la hao.",
     }.get(lang, "Sorry, there was a problem getting an answer.")
 
@@ -2208,8 +2208,8 @@ def ask_gemini(question: str, lang: str = "english") -> str:
             "Alaba lipuzo le ka Silozi se si nepahezi, se si nolofetse, ni se si na ni bupilo:\n\n"
         ),
         "bemba": (
-            "Ndi kapyunga wa buumi bwa bana. "
-            "Yasuka ilipusho lyi mu Chibemba icasalangana, icapepa, na icali na ubusuma bwa buumi:\n\n"
+            "Niwe kafwa wafya bumi bwaba namayo abali pabukulu. "
+            "Yasuka ilipusho ilipusho ilyakonkapo bwino bwino, mukwanguka, nechishinka pa fyabumi:\n\n"
         ),
         "tonga": (
             "Ndi mweenzinyina wa buumi bwa kubaa mwana. "
@@ -2269,8 +2269,8 @@ def ask_gemini_cancer(question: str, lang: str = "english") -> str:
             "Alaba lipuzo le ka Silozi se si bonahala hande ni se si nolofetse:\n\n"
         ),
         "bemba": (
-            "Ndi kapyunga wa kansa ya cibeleshi. "
-            "Yasuka ilipusho lyi mu Chibemba icamoneka bwino kabili icapepuka:\n\n"
+            "Niwe kafwa wabufya bumi pali cervical kansa. "
+            "Yasuka ilipusho ilipusho ilyakonkapo bwino bwino, mukwanguka, nechishinka Mucibemba:\n\n"
         ),
         "tonga": (
             "Ndi mweenzinyina wa kansa ya mulomo wa cibeleko. "
@@ -2345,9 +2345,12 @@ def ask_gemini_general(question: str, lang: str) -> str:
             "Malizya a kusinsimuna kufwaafwi kuti ulwazi ulu talusanduki ku lwandano lwa dokotela.\n\n"
         ),
         "bemba": (
-            "Uli kapyunga wa buumi uwashintilila pa buumi bwa banakashi abali ne fumo pamo ne kansa ya mulomo wa cibeleshi. "
-            "Tambilila ku lyasuko mwachindunji. "
-            "Pwishisheni ne cilembelo cipepa icilelanda ati ubu busuma tabusendapo icifulo ca kuyeshiwa kuli dokota.\n\n"
+            "Uli kapyunga wa buumi uwashintilila pa buumi bwa banakashi abali ne fumo pamo ne kansa ya cervix mu kampani ka Dawa Health. "
+            "Asuka amepusho ukubonfya amasuko ayalingile, ifishininkisho fyapafyabumi."
+            "Witampa ukwasuka na emukwayi, ehe nangu leka nondolole."
+             "Asuka ukwabula ukupita mumbali nangula mukulungam."
+            "Nga baipusha ukuti bushe ba dawa kuti baisa ku n'ganda?"
+            "Pwisheni nokuti ifyebo namyeba tafilefuma kuli dokota nagula ukupyana dokota.\n\n"
         ),
         "lozi": (
             "Mu muthusi wa za mapilo wa bucwani ya iketile hahulu ku mapilo a basali baimana ni kankere ya mulomo wa sibeleko. "
@@ -2508,10 +2511,10 @@ def handle_ask_week(sender, prompt, phone_id):
                 pattern = rf"\*Umulungu {week_num}:.*?(?=\*Umulungu {week_num+1}:|\*Question|\Z)"
                 match = re.search(pattern, info_text, re.S | re.I)
                 if match:
-                    send(f"Icibeela ca *Mulungu {week_num}:*\n\n{match.group(0).strip()}", sender, phone_id)
+                    send(f"Ifingi pa *Mulungu {week_num}:*\n\n{match.group(0).strip()}", sender, phone_id)
                     ask_another_week(sender, phone_id)
                 else:
-                    send(f"Natapa, nshasangile icibeela ca mulungu {week_num}. Esheni mulungu ubi ku 1 ukufika ku 40.", sender, phone_id)
+                    send(f"Natapa, nshasangile ifingi pa uyu mulungu {week_num}. Esheni mulungu ubi ukufuma pa 1 ukufika ku 40.", sender, phone_id)
 
             elif lang == "tonga":
                 pattern = rf"\*Nhwiiiki {week_num}:.*?(?=\*Nhwiiiki {week_num+1}:|\*Question|\Z)"
@@ -2535,7 +2538,7 @@ def handle_ask_week(sender, prompt, phone_id):
             range_map = {
                 "shona": "Ndapota isa vhiki kubva pa 1 kusvika pa 40 chete.",
                 "ndebele": "Sicela ufake iviki eliphakathi kuka-1 no-40 kuphela.",
-                "bemba": "Napapita, ingisha mulungu ukufuma pa 1 ukufika pa 40 fye.",
+                "bemba": "Chisuma, ingisha mulungu ukufuma pa 1 ukufika pa 40 fye.",
                 "chinyanja": "Chonde lowetsani sabata kuyambira pa 1 mpaka pa 40 basi.",
                 "tonga": "Ndatola, ingila vhiki kuzwa 1 kusika 40 pe.",
                 "lozi": "Ndapota, kenisa vhiki ku zwana 1 ku ya ku 40 feela.",
@@ -2546,7 +2549,7 @@ def handle_ask_week(sender, prompt, phone_id):
         range_map = {
             "shona": "Ndapota isa vhiki kubva pa 1 kusvika pa 40 chete.",
             "ndebele": "Sicela ufake iviki eliphakathi kuka-1 no-40 kuphela.",
-            "bemba": "Napapita, ingisha mulungu ukufuma pa 1 ukufika pa 40 fye.",
+            "bemba": "Napapata, ingisha mulungu ukufuma pa 1 ukufika pa 40 fye.",
             "chinyanja": "Chonde lowetsani sabata kuyambira pa 1 mpaka pa 40 basi.",
             "tonga": "Ndatola, ingila vhiki kuzwa 1 kusika 40 pe.",
             "lozi": "Ndapota, kenisa vhiki ku zwana 1 ku ya ku 40 feela.",
@@ -2609,7 +2612,7 @@ def webhook():
                                             non_text_map = {
                                                 "shona": "Ndine urombo, handigoni kugamuchira mameseji asiri mavara chete. Ndapota tumira meseji yemavara.",
                                                 "ndebele": "Uxolo, angikwazi ukwamukela imilayezo engeyona imibhalo kuphela. Sicela uthumele umlayezo wombhalo.",
-                                                "bemba": "Natapa, nshakwanishe ukupokeela amameseji yambi ukucila pa menso. Napapita, tuma ubutumwa bwamenso.",
+                                                "bemba": "Njelelako, Dekwanisha fye ukumona ama text meseji. Napapata, lemba meseji.",
                                                 "chinyanja": "Pepani, sindingathe kulandira mameseji enama osati a zilembo. Chonde tumirani meseji ya zilembo.",
                                                 "tonga": "Ndazwa kwiinda, tani konzy kujana mameseji aambi kusikwa aa mabbala. Ndatola, tuma meseji ya mabbala.",
                                                 "lozi": "Ni maswabi, ha na kona kuzwela miiala yeng'wi kufita feela ya mangolo. Ndapota, lumeza molaala wa mangolo.",
